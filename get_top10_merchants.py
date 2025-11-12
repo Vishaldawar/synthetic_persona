@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import sys
-from sklearn.metrics.pairwise import cosine_similarity
 
 
 match_data_path = sys.argv[1]
