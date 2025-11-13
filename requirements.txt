@@ -4,4 +4,3 @@ langchain==0.3.27
 json-repair
 sentence-transformers
 tiktoken
-llama-cpp-python[server]
