@@ -406,10 +406,10 @@ elif search_button and not merchant_name:
 # Display results if available
 if st.session_state.search_results is not None:
     st.subheader(f"Attributes for: {st.session_state.last_search}")
-    
+    attributes_df = st.session_state.search_results
     # Display the dataframe
     st.dataframe(
-        st.session_state.search_results,
+        attributes_df,
         use_container_width=True,
         hide_index=True
     )
@@ -454,7 +454,7 @@ if st.session_state.search_results is not None:
     st.subheader(f"Top 10 Closest Personas to: {st.session_state.last_search}")
     st.session_state.last_search = merchant_name
     st.dataframe(
-            st.session_state.search_results,
+            matches,
             use_container_width=True,
             hide_index=True
         )

@@ -1,2 +1,11 @@
 Query,Merchant Matched,Persona,Match Score
-Pepsi,Panera Bread,Standard Merchants,0.2727282344452875
+Pepsi,Comcast,Premium Merchants,0.46961087775025634
+Pepsi,Chevron,Premium Merchants,0.4604675200433571
+Pepsi,Tesla,Premium Merchants,0.45436582862729685
+Pepsi,Walmart,Premium Merchants,0.44945200094408644
+Pepsi,Hyatt,Premium Merchants,0.42294684019459616
+Pepsi,Lululemon,Premium Merchants,0.41978909184219304
+Pepsi,Charter Communications,Premium Merchants,0.3891282347843393
+Pepsi,Microsoft,Premium Merchants,0.37958986292283214
+Pepsi,Dunkin,Premium Merchants,0.3750447772855858
+Pepsi,General Motors,Premium Merchants,0.3659048932052006
