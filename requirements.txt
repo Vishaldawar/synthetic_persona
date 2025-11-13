@@ -1,5 +1,5 @@
 streamlit
 langchain_community
-langchain
+langchain==0.3.27
 json-repair
 sentence-transformers
