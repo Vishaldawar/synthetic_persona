@@ -3,3 +3,4 @@ langchain_community
 langchain==0.3.27
 json-repair
 sentence-transformers
+llama-cpp-python==0.3.16
