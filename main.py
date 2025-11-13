@@ -95,13 +95,17 @@ def attributes(input_value):
     all_files = os.listdir("./")
     pattern = input_value.lower().replace(" ","_").replace(".","")
     file_name = f"real_merchants_{pattern}.csv"
-    if file_name in all_files:
-        pass
+    data_path = f"real_merchants_info.csv"
+    data = pd.read_csv(data_path)
+    if file_name in all_files or input_value.lower() in [x.lower() for x in data['merchant_name'].unique()]:
+        data_path = f"real_merchants_info.csv"
+        attributes_path = f"attributes.csv"
+        attributes_n_embeddings_path = f"attributes_n_embeddings.csv"
     else:
         get_new_customer_attributes(input_value)
-    data_path = f"real_merchants_{pattern}.csv"
-    attributes_path = f"attributes_{pattern}.csv"
-    attributes_n_embeddings_path = f"attributes_n_embeddings_{pattern}.csv"
+        data_path = f"real_merchants_{pattern}.csv"
+        attributes_path = f"attributes_{pattern}.csv"
+        attributes_n_embeddings_path = f"attributes_n_embeddings_{pattern}.csv"
     data = pd.read_csv(data_path)
 
     cleaned_jsons = []
@@ -199,9 +203,20 @@ def match_customers(customer_name: str, embedding: List[float], data: pd.DataFra
     return matches
 
 def get_top10_closest(input_value):
+    all_files = os.listdir("./")
+    pattern = input_value.lower().replace(" ","_").replace(".","")
+    file_name = f"real_merchants_{pattern}.csv"
+    if file_name in all_files or input_value.lower() in [x.lower() for x in data['merchant_name'].unique()]:
+        data_path = f"real_merchants_info.csv"
+        attributes_path = f"attributes.csv"
+        attributes_n_embeddings_path = f"attributes_n_embeddings.csv"
+    else:
+        data_path = f"real_merchants_{pattern}.csv"
+        attributes_path = f"attributes_{pattern}.csv"
+        attributes_n_embeddings_path = f"attributes_n_embeddings_{pattern}.csv"
     match_data = pd.read_csv("attributes_n_embeddings.csv")
     pattern = input_value.lower().replace(" ","_").replace(".","")
-    customer_data = pd.read_csv(f"attributes_n_embeddings_{pattern}.csv")
+    customer_data = pd.read_csv(attributes_n_embeddings_path)
 
     embedding = customer_data[customer_data['merchant_name'] == input_value]['embedding'].values[0]
     embedding = ast.literal_eval(embedding)
@@ -221,6 +236,7 @@ from sklearn.preprocessing import StandardScaler
 from sentence_transformers import SentenceTransformer
 
 def generate_synthetic_merchants(
+    name: str,
     df: pd.DataFrame,
     n_synthetic: int = None,
     oversample_factor: float = None,
@@ -230,6 +246,7 @@ def generate_synthetic_merchants(
     Generate realistic synthetic merchant/transaction data using embeddings + nearest neighbors.
 
     Parameters:
+    - name: Name of the Merchant
     - df: Original DataFrame
     - n_synthetic: Total number of synthetic samples to generate (optional)
     - oversample_factor: Multiplier for oversampling (optional)
@@ -293,6 +310,7 @@ def generate_synthetic_merchants(
     df['type'] = 'real'
     synthetic_like['type'] = 'synthetic'
     augmented_df = pd.concat([df, synthetic_like], ignore_index=True)
+    augmented_df['merchant'] = name
     return augmented_df
 
 
@@ -360,9 +378,14 @@ if search_button and merchant_name:
                 attributes_path = f"attributes_{pattern}.csv"
                 df = pd.read_csv(attributes_path).T.reset_index()
             else:
-                st.success(f"✅ Retrieving data for {merchant_name}")
+                # st.success(f"✅ Retrieving data for {merchant_name}")
+                placeholder = st.empty()  # create a placeholder container
+
+                # show temporary message
+                placeholder.success(f"✅ Retrieving data for {merchant_name}")
+
                 attributes(merchant_name)
-                
+                placeholder.empty()
                 attributes_path = f"attributes_{pattern}.csv"
                 df = pd.read_csv(attributes_path).T.reset_index()
             
@@ -451,7 +474,7 @@ if st.session_state.search_results is not None:
     st.divider()
     all_transactions = pd.read_csv("all_transactions.csv")
     all_txns = all_transactions[all_transactions['merchant'].isin(matches['match'].unique())].reset_index(drop=True)
-    synthetic_txns = generate_synthetic_merchants(all_txns, n_synthetic=1000)
+    synthetic_txns = generate_synthetic_merchants(merchant_name, all_txns, n_synthetic=1000)
     st.session_state.search_results = synthetic_txns
     st.subheader(f"Synthetic Transactions generated for : {st.session_state.last_search}")
     st.session_state.last_search = merchant_name

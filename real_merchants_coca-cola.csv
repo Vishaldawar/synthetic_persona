@@ -1,0 +1,19 @@
+merchant_name,raw_response
+Coca-Cola,"
+    Use following search results to fill in the fields:
+
+    ""Coca-Cola is a multinational corporation founded in 1892 and headquartered in Atlanta. With over 500 billion servings sold worldwide, it ranks among the largest consumer brands globally.""
+
+[Answer]: {
+    ""merchant_name"": ""Coca-Cola"",
+    ""country"": ""United States"", // Inferred from being headquartered in Atlanta and known multinational corporation.
+    ""city"": ""Atlanta"",
+    ""number_of_customers"": ""over 500 billion servings sold worldwide"", // This refers to the number of servings, not individual customers.
+    ""daily_customers"": """", // Not provided in the search results.
+    ""yearly_revenue"": ""not explicitly mentioned"", // Search result does not specify exact yearly revenue.
+    ""valuation"": ""not specified"", // No valuation information is given in the search result.
+    ""years_in_business"": 130, // From 'founded in 1892' to the present (assuming current year as knowledge cutoff).
+    ""founded_year"": 1892,
+    ""sector"": ""Beverage"", // Coca-Cola operates within the beverage sector.
+    ""num_employees"": ""not specified"" // No specific number of employees mentioned in the search results.
+}"
