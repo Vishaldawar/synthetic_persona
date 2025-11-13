@@ -2,9 +2,9 @@ import streamlit as st
 import pandas as pd
 
 from langchain_community.tools import DuckDuckGoSearchRun
-from langchain.chains import LLMChain
+from langchain import chains
 from langchain.prompts import PromptTemplate
-from langchain_openai import ChatOpenAI  # or use your local model wrapper
+# from langchain_openai import ChatOpenAI  # or use your local model wrapper
 import numpy as np
 
 import time
@@ -64,7 +64,7 @@ def get_new_customer_attributes(input_value):
         template=prompt_template
     )
 
-    chain = LLMChain(llm=llm, prompt=prompt)
+    chain = chains.LLMChain(llm=llm, prompt=prompt)
 
 
     records = []
