@@ -1,0 +1,5 @@
+streamlit
+langchain-community
+langchain
+json-repair
+sentence-transformers
