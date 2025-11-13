@@ -13,7 +13,7 @@ import json
 import re
 from json_repair import repair_json
 from sentence_transformers import SentenceTransformer
-from langchain import LlamaCpp
+# from langchain import LlamaCpp
 from langchain_community.llms import LlamaCpp
 from typing import List
 import ast
