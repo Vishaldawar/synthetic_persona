@@ -285,7 +285,7 @@ def generate_synthetic_merchants(
     print(f"📈 Generating {n_synthetic} synthetic samples...")
 
     # --- Combine text columns into semantic text for embedding
-    text_data = df[text_cols].astype(str).agg(" ".join, axis=1)
+    text_data = df.head(1000)[text_cols].astype(str).agg(" ".join, axis=1)
     # print(text_data)
     # --- Generate embeddings
     model = SentenceTransformer(model_name)
