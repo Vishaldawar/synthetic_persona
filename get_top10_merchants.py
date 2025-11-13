@@ -8,7 +8,7 @@ customer_name = sys.argv[2]
 customer_data_path = sys.argv[3]
 matched_data_write_path = sys.argv[4]
 
-data = pd.read_csv(data_path)
+data = pd.read_csv(match_data_path)
 
 def findSimilarity(w1, w2):
     """

@@ -1,0 +1,5001 @@
+card_number,country_code,merchant,amount,mcc
+card_248,HKG,Cathay Pacific,593.08,Travel
+card_184,FRA,Carrefour,285.71,Groceries
+card_400,USA,Walmart,222.28,Groceries
+card_141,USA,Panera Bread,183.61,Restaurants
+card_20,USA,Airbnb,276.23,Hotels
+card_241,USA,Dunkin,55.24,Restaurants
+card_196,DEU,Lidl,26.84,Groceries
+card_271,USA,Walgreens,866.85,Retail
+card_321,USA,Shake Shack,184.32,Restaurants
+card_160,FRA,Air France-KLM,1076.71,Travel
+card_110,ARE,Emirates,79.85,Travel
+card_354,USA,Amazon,48.65,E-commerce
+card_229,USA,Panera Bread,251.41,Restaurants
+card_360,USA,Saks Fifth Avenue,216.28,Retail
+card_290,USA,Taco Bell,62.73,Restaurants
+card_117,USA,Google,998.68,Technology
+card_439,USA,AMC Theatres,18.69,Streaming
+card_111,USA,Verizon,527.13,Telecom
+card_251,USA,Kroger,135.26,Groceries
+card_362,USA,The Home Depot,294.77,Retail
+card_429,USA,Disney,32.53,Streaming
+card_168,USA,Regal Cinemas,11.28,Streaming
+card_245,USA,Nike,295.68,Retail
+card_385,USA,Regal Cinemas,21.49,Streaming
+card_29,USA,Williams-Sonoma,458.79,Retail
+card_492,USA,United Airlines,1188.51,Travel
+card_314,USA,Lululemon,203.68,Retail
+card_350,ARE,Emirates,795.64,Travel
+card_410,USA,T-Mobile,594.45,Telecom
+card_293,USA,Uniqlo,51.22,Retail
+card_146,USA,American Airlines,930.94,Travel
+card_36,USA,Ford,935.57,Automotive
+card_243,USA,Amazon,7.93,E-commerce
+card_44,USA,Hyatt,1425.88,Hotels
+card_221,USA,InterContinental Hotels,1450.17,Hotels
+card_238,USA,eBay,41.38,E-commerce
+card_85,USA,Expedia,491.69,Hotels
+card_136,USA,Shopify,9.4,E-commerce
+card_18,USA,Shopify,35.79,E-commerce
+card_56,USA,Tesla,2256.75,Automotive
+card_89,USA,American Airlines,226.96,Travel
+card_204,USA,Microsoft,2526.37,Technology
+card_200,USA,ExxonMobil,35.85,Energy
+card_288,SGP,Singapore Airlines,1368.51,Travel
+card_174,USA,InterContinental Hotels,425.23,Hotels
+card_84,USA,Uniqlo,664.21,Retail
+card_405,USA,Saks Fifth Avenue,315.15,Retail
+card_482,USA,Burger King,160.82,Restaurants
+card_53,FRA,Carrefour,168.55,Groceries
+card_151,FRA,Air France-KLM,318.04,Travel
+card_122,USA,TJX Companies,969.74,Retail
+card_334,USA,Universal Parks,39.88,Streaming
+card_394,DEU,Aldi,282.45,Groceries
+card_251,GBR,BP,182.12,Energy
+card_460,USA,CVS Health,599.91,Retail
+card_429,USA,Marriott International,1386.72,Hotels
+card_250,USA,Microsoft,533.61,Technology
+card_246,DEU,Lufthansa,334.18,Travel
+card_250,USA,Zara,50.0,Retail
+card_22,USA,Ford,1694.12,Automotive
+card_447,USA,Ross Stores,391.73,Retail
+card_42,USA,Gap Inc,274.99,Retail
+card_289,USA,Disney,42.29,Streaming
+card_56,SGP,Singapore Airlines,567.29,Travel
+card_73,USA,Regal Cinemas,17.64,Streaming
+card_302,USA,Universal Parks,29.42,Streaming
+card_177,USA,Walmart,50.87,Groceries
+card_224,JPN,Toyota,4030.77,Automotive
+card_13,HKG,Cathay Pacific,158.1,Travel
+card_372,USA,Microsoft,4935.75,Technology
+card_203,USA,Netflix,39.75,Streaming
+card_107,USA,Burger King,67.63,Restaurants
+card_386,USA,Disney,5.25,Streaming
+card_415,USA,Papa Johns,246.48,Restaurants
+card_406,USA,Booking.com,1074.94,Hotels
+card_169,USA,Williams-Sonoma,730.36,Retail
+card_500,USA,Burger King,233.67,Restaurants
+card_221,DEU,Lufthansa,157.36,Travel
+card_283,USA,Bed Bath & Beyond,361.67,Retail
+card_182,USA,Walgreens,120.29,Retail
+card_117,USA,Universal Parks,43.84,Streaming
+card_244,USA,Burger King,190.76,Restaurants
+card_32,USA,Dominos Pizza,105.96,Restaurants
+card_365,USA,Apple,411.44,Technology
+card_104,USA,CVS Health,314.43,Retail
+card_253,USA,Bed Bath & Beyond,328.56,Retail
+card_331,SGP,Singapore Airlines,1107.93,Travel
+card_462,USA,Dominos Pizza,194.89,Restaurants
+card_153,USA,Wayfair,44.92,E-commerce
+card_319,USA,H&M,474.85,Retail
+card_382,USA,Lowes,124.0,Retail
+card_363,DEU,Lufthansa,1084.2,Travel
+card_174,USA,Five Guys,230.63,Restaurants
+card_325,USA,Nordstrom,563.47,Retail
+card_298,USA,Williams-Sonoma,772.11,Retail
+card_83,USA,General Motors,2519.6,Automotive
+card_369,USA,Chipotle,161.59,Restaurants
+card_44,GBR,BP,102.68,Energy
+card_57,USA,Tesla,224.55,Automotive
+card_58,USA,Dominos Pizza,41.29,Restaurants
+card_200,USA,AMC Theatres,6.41,Streaming
+card_237,USA,Nordstrom,638.23,Retail
+card_245,USA,Google,1640.34,Technology
+card_189,USA,Starbucks,157.49,Restaurants
+card_188,USA,Shell,184.29,Energy
+card_158,USA,TJX Companies,253.05,Retail
+card_136,USA,Target,129.01,Groceries
+card_212,USA,TJX Companies,756.77,Retail
+card_403,USA,Walgreens,232.65,Retail
+card_247,USA,Pizza Hut,32.32,Restaurants
+card_52,USA,Bloomingdales,293.3,Retail
+card_19,USA,Williams-Sonoma,165.42,Retail
+card_416,USA,Starbucks,279.61,Restaurants
+card_278,USA,Uniqlo,809.08,Retail
+card_497,USA,Walgreens,635.24,Retail
+card_396,USA,Panera Bread,262.72,Restaurants
+card_127,USA,Dominos Pizza,243.06,Restaurants
+card_251,USA,Dunkin,64.11,Restaurants
+card_432,USA,Lowes,893.1,Retail
+card_21,USA,Bloomingdales,541.65,Retail
+card_193,USA,Tesla,4056.46,Automotive
+card_143,USA,AT&T,896.61,Telecom
+card_361,USA,Walmart,102.22,Groceries
+card_336,USA,Chick-fil-A,41.92,Restaurants
+card_207,USA,Uber,231.8,Retail
+card_302,USA,InterContinental Hotels,669.31,Hotels
+card_61,USA,Amazon,41.81,E-commerce
+card_126,FRA,Air France-KLM,1298.06,Travel
+card_209,USA,Ford,134.07,Automotive
+card_71,USA,InterContinental Hotels,790.58,Hotels
+card_297,USA,eBay,23.78,E-commerce
+card_363,USA,Comcast,226.0,Telecom
+card_215,USA,Chevron,50.38,Energy
+card_435,USA,ExxonMobil,87.39,Energy
+card_352,USA,Safeway,283.44,Groceries
+card_236,USA,Comcast,326.59,Telecom
+card_45,USA,Comcast,521.2,Telecom
+card_132,USA,Five Guys,213.88,Restaurants
+card_279,USA,Macys,366.81,Retail
+card_98,USA,Neiman Marcus,971.92,Retail
+card_228,USA,Dunkin,289.11,Restaurants
+card_107,USA,McDonalds,83.02,Restaurants
+card_414,USA,Chipotle,154.2,Restaurants
+card_120,USA,Nike,304.37,Retail
+card_454,USA,Shopify,17.82,E-commerce
+card_494,FRA,Carrefour,20.7,Groceries
+card_303,USA,Delta Air Lines,933.87,Travel
+card_396,USA,Walmart,155.78,Groceries
+card_498,USA,Williams-Sonoma,56.22,Retail
+card_425,USA,Subway,90.81,Restaurants
+card_414,USA,TJX Companies,908.72,Retail
+card_81,USA,Walgreens,243.36,Retail
+card_352,USA,United Airlines,260.1,Travel
+card_121,USA,Saks Fifth Avenue,492.01,Retail
+card_134,DEU,Aldi,295.84,Groceries
+card_417,USA,Hilton,400.98,Hotels
+card_61,USA,Charter Communications,673.77,Telecom
+card_371,GBR,British Airways,1154.35,Travel
+card_460,USA,Five Guys,78.91,Restaurants
+card_403,USA,Chipotle,221.18,Restaurants
+card_406,USA,Walgreens,370.94,Retail
+card_323,USA,Lowes,634.14,Retail
+card_33,USA,Lowes,635.36,Retail
+card_372,USA,Wendys,165.37,Restaurants
+card_214,USA,Taco Bell,36.18,Restaurants
+card_455,USA,McDonalds,252.24,Restaurants
+card_492,USA,Google,1671.82,Technology
+card_176,USA,The Home Depot,190.59,Retail
+card_278,USA,Best Buy,45.57,Retail
+card_295,USA,Etsy,31.59,E-commerce
+card_455,USA,Chevron,145.19,Energy
+card_369,USA,Gap Inc,21.5,Retail
+card_418,USA,TJX Companies,514.53,Retail
+card_363,DEU,Lufthansa,378.42,Travel
+card_302,USA,PayPal,3261.35,Technology
+card_252,USA,McDonalds,60.57,Restaurants
+card_81,USA,Delta Air Lines,1051.86,Travel
+card_478,FRA,Carrefour,122.15,Groceries
+card_211,USA,Bed Bath & Beyond,937.05,Retail
+card_260,USA,Walgreens,141.83,Retail
+card_369,USA,United Airlines,544.55,Travel
+card_73,USA,Panera Bread,42.91,Restaurants
+card_136,USA,Kohls,925.07,Retail
+card_186,USA,Expedia,1322.14,Hotels
+card_121,USA,Airbnb,424.02,Hotels
+card_41,USA,KFC,201.4,Restaurants
+card_128,USA,KFC,246.99,Restaurants
+card_318,USA,CVS Health,557.42,Retail
+card_129,USA,Delta Air Lines,817.99,Travel
+card_330,DEU,Aldi,80.14,Groceries
+card_159,USA,Spotify,9.19,Streaming
+card_130,DEU,Lufthansa,1350.96,Travel
+card_90,USA,Shell,183.07,Energy
+card_153,USA,Burger King,193.6,Restaurants
+card_391,USA,Lowes,342.33,Retail
+card_157,USA,United Airlines,556.35,Travel
+card_133,HKG,Cathay Pacific,1102.64,Travel
+card_408,USA,InterContinental Hotels,1350.81,Hotels
+card_250,USA,Ford,4446.72,Automotive
+card_245,USA,Nordstrom,780.98,Retail
+card_20,USA,Whole Foods,196.19,Groceries
+card_28,USA,Hyatt,172.0,Hotels
+card_419,USA,Taco Bell,56.87,Restaurants
+card_201,USA,Panera Bread,270.58,Restaurants
+card_184,USA,IKEA,608.4,Retail
+card_75,USA,Lowes,14.15,Retail
+card_165,USA,General Motors,597.21,Automotive
+card_201,USA,Ross Stores,665.18,Retail
+card_301,USA,KFC,11.47,Restaurants
+card_51,USA,Ross Stores,165.0,Retail
+card_168,GBR,Tesco,169.13,Groceries
+card_338,HKG,Cathay Pacific,1053.25,Travel
+card_290,JPN,Toyota,3294.61,Automotive
+card_474,USA,T-Mobile,228.15,Telecom
+card_24,USA,Zara,713.62,Retail
+card_451,USA,Kroger,78.8,Groceries
+card_424,USA,Booking.com,521.83,Hotels
+card_176,USA,Neiman Marcus,747.76,Retail
+card_318,USA,AT&T,651.38,Telecom
+card_398,USA,Wayfair,43.22,E-commerce
+card_47,USA,McDonalds,200.71,Restaurants
+card_101,USA,Regal Cinemas,30.57,Streaming
+card_144,USA,Trader Joes,37.17,Groceries
+card_431,USA,General Motors,1901.81,Automotive
+card_243,USA,Verizon,268.88,Telecom
+card_271,USA,Chick-fil-A,80.76,Restaurants
+card_218,USA,Hilton,1460.87,Hotels
+card_281,USA,Bloomingdales,396.13,Retail
+card_89,USA,InterContinental Hotels,1343.47,Hotels
+card_416,JPN,Toyota,3192.58,Automotive
+card_154,USA,United Airlines,1202.48,Travel
+card_33,USA,Best Buy,505.12,Retail
+card_163,USA,Uniqlo,579.02,Retail
+card_279,USA,Panera Bread,152.83,Restaurants
+card_174,GBR,BP,63.19,Energy
+card_268,USA,Charter Communications,723.84,Telecom
+card_51,USA,Lululemon,284.37,Retail
+card_95,USA,Etsy,6.09,E-commerce
+card_458,USA,Charter Communications,647.24,Telecom
+card_279,USA,CVS Health,181.23,Retail
+card_410,USA,Charter Communications,940.76,Telecom
+card_345,DEU,Lidl,286.64,Groceries
+card_354,USA,TJX Companies,915.29,Retail
+card_397,USA,American Airlines,586.73,Travel
+card_174,USA,Lowes,20.38,Retail
+card_13,USA,eBay,46.77,E-commerce
+card_17,GBR,BP,102.79,Energy
+card_271,USA,Bloomingdales,966.82,Retail
+card_168,USA,Dominos Pizza,289.45,Restaurants
+card_144,USA,Ross Stores,853.74,Retail
+card_149,USA,Panera Bread,95.39,Restaurants
+card_395,USA,Neiman Marcus,388.17,Retail
+card_338,USA,eBay,43.3,E-commerce
+card_235,USA,United Airlines,509.54,Travel
+card_70,USA,Adidas,173.65,Retail
+card_150,USA,Chevron,124.66,Energy
+card_399,USA,H&M,936.47,Retail
+card_389,USA,AMC Theatres,36.32,Streaming
+card_54,USA,Papa Johns,175.32,Restaurants
+card_41,USA,American Airlines,190.91,Travel
+card_366,USA,IKEA,616.93,Retail
+card_134,USA,Universal Parks,49.55,Streaming
+card_199,USA,The Home Depot,144.38,Retail
+card_291,USA,Hyatt,801.58,Hotels
+card_381,USA,Best Buy,877.99,Retail
+card_315,USA,Ford,3729.77,Automotive
+card_243,GBR,British Airways,1060.67,Travel
+card_292,USA,Wendys,213.72,Restaurants
+card_10,USA,Papa Johns,114.25,Restaurants
+card_14,USA,Verizon,297.12,Telecom
+card_430,USA,Walmart,244.71,Groceries
+card_264,USA,Universal Parks,41.46,Streaming
+card_197,USA,United Airlines,1307.25,Travel
+card_129,USA,Comcast,913.67,Telecom
+card_208,USA,Subway,158.29,Restaurants
+card_162,USA,TJX Companies,504.01,Retail
+card_326,USA,Burger King,241.51,Restaurants
+card_34,USA,T-Mobile,651.71,Telecom
+card_78,USA,Five Guys,213.57,Restaurants
+card_266,USA,Subway,240.78,Restaurants
+card_73,USA,Costco,268.1,Groceries
+card_391,USA,eBay,20.21,E-commerce
+card_487,SGP,Singapore Airlines,594.6,Travel
+card_279,USA,Wendys,37.25,Restaurants
+card_307,USA,Best Buy,580.39,Retail
+card_188,USA,Spotify,6.62,Streaming
+card_160,DEU,Aldi,145.02,Groceries
+card_191,USA,Regal Cinemas,29.42,Streaming
+card_403,USA,Panera Bread,93.1,Restaurants
+card_284,USA,United Airlines,906.71,Travel
+card_304,USA,Kohls,35.35,Retail
+card_180,USA,IKEA,42.16,Retail
+card_186,USA,AT&T,823.49,Telecom
+card_127,USA,Lowes,363.39,Retail
+card_239,USA,Gap Inc,131.43,Retail
+card_245,USA,Papa Johns,161.45,Restaurants
+card_310,USA,Nike,771.14,Retail
+card_495,USA,Adidas,219.74,Retail
+card_49,USA,Taco Bell,190.64,Restaurants
+card_400,USA,H&M,89.92,Retail
+card_83,USA,ExxonMobil,38.79,Energy
+card_69,USA,McDonalds,164.09,Restaurants
+card_459,HKG,Cathay Pacific,833.92,Travel
+card_223,USA,Lowes,639.24,Retail
+card_103,USA,Whole Foods,220.57,Groceries
+card_326,USA,Bed Bath & Beyond,975.97,Retail
+card_285,USA,Lowes,518.72,Retail
+card_326,USA,Chipotle,103.66,Restaurants
+card_452,USA,KFC,240.6,Restaurants
+card_325,ARE,Emirates,442.71,Travel
+card_128,USA,Etsy,24.75,E-commerce
+card_324,USA,T-Mobile,83.06,Telecom
+card_83,USA,Charter Communications,30.22,Telecom
+card_113,USA,Panera Bread,289.17,Restaurants
+card_499,USA,Airbnb,1262.17,Hotels
+card_386,USA,Saks Fifth Avenue,697.49,Retail
+card_422,USA,Hyatt,642.98,Hotels
+card_338,USA,CVS Health,177.43,Retail
+card_192,ARE,Emirates,276.83,Travel
+card_206,USA,Walmart,82.57,Groceries
+card_358,USA,Southwest Airlines,846.38,Travel
+card_81,USA,The Home Depot,716.02,Retail
+card_396,DEU,Aldi,201.46,Groceries
+card_298,DEU,Lufthansa,455.9,Travel
+card_261,USA,Subway,286.91,Restaurants
+card_305,FRA,Carrefour,223.99,Groceries
+card_62,USA,Lowes,556.58,Retail
+card_175,USA,McDonalds,187.4,Restaurants
+card_387,USA,Nordstrom,422.5,Retail
+card_330,USA,H&M,251.49,Retail
+card_338,DEU,Aldi,113.23,Groceries
+card_53,USA,Neiman Marcus,759.06,Retail
+card_423,DEU,Aldi,14.17,Groceries
+card_120,GBR,BP,49.73,Energy
+card_321,USA,Uniqlo,50.77,Retail
+card_424,USA,Papa Johns,21.81,Restaurants
+card_69,USA,Gap Inc,856.18,Retail
+card_69,USA,Comcast,705.14,Telecom
+card_279,USA,Microsoft,2423.45,Technology
+card_99,GBR,Tesco,38.37,Groceries
+card_71,USA,Five Guys,152.57,Restaurants
+card_117,USA,Target,147.31,Groceries
+card_306,USA,Amazon,12.79,E-commerce
+card_161,GBR,British Airways,679.08,Travel
+card_95,USA,United Airlines,627.83,Travel
+card_147,USA,Nike,617.77,Retail
+card_369,USA,Apple,3211.96,Technology
+card_386,USA,Bed Bath & Beyond,50.08,Retail
+card_12,USA,Lululemon,377.74,Retail
+card_206,USA,Marriott International,957.5,Hotels
+card_274,USA,PayPal,2565.37,Technology
+card_332,FRA,Air France-KLM,1291.91,Travel
+card_156,USA,Shake Shack,201.02,Restaurants
+card_141,FRA,Air France-KLM,286.25,Travel
+card_14,USA,Publix,30.46,Groceries
+card_258,USA,Gap Inc,644.21,Retail
+card_369,USA,General Motors,229.91,Automotive
+card_166,USA,Publix,179.87,Groceries
+card_287,USA,Gap Inc,940.53,Retail
+card_146,USA,PayPal,2919.82,Technology
+card_462,USA,Lowes,391.23,Retail
+card_238,USA,Walmart,196.55,Groceries
+card_155,USA,AT&T,460.96,Telecom
+card_136,DEU,Aldi,168.23,Groceries
+card_195,USA,Expedia,1415.12,Hotels
+card_279,USA,Pizza Hut,121.97,Restaurants
+card_56,USA,Zara,961.38,Retail
+card_46,GBR,Tesco,272.55,Groceries
+card_312,USA,Comcast,199.81,Telecom
+card_162,USA,Chevron,41.79,Energy
+card_268,USA,Airbnb,196.13,Hotels
+card_77,USA,Kroger,15.28,Groceries
+card_36,SGP,Singapore Airlines,186.94,Travel
+card_20,USA,Uniqlo,684.59,Retail
+card_85,USA,Safeway,30.64,Groceries
+card_160,USA,Uniqlo,322.38,Retail
+card_327,USA,The Home Depot,845.65,Retail
+card_244,USA,The Home Depot,28.16,Retail
+card_209,USA,Zara,815.4,Retail
+card_492,USA,H&M,285.45,Retail
+card_41,USA,Pizza Hut,44.27,Restaurants
+card_15,USA,Lowes,698.25,Retail
+card_13,USA,InterContinental Hotels,961.97,Hotels
+card_61,USA,Starbucks,264.47,Restaurants
+card_446,SGP,Singapore Airlines,1115.85,Travel
+card_50,JPN,Toyota,4037.06,Automotive
+card_425,USA,Uber,285.62,Retail
+card_197,USA,Bed Bath & Beyond,181.55,Retail
+card_445,USA,Etsy,38.78,E-commerce
+card_86,USA,T-Mobile,807.8,Telecom
+card_152,USA,Best Buy,990.55,Retail
+card_434,USA,AMC Theatres,23.57,Streaming
+card_406,USA,CVS Health,375.16,Retail
+card_255,DEU,Lidl,235.16,Groceries
+card_288,JPN,Toyota,1769.94,Automotive
+card_78,USA,Ross Stores,931.1,Retail
+card_322,USA,Hyatt,1294.7,Hotels
+card_372,USA,Trader Joes,134.41,Groceries
+card_33,USA,Panera Bread,227.75,Restaurants
+card_472,USA,Uniqlo,755.77,Retail
+card_63,USA,Ticketmaster,107.61,Ticketing
+card_299,USA,Hilton,1358.7,Hotels
+card_389,USA,Starbucks,156.52,Restaurants
+card_374,FRA,Carrefour,249.67,Groceries
+card_196,USA,Comcast,323.45,Telecom
+card_416,USA,Ross Stores,896.05,Retail
+card_1,USA,Lululemon,392.26,Retail
+card_96,USA,Five Guys,13.14,Restaurants
+card_442,USA,Charter Communications,905.86,Telecom
+card_59,USA,Nordstrom,95.83,Retail
+card_485,USA,Verizon,322.72,Telecom
+card_455,USA,Chick-fil-A,285.52,Restaurants
+card_468,HKG,Cathay Pacific,1428.38,Travel
+card_170,USA,Tesla,2909.85,Automotive
+card_401,USA,McDonalds,193.23,Restaurants
+card_335,USA,Ross Stores,451.2,Retail
+card_413,USA,Saks Fifth Avenue,296.74,Retail
+card_134,USA,CVS Health,332.02,Retail
+card_168,DEU,Lidl,205.03,Groceries
+card_425,USA,McDonalds,228.19,Restaurants
+card_125,USA,Ross Stores,792.62,Retail
+card_407,JPN,Toyota,3969.13,Automotive
+card_259,USA,Papa Johns,36.45,Restaurants
+card_5,USA,Trader Joes,153.38,Groceries
+card_174,USA,T-Mobile,62.27,Telecom
+card_52,USA,H&M,551.78,Retail
+card_487,USA,Hyatt,690.22,Hotels
+card_8,USA,Trader Joes,267.43,Groceries
+card_444,USA,Whole Foods,111.77,Groceries
+card_389,USA,Adidas,121.48,Retail
+card_277,USA,AT&T,147.28,Telecom
+card_180,USA,Dunkin,230.84,Restaurants
+card_167,USA,Shopify,32.82,E-commerce
+card_38,USA,Target,39.33,Groceries
+card_102,USA,Expedia,171.95,Hotels
+card_277,USA,Etsy,36.54,E-commerce
+card_384,USA,Pizza Hut,31.1,Restaurants
+card_86,HKG,Cathay Pacific,1241.7,Travel
+card_209,USA,Shell,150.06,Energy
+card_336,USA,Disney,8.66,Streaming
+card_394,USA,Panera Bread,34.6,Restaurants
+card_492,USA,Bed Bath & Beyond,986.71,Retail
+card_468,USA,American Airlines,592.69,Travel
+card_240,USA,Wayfair,21.68,E-commerce
+card_41,USA,Taco Bell,245.71,Restaurants
+card_32,USA,Costco,284.7,Groceries
+card_12,SGP,Singapore Airlines,1479.7,Travel
+card_361,USA,Taco Bell,228.48,Restaurants
+card_413,USA,Disney,21.93,Streaming
+card_102,USA,AT&T,88.08,Telecom
+card_393,USA,Disney,39.97,Streaming
+card_499,USA,American Airlines,859.69,Travel
+card_311,USA,AT&T,427.1,Telecom
+card_268,USA,United Airlines,1364.21,Travel
+card_485,USA,Uber,115.64,Retail
+card_22,USA,Lowes,495.16,Retail
+card_328,USA,Kroger,13.29,Groceries
+card_145,USA,Kroger,145.91,Groceries
+card_112,USA,ExxonMobil,39.57,Energy
+card_226,USA,American Airlines,222.29,Travel
+card_188,USA,Lululemon,121.94,Retail
+card_117,USA,Five Guys,198.27,Restaurants
+card_285,USA,TJX Companies,747.31,Retail
+card_374,USA,KFC,179.18,Restaurants
+card_216,USA,Nike,962.36,Retail
+card_106,USA,CVS Health,378.0,Retail
+card_347,USA,eBay,17.86,E-commerce
+card_186,JPN,Toyota,4356.14,Automotive
+card_355,USA,Chipotle,74.84,Restaurants
+card_194,USA,Bed Bath & Beyond,963.41,Retail
+card_394,USA,Safeway,13.52,Groceries
+card_287,USA,Bed Bath & Beyond,970.03,Retail
+card_354,DEU,Lufthansa,112.58,Travel
+card_35,USA,Regal Cinemas,45.1,Streaming
+card_489,FRA,Air France-KLM,815.17,Travel
+card_415,USA,Walmart,297.96,Groceries
+card_439,HKG,Cathay Pacific,157.01,Travel
+card_165,USA,Costco,170.62,Groceries
+card_413,USA,Neiman Marcus,969.46,Retail
+card_352,USA,Shopify,28.54,E-commerce
+card_15,USA,KFC,192.53,Restaurants
+card_38,USA,Spotify,36.31,Streaming
+card_86,USA,Charter Communications,457.27,Telecom
+card_242,USA,KFC,191.99,Restaurants
+card_152,USA,Shopify,31.29,E-commerce
+card_46,USA,Shake Shack,271.34,Restaurants
+card_480,USA,T-Mobile,50.22,Telecom
+card_428,USA,American Airlines,457.4,Travel
+card_221,HKG,Cathay Pacific,1428.1,Travel
+card_407,FRA,Carrefour,268.18,Groceries
+card_264,USA,Charter Communications,458.38,Telecom
+card_417,USA,PayPal,3138.65,Technology
+card_154,USA,Amazon,17.48,E-commerce
+card_237,GBR,Tesco,64.56,Groceries
+card_296,USA,Safeway,144.47,Groceries
+card_2,USA,Chipotle,112.47,Restaurants
+card_22,USA,Saks Fifth Avenue,585.74,Retail
+card_30,USA,Ross Stores,82.35,Retail
+card_11,USA,Marriott International,1462.87,Hotels
+card_47,USA,Macys,986.28,Retail
+card_149,USA,Dominos Pizza,212.47,Restaurants
+card_43,USA,KFC,165.47,Restaurants
+card_387,USA,Kohls,312.98,Retail
+card_358,USA,Google,4087.6,Technology
+card_363,USA,Kohls,686.31,Retail
+card_256,HKG,Cathay Pacific,285.79,Travel
+card_375,USA,Dominos Pizza,274.17,Restaurants
+card_190,USA,Zara,823.42,Retail
+card_262,USA,AT&T,950.05,Telecom
+card_40,USA,Etsy,37.66,E-commerce
+card_16,USA,Verizon,615.35,Telecom
+card_170,USA,Nike,421.15,Retail
+card_212,USA,Booking.com,1402.46,Hotels
+card_359,USA,Netflix,43.97,Streaming
+card_344,GBR,Tesco,23.11,Groceries
+card_419,USA,General Motors,229.2,Automotive
+card_285,USA,Papa Johns,119.17,Restaurants
+card_486,USA,Shake Shack,245.06,Restaurants
+card_454,USA,Marriott International,1481.55,Hotels
+card_181,USA,Costco,53.62,Groceries
+card_397,USA,H&M,596.16,Retail
+card_372,HKG,Cathay Pacific,602.29,Travel
+card_33,USA,KFC,291.28,Restaurants
+card_106,USA,Lululemon,842.91,Retail
+card_500,FRA,Carrefour,253.12,Groceries
+card_119,GBR,British Airways,729.61,Travel
+card_344,USA,American Airlines,651.49,Travel
+card_414,USA,Trader Joes,89.29,Groceries
+card_91,USA,Hyatt,131.74,Hotels
+card_428,USA,AMC Theatres,43.91,Streaming
+card_387,USA,Google,4083.21,Technology
+card_446,USA,Panera Bread,299.92,Restaurants
+card_359,USA,Nordstrom,996.65,Retail
+card_489,USA,Spotify,29.99,Streaming
+card_85,DEU,Lufthansa,1165.03,Travel
+card_226,USA,Neiman Marcus,945.04,Retail
+card_494,USA,Spotify,43.23,Streaming
+card_301,USA,Trader Joes,81.73,Groceries
+card_485,USA,Delta Air Lines,703.29,Travel
+card_438,USA,Whole Foods,47.46,Groceries
+card_57,USA,Papa Johns,286.67,Restaurants
+card_453,FRA,Air France-KLM,928.95,Travel
+card_222,USA,Microsoft,1220.35,Technology
+card_273,USA,Burger King,204.79,Restaurants
+card_451,USA,TJX Companies,620.04,Retail
+card_78,USA,Chipotle,113.87,Restaurants
+card_490,USA,Amazon,10.11,E-commerce
+card_221,USA,Whole Foods,204.76,Groceries
+card_403,DEU,Lufthansa,804.45,Travel
+card_195,USA,Marriott International,1169.86,Hotels
+card_224,GBR,BP,118.43,Energy
+card_145,USA,Apple,4275.69,Technology
+card_187,USA,eBay,29.84,E-commerce
+card_386,USA,Adidas,563.13,Retail
+card_212,USA,Verizon,877.27,Telecom
+card_447,USA,ExxonMobil,98.59,Energy
+card_85,USA,T-Mobile,138.35,Telecom
+card_469,USA,Target,18.35,Groceries
+card_37,USA,Uniqlo,756.36,Retail
+card_22,GBR,Tesco,189.89,Groceries
+card_67,USA,CVS Health,705.56,Retail
+card_113,USA,Costco,71.76,Groceries
+card_15,USA,Universal Parks,11.14,Streaming
+card_440,USA,Verizon,19.47,Telecom
+card_361,USA,Southwest Airlines,558.35,Travel
+card_110,USA,InterContinental Hotels,905.38,Hotels
+card_330,USA,Taco Bell,123.75,Restaurants
+card_32,USA,Verizon,440.29,Telecom
+card_445,USA,Adidas,904.64,Retail
+card_461,USA,General Motors,1806.45,Automotive
+card_401,USA,Lowes,516.42,Retail
+card_123,USA,Marriott International,1186.3,Hotels
+card_70,USA,McDonalds,125.0,Restaurants
+card_159,GBR,British Airways,952.03,Travel
+card_91,GBR,Tesco,260.09,Groceries
+card_380,USA,Dominos Pizza,285.36,Restaurants
+card_128,USA,Shopify,11.62,E-commerce
+card_85,USA,Southwest Airlines,1393.55,Travel
+card_416,USA,Lowes,494.66,Retail
+card_268,USA,Airbnb,424.45,Hotels
+card_419,USA,Nordstrom,461.84,Retail
+card_384,USA,Papa Johns,294.21,Restaurants
+card_14,USA,eBay,27.17,E-commerce
+card_454,USA,General Motors,1710.88,Automotive
+card_170,USA,Williams-Sonoma,635.23,Retail
+card_404,USA,McDonalds,79.64,Restaurants
+card_370,USA,Tesla,471.73,Automotive
+card_287,USA,Pizza Hut,47.38,Restaurants
+card_40,USA,Ford,727.42,Automotive
+card_418,USA,Taco Bell,54.05,Restaurants
+card_79,USA,Adidas,143.13,Retail
+card_352,USA,Whole Foods,195.85,Groceries
+card_147,SGP,Singapore Airlines,313.73,Travel
+card_58,USA,Ross Stores,348.94,Retail
+card_362,USA,Uber,897.3,Retail
+card_76,HKG,Cathay Pacific,737.24,Travel
+card_70,USA,Regal Cinemas,35.04,Streaming
+card_187,USA,Trader Joes,59.97,Groceries
+card_266,USA,The Home Depot,196.33,Retail
+card_238,USA,Kohls,45.66,Retail
+card_436,USA,The Home Depot,173.09,Retail
+card_395,USA,Dominos Pizza,90.79,Restaurants
+card_378,FRA,Carrefour,61.33,Groceries
+card_161,USA,H&M,93.26,Retail
+card_31,USA,Ross Stores,125.03,Retail
+card_376,USA,Apple,2357.82,Technology
+card_327,USA,Five Guys,69.84,Restaurants
+card_1,USA,Wayfair,21.39,E-commerce
+card_288,USA,Verizon,505.9,Telecom
+card_224,USA,Uber,691.94,Retail
+card_480,USA,Chipotle,21.4,Restaurants
+card_178,USA,InterContinental Hotels,1209.15,Hotels
+card_261,USA,Dunkin,192.09,Restaurants
+card_6,USA,H&M,86.35,Retail
+card_12,USA,Dominos Pizza,263.34,Restaurants
+card_43,USA,Chipotle,277.05,Restaurants
+card_162,USA,Marriott International,138.56,Hotels
+card_163,USA,Panera Bread,90.29,Restaurants
+card_112,USA,Charter Communications,807.17,Telecom
+card_307,USA,Taco Bell,227.0,Restaurants
+card_396,USA,Trader Joes,63.51,Groceries
+card_276,USA,Delta Air Lines,353.56,Travel
+card_427,USA,Wendys,117.44,Restaurants
+card_112,USA,Burger King,150.51,Restaurants
+card_108,USA,InterContinental Hotels,946.47,Hotels
+card_121,USA,Tesla,1907.68,Automotive
+card_227,FRA,Air France-KLM,720.68,Travel
+card_90,USA,Adidas,748.73,Retail
+card_187,USA,Ross Stores,41.5,Retail
+card_179,USA,Etsy,16.36,E-commerce
+card_473,USA,Burger King,216.87,Restaurants
+card_262,USA,The Home Depot,895.73,Retail
+card_151,USA,AT&T,514.12,Telecom
+card_442,USA,AT&T,534.45,Telecom
+card_324,GBR,British Airways,205.4,Travel
+card_48,USA,Bloomingdales,450.18,Retail
+card_419,USA,Best Buy,534.95,Retail
+card_131,USA,Saks Fifth Avenue,246.26,Retail
+card_308,USA,Wayfair,17.12,E-commerce
+card_309,USA,Comcast,380.4,Telecom
+card_62,USA,Williams-Sonoma,24.97,Retail
+card_179,USA,Booking.com,517.01,Hotels
+card_221,USA,Starbucks,71.32,Restaurants
+card_492,USA,Gap Inc,330.86,Retail
+card_74,USA,United Airlines,223.66,Travel
+card_466,USA,Uniqlo,891.07,Retail
+card_491,FRA,Carrefour,182.14,Groceries
+card_139,USA,Papa Johns,206.94,Restaurants
+card_256,USA,Shopify,40.51,E-commerce
+card_277,USA,Macys,500.95,Retail
+card_496,USA,Netflix,8.91,Streaming
+card_310,USA,H&M,539.42,Retail
+card_195,USA,Adidas,588.91,Retail
+card_129,DEU,Aldi,226.18,Groceries
+card_365,DEU,Lufthansa,675.91,Travel
+card_130,SGP,Singapore Airlines,234.99,Travel
+card_372,USA,Charter Communications,287.36,Telecom
+card_253,USA,Verizon,366.27,Telecom
+card_74,USA,Expedia,986.58,Hotels
+card_473,USA,CVS Health,572.92,Retail
+card_49,USA,Kroger,113.27,Groceries
+card_150,USA,Trader Joes,296.09,Groceries
+card_156,USA,Burger King,185.67,Restaurants
+card_276,JPN,Toyota,1262.41,Automotive
+card_70,USA,Wayfair,9.58,E-commerce
+card_248,USA,Chick-fil-A,54.33,Restaurants
+card_342,USA,Comcast,249.73,Telecom
+card_96,USA,TJX Companies,164.88,Retail
+card_380,GBR,Tesco,64.1,Groceries
+card_59,USA,Papa Johns,92.68,Restaurants
+card_65,USA,Costco,60.28,Groceries
+card_480,USA,American Airlines,1350.31,Travel
+card_350,USA,Hilton,166.34,Hotels
+card_11,USA,Ford,2670.11,Automotive
+card_254,USA,Costco,129.02,Groceries
+card_125,USA,Nordstrom,982.47,Retail
+card_276,USA,Uber,116.48,Retail
+card_406,GBR,Tesco,125.38,Groceries
+card_14,USA,Lululemon,969.62,Retail
+card_389,USA,Lowes,866.18,Retail
+card_189,USA,ExxonMobil,168.9,Energy
+card_88,USA,Booking.com,423.96,Hotels
+card_275,USA,Regal Cinemas,12.69,Streaming
+card_58,USA,Verizon,670.3,Telecom
+card_111,DEU,Lufthansa,1397.6,Travel
+card_133,USA,Five Guys,171.46,Restaurants
+card_447,USA,Kroger,175.77,Groceries
+card_109,USA,Expedia,455.97,Hotels
+card_216,USA,Shake Shack,233.15,Restaurants
+card_223,USA,Netflix,13.42,Streaming
+card_242,USA,Ticketmaster,327.06,Ticketing
+card_428,USA,PayPal,2184.64,Technology
+card_234,USA,Pizza Hut,157.21,Restaurants
+card_376,USA,Trader Joes,80.3,Groceries
+card_223,USA,Lowes,119.26,Retail
+card_191,USA,Bloomingdales,612.57,Retail
+card_44,JPN,Toyota,1514.29,Automotive
+card_477,USA,Subway,178.56,Restaurants
+card_185,DEU,Aldi,54.77,Groceries
+card_113,USA,Google,2457.59,Technology
+card_266,USA,Uniqlo,534.93,Retail
+card_429,USA,American Airlines,125.14,Travel
+card_32,USA,Wendys,107.62,Restaurants
+card_250,USA,Subway,48.98,Restaurants
+card_194,USA,Shell,40.77,Energy
+card_202,USA,Walgreens,990.01,Retail
+card_168,USA,KFC,103.48,Restaurants
+card_36,USA,Shell,167.68,Energy
+card_160,USA,General Motors,1347.74,Automotive
+card_150,USA,Uber,683.1,Retail
+card_115,USA,Burger King,230.47,Restaurants
+card_22,USA,Apple,3018.63,Technology
+card_200,USA,American Airlines,733.79,Travel
+card_120,USA,United Airlines,647.17,Travel
+card_345,USA,Lowes,352.12,Retail
+card_450,USA,Lululemon,929.88,Retail
+card_385,USA,Macys,831.47,Retail
+card_79,USA,Delta Air Lines,1449.29,Travel
+card_203,USA,Amazon,10.59,E-commerce
+card_315,USA,Wendys,221.95,Restaurants
+card_152,USA,AMC Theatres,47.23,Streaming
+card_462,USA,General Motors,988.04,Automotive
+card_413,USA,IKEA,71.16,Retail
+card_29,USA,Shopify,38.35,E-commerce
+card_225,DEU,Lidl,176.6,Groceries
+card_158,USA,General Motors,4224.96,Automotive
+card_458,USA,Zara,144.07,Retail
+card_104,USA,Charter Communications,796.29,Telecom
+card_318,USA,Safeway,68.47,Groceries
+card_140,USA,AMC Theatres,12.36,Streaming
+card_89,USA,CVS Health,168.44,Retail
+card_262,USA,Shake Shack,246.23,Restaurants
+card_178,USA,Nordstrom,666.87,Retail
+card_21,USA,Dunkin,161.69,Restaurants
+card_83,USA,Dominos Pizza,114.06,Restaurants
+card_497,USA,AT&T,877.81,Telecom
+card_266,USA,Southwest Airlines,619.05,Travel
+card_454,USA,Bloomingdales,817.52,Retail
+card_287,USA,InterContinental Hotels,686.75,Hotels
+card_240,USA,American Airlines,596.57,Travel
+card_221,USA,General Motors,2367.13,Automotive
+card_22,USA,Publix,97.4,Groceries
+card_196,USA,Pizza Hut,226.81,Restaurants
+card_37,GBR,British Airways,778.94,Travel
+card_419,USA,The Home Depot,236.05,Retail
+card_300,GBR,British Airways,1354.38,Travel
+card_125,USA,Whole Foods,121.33,Groceries
+card_437,USA,Shopify,29.46,E-commerce
+card_466,USA,General Motors,4541.71,Automotive
+card_439,USA,AMC Theatres,33.09,Streaming
+card_296,USA,Tesla,672.8,Automotive
+card_379,USA,Panera Bread,282.55,Restaurants
+card_105,FRA,Carrefour,192.04,Groceries
+card_121,USA,AMC Theatres,20.07,Streaming
+card_24,USA,Taco Bell,50.39,Restaurants
+card_343,USA,Amazon,40.73,E-commerce
+card_56,USA,Ticketmaster,621.97,Ticketing
+card_280,USA,Kohls,535.79,Retail
+card_189,USA,IKEA,894.42,Retail
+card_6,USA,Best Buy,789.65,Retail
+card_311,USA,Ford,843.21,Automotive
+card_228,USA,TJX Companies,315.16,Retail
+card_320,DEU,Lidl,82.06,Groceries
+card_268,USA,Best Buy,745.23,Retail
+card_414,USA,Uniqlo,38.36,Retail
+card_362,USA,CVS Health,572.04,Retail
+card_455,USA,Panera Bread,231.11,Restaurants
+card_31,USA,Disney,44.45,Streaming
+card_441,USA,InterContinental Hotels,546.02,Hotels
+card_245,HKG,Cathay Pacific,1240.82,Travel
+card_43,USA,Papa Johns,42.08,Restaurants
+card_132,USA,Universal Parks,43.09,Streaming
+card_392,USA,T-Mobile,131.85,Telecom
+card_32,USA,American Airlines,626.07,Travel
+card_269,USA,United Airlines,1206.08,Travel
+card_55,GBR,British Airways,267.38,Travel
+card_430,USA,Lululemon,233.11,Retail
+card_285,USA,Lululemon,723.64,Retail
+card_249,USA,AMC Theatres,37.4,Streaming
+card_260,USA,Lululemon,642.94,Retail
+card_379,USA,IKEA,695.48,Retail
+card_2,HKG,Cathay Pacific,836.95,Travel
+card_346,ARE,Emirates,415.11,Travel
+card_409,USA,Uber,348.97,Retail
+card_371,USA,Walgreens,185.69,Retail
+card_289,USA,Ross Stores,908.91,Retail
+card_427,USA,AT&T,585.47,Telecom
+card_469,USA,Netflix,23.04,Streaming
+card_368,USA,Neiman Marcus,464.7,Retail
+card_450,USA,PayPal,4741.69,Technology
+card_19,USA,Uber,157.58,Retail
+card_330,FRA,Carrefour,180.01,Groceries
+card_448,USA,H&M,508.36,Retail
+card_86,USA,General Motors,3096.13,Automotive
+card_462,USA,Dunkin,15.25,Restaurants
+card_223,USA,Uber,872.76,Retail
+card_237,USA,Comcast,932.46,Telecom
+card_215,DEU,Lidl,173.89,Groceries
+card_40,USA,PayPal,3513.59,Technology
+card_306,USA,Chipotle,277.52,Restaurants
+card_465,USA,The Home Depot,708.7,Retail
+card_20,USA,Walgreens,156.78,Retail
+card_393,USA,Five Guys,177.12,Restaurants
+card_246,USA,Chick-fil-A,185.95,Restaurants
+card_418,USA,Costco,133.0,Groceries
+card_278,JPN,Toyota,3708.58,Automotive
+card_472,USA,Netflix,47.05,Streaming
+card_54,USA,eBay,46.65,E-commerce
+card_318,USA,Southwest Airlines,703.72,Travel
+card_146,USA,Starbucks,42.84,Restaurants
+card_61,FRA,Air France-KLM,1478.02,Travel
+card_151,USA,Papa Johns,253.28,Restaurants
+card_458,USA,eBay,10.61,E-commerce
+card_224,USA,Lowes,921.24,Retail
+card_162,USA,Lululemon,870.55,Retail
+card_276,USA,Delta Air Lines,802.32,Travel
+card_463,USA,AMC Theatres,31.61,Streaming
+card_478,USA,Best Buy,402.01,Retail
+card_141,USA,Papa Johns,25.88,Restaurants
+card_461,GBR,Tesco,107.21,Groceries
+card_264,USA,Spotify,41.13,Streaming
+card_228,ARE,Emirates,56.72,Travel
+card_16,USA,Neiman Marcus,336.83,Retail
+card_261,USA,Uber,401.18,Retail
+card_440,USA,Chick-fil-A,165.84,Restaurants
+card_252,USA,Ross Stores,920.26,Retail
+card_64,USA,Publix,110.44,Groceries
+card_366,USA,Nike,350.22,Retail
+card_384,USA,Uniqlo,738.81,Retail
+card_119,USA,Safeway,141.14,Groceries
+card_48,USA,Hyatt,375.68,Hotels
+card_332,USA,Pizza Hut,141.21,Restaurants
+card_463,USA,Bed Bath & Beyond,145.15,Retail
+card_146,USA,Zara,180.51,Retail
+card_87,USA,Adidas,500.88,Retail
+card_460,USA,Five Guys,131.49,Restaurants
+card_191,USA,Shopify,46.17,E-commerce
+card_138,USA,Wayfair,21.31,E-commerce
+card_424,USA,Verizon,582.69,Telecom
+card_497,USA,Best Buy,634.1,Retail
+card_185,USA,General Motors,164.16,Automotive
+card_385,USA,Microsoft,3351.33,Technology
+card_393,FRA,Air France-KLM,308.15,Travel
+card_497,USA,Kroger,288.71,Groceries
+card_61,USA,Saks Fifth Avenue,152.92,Retail
+card_213,USA,Wendys,130.24,Restaurants
+card_89,USA,Tesla,518.21,Automotive
+card_429,GBR,BP,199.47,Energy
+card_379,USA,Regal Cinemas,27.6,Streaming
+card_198,DEU,Aldi,182.66,Groceries
+card_469,USA,General Motors,428.67,Automotive
+card_172,USA,Chevron,157.49,Energy
+card_434,DEU,Aldi,70.87,Groceries
+card_124,USA,Apple,4500.47,Technology
+card_10,USA,Shell,64.87,Energy
+card_167,GBR,BP,62.42,Energy
+card_391,GBR,Tesco,20.6,Groceries
+card_97,USA,Dunkin,146.9,Restaurants
+card_458,USA,Gap Inc,567.02,Retail
+card_493,USA,Burger King,29.06,Restaurants
+card_240,SGP,Singapore Airlines,1174.52,Travel
+card_422,FRA,Air France-KLM,707.27,Travel
+card_144,USA,Marriott International,810.37,Hotels
+card_28,USA,Delta Air Lines,689.11,Travel
+card_52,SGP,Singapore Airlines,631.11,Travel
+card_343,USA,Burger King,172.3,Restaurants
+card_268,USA,Bed Bath & Beyond,159.46,Retail
+card_65,USA,T-Mobile,186.02,Telecom
+card_16,ARE,Emirates,1299.59,Travel
+card_2,FRA,Air France-KLM,1421.87,Travel
+card_280,USA,Subway,118.26,Restaurants
+card_51,USA,KFC,88.52,Restaurants
+card_31,USA,Trader Joes,196.76,Groceries
+card_133,USA,TJX Companies,411.69,Retail
+card_14,FRA,Carrefour,17.36,Groceries
+card_496,USA,Walgreens,160.37,Retail
+card_199,USA,Best Buy,717.39,Retail
+card_282,USA,Expedia,1005.44,Hotels
+card_311,USA,Comcast,31.96,Telecom
+card_303,USA,Walmart,74.37,Groceries
+card_442,USA,Etsy,15.4,E-commerce
+card_447,USA,Marriott International,1024.24,Hotels
+card_194,GBR,British Airways,78.58,Travel
+card_402,USA,Walmart,40.19,Groceries
+card_396,USA,Airbnb,1209.88,Hotels
+card_133,HKG,Cathay Pacific,308.89,Travel
+card_445,USA,Trader Joes,199.3,Groceries
+card_156,USA,Expedia,395.37,Hotels
+card_377,USA,Lowes,103.94,Retail
+card_291,USA,AT&T,246.96,Telecom
+card_81,USA,Starbucks,219.46,Restaurants
+card_338,USA,KFC,258.15,Restaurants
+card_276,USA,United Airlines,1253.82,Travel
+card_197,DEU,Lufthansa,625.92,Travel
+card_365,USA,Comcast,669.74,Telecom
+card_75,USA,Booking.com,347.23,Hotels
+card_187,USA,McDonalds,95.01,Restaurants
+card_85,USA,Comcast,896.85,Telecom
+card_426,USA,Chevron,32.21,Energy
+card_490,USA,Microsoft,518.99,Technology
+card_399,USA,Nike,211.85,Retail
+card_152,USA,Macys,31.4,Retail
+card_203,USA,CVS Health,185.53,Retail
+card_92,GBR,British Airways,895.41,Travel
+card_13,DEU,Lidl,132.21,Groceries
+card_81,USA,Tesla,4474.09,Automotive
+card_27,USA,Zara,818.36,Retail
+card_323,USA,Amazon,20.38,E-commerce
+card_150,GBR,British Airways,426.16,Travel
+card_420,USA,AT&T,382.79,Telecom
+card_189,USA,InterContinental Hotels,905.93,Hotels
+card_178,USA,Burger King,87.74,Restaurants
+card_283,USA,Kohls,626.03,Retail
+card_294,USA,Wayfair,23.42,E-commerce
+card_272,USA,Chipotle,170.09,Restaurants
+card_121,USA,Gap Inc,438.95,Retail
+card_271,USA,Spotify,18.25,Streaming
+card_483,USA,United Airlines,1425.26,Travel
+card_318,USA,Williams-Sonoma,764.79,Retail
+card_398,USA,T-Mobile,144.41,Telecom
+card_93,HKG,Cathay Pacific,1309.28,Travel
+card_247,USA,Walmart,151.36,Groceries
+card_351,ARE,Emirates,1347.1,Travel
+card_152,USA,Walmart,241.96,Groceries
+card_48,USA,Hyatt,666.56,Hotels
+card_134,USA,Chevron,33.82,Energy
+card_459,DEU,Lufthansa,439.58,Travel
+card_437,USA,Netflix,29.37,Streaming
+card_487,USA,Kohls,635.31,Retail
+card_464,USA,Adidas,261.6,Retail
+card_77,USA,Amazon,11.27,E-commerce
+card_30,USA,Burger King,252.13,Restaurants
+card_185,JPN,Toyota,4923.57,Automotive
+card_434,USA,General Motors,2675.88,Automotive
+card_125,DEU,Lidl,59.79,Groceries
+card_165,USA,Macys,275.95,Retail
+card_215,USA,Delta Air Lines,76.67,Travel
+card_23,USA,Ford,4580.06,Automotive
+card_243,USA,The Home Depot,122.16,Retail
+card_398,USA,American Airlines,885.95,Travel
+card_345,USA,Uniqlo,277.68,Retail
+card_460,USA,Universal Parks,29.94,Streaming
+card_234,ARE,Emirates,994.56,Travel
+card_148,USA,Nordstrom,830.59,Retail
+card_218,USA,Shopify,14.29,E-commerce
+card_430,USA,PayPal,153.88,Technology
+card_326,USA,Nordstrom,141.2,Retail
+card_350,USA,Five Guys,271.01,Restaurants
+card_100,DEU,Aldi,263.43,Groceries
+card_241,USA,Hyatt,916.25,Hotels
+card_387,USA,Nordstrom,602.51,Retail
+card_276,USA,Verizon,666.71,Telecom
+card_327,USA,Hilton,304.29,Hotels
+card_265,USA,Universal Parks,46.15,Streaming
+card_433,USA,Williams-Sonoma,421.68,Retail
+card_104,USA,Adidas,386.22,Retail
+card_6,USA,InterContinental Hotels,802.43,Hotels
+card_442,HKG,Cathay Pacific,118.1,Travel
+card_388,USA,Regal Cinemas,12.48,Streaming
+card_125,USA,T-Mobile,739.34,Telecom
+card_102,DEU,Aldi,34.01,Groceries
+card_183,USA,Etsy,32.14,E-commerce
+card_106,USA,Trader Joes,81.15,Groceries
+card_191,USA,Best Buy,392.35,Retail
+card_71,USA,Bloomingdales,292.25,Retail
+card_250,USA,Neiman Marcus,358.89,Retail
+card_299,USA,Ford,3623.32,Automotive
+card_45,USA,Comcast,300.64,Telecom
+card_217,USA,Subway,174.26,Restaurants
+card_485,USA,Dominos Pizza,148.05,Restaurants
+card_235,USA,Dunkin,202.46,Restaurants
+card_489,USA,AT&T,937.15,Telecom
+card_489,USA,Wendys,222.45,Restaurants
+card_80,USA,Microsoft,1153.21,Technology
+card_413,USA,Booking.com,95.22,Hotels
+card_105,USA,Ross Stores,265.95,Retail
+card_480,USA,AT&T,597.1,Telecom
+card_345,USA,eBay,7.31,E-commerce
+card_55,ARE,Emirates,769.73,Travel
+card_129,USA,Shake Shack,183.08,Restaurants
+card_168,USA,Disney,20.04,Streaming
+card_88,USA,Tesla,3877.47,Automotive
+card_256,USA,AMC Theatres,9.8,Streaming
+card_427,DEU,Lufthansa,158.95,Travel
+card_497,USA,Bloomingdales,729.55,Retail
+card_108,FRA,Air France-KLM,768.46,Travel
+card_296,USA,Publix,209.64,Groceries
+card_448,USA,Target,136.1,Groceries
+card_106,USA,Southwest Airlines,407.28,Travel
+card_74,HKG,Cathay Pacific,1237.7,Travel
+card_100,USA,Williams-Sonoma,800.42,Retail
+card_373,DEU,Lidl,211.46,Groceries
+card_78,USA,Shopify,17.25,E-commerce
+card_19,USA,Williams-Sonoma,592.28,Retail
+card_110,USA,Whole Foods,114.68,Groceries
+card_498,USA,Bed Bath & Beyond,96.12,Retail
+card_346,USA,Chipotle,276.02,Restaurants
+card_340,USA,Marriott International,248.39,Hotels
+card_400,USA,Lowes,950.49,Retail
+card_434,USA,Wendys,139.34,Restaurants
+card_422,USA,The Home Depot,189.21,Retail
+card_336,JPN,Toyota,2755.31,Automotive
+card_109,USA,Airbnb,1315.77,Hotels
+card_52,FRA,Air France-KLM,1111.73,Travel
+card_332,FRA,Air France-KLM,1219.51,Travel
+card_342,DEU,Aldi,201.05,Groceries
+card_391,DEU,Lufthansa,1053.8,Travel
+card_456,USA,AT&T,849.95,Telecom
+card_481,HKG,Cathay Pacific,412.02,Travel
+card_229,USA,Chick-fil-A,151.93,Restaurants
+card_159,USA,T-Mobile,225.1,Telecom
+card_238,USA,Uber,987.73,Retail
+card_221,USA,Marriott International,1418.89,Hotels
+card_297,USA,Chipotle,21.43,Restaurants
+card_196,USA,Burger King,214.62,Restaurants
+card_257,USA,Costco,278.32,Groceries
+card_35,USA,Papa Johns,62.37,Restaurants
+card_264,USA,InterContinental Hotels,873.52,Hotels
+card_194,USA,Bed Bath & Beyond,915.91,Retail
+card_79,USA,The Home Depot,38.78,Retail
+card_217,USA,Wayfair,36.38,E-commerce
+card_75,USA,Disney,18.38,Streaming
+card_268,GBR,Tesco,278.07,Groceries
+card_209,USA,Uniqlo,971.2,Retail
+card_289,USA,Whole Foods,283.84,Groceries
+card_426,USA,Panera Bread,147.52,Restaurants
+card_20,USA,Disney,43.79,Streaming
+card_61,USA,eBay,43.0,E-commerce
+card_54,USA,Chevron,84.25,Energy
+card_481,USA,Shell,170.92,Energy
+card_479,USA,Saks Fifth Avenue,41.82,Retail
+card_325,USA,Whole Foods,182.92,Groceries
+card_182,HKG,Cathay Pacific,383.51,Travel
+card_377,USA,Bloomingdales,124.96,Retail
+card_458,USA,Amazon,8.46,E-commerce
+card_101,USA,Hilton,1059.62,Hotels
+card_338,USA,United Airlines,542.82,Travel
+card_293,USA,Chipotle,220.18,Restaurants
+card_404,USA,ExxonMobil,41.11,Energy
+card_412,USA,Kohls,318.71,Retail
+card_412,USA,Nordstrom,541.79,Retail
+card_443,FRA,Air France-KLM,1196.55,Travel
+card_399,USA,PayPal,1661.89,Technology
+card_253,USA,Dominos Pizza,191.51,Restaurants
+card_168,USA,General Motors,4441.29,Automotive
+card_48,USA,Bed Bath & Beyond,617.78,Retail
+card_184,USA,Panera Bread,77.56,Restaurants
+card_204,USA,Trader Joes,17.08,Groceries
+card_152,USA,General Motors,4363.48,Automotive
+card_82,USA,Ticketmaster,26.16,Ticketing
+card_345,GBR,British Airways,1318.32,Travel
+card_380,USA,Zara,531.29,Retail
+card_386,USA,Walgreens,939.37,Retail
+card_390,USA,ExxonMobil,165.79,Energy
+card_203,USA,Walmart,299.4,Groceries
+card_269,USA,Ticketmaster,353.96,Ticketing
+card_400,USA,Panera Bread,232.48,Restaurants
+card_375,GBR,British Airways,632.8,Travel
+card_355,USA,Netflix,26.59,Streaming
+card_266,USA,PayPal,3174.78,Technology
+card_117,USA,Dominos Pizza,263.37,Restaurants
+card_472,USA,Uniqlo,984.16,Retail
+card_2,USA,Publix,232.8,Groceries
+card_297,USA,American Airlines,655.76,Travel
+card_239,USA,Wendys,132.19,Restaurants
+card_76,USA,The Home Depot,738.89,Retail
+card_409,USA,AT&T,242.58,Telecom
+card_152,USA,KFC,42.04,Restaurants
+card_231,DEU,Aldi,112.84,Groceries
+card_89,USA,Lululemon,290.8,Retail
+card_321,USA,eBay,18.33,E-commerce
+card_296,USA,Kroger,77.75,Groceries
+card_142,USA,Dunkin,22.21,Restaurants
+card_357,USA,Trader Joes,15.18,Groceries
+card_347,DEU,Lidl,296.44,Groceries
+card_128,USA,Dunkin,134.05,Restaurants
+card_93,USA,eBay,22.29,E-commerce
+card_404,GBR,BP,145.54,Energy
+card_454,USA,Chevron,67.1,Energy
+card_465,USA,Safeway,285.49,Groceries
+card_412,USA,Chipotle,238.04,Restaurants
+card_389,USA,The Home Depot,93.96,Retail
+card_2,USA,Neiman Marcus,420.49,Retail
+card_99,USA,Nordstrom,879.72,Retail
+card_138,USA,Publix,283.97,Groceries
+card_55,USA,Chick-fil-A,145.55,Restaurants
+card_283,USA,Ford,3105.72,Automotive
+card_135,USA,Nordstrom,171.2,Retail
+card_296,GBR,British Airways,1487.19,Travel
+card_429,USA,Tesla,1235.19,Automotive
+card_394,USA,Google,4719.39,Technology
+card_260,USA,Burger King,198.4,Restaurants
+card_141,USA,AT&T,609.7,Telecom
+card_448,USA,Disney,28.07,Streaming
+card_398,USA,Nordstrom,234.52,Retail
+card_367,USA,Lowes,180.65,Retail
+card_446,USA,Walgreens,224.38,Retail
+card_367,USA,Costco,64.07,Groceries
+card_63,USA,Apple,3919.96,Technology
+card_57,USA,Bloomingdales,353.37,Retail
+card_338,USA,ExxonMobil,39.83,Energy
+card_231,USA,Target,291.04,Groceries
+card_441,USA,Neiman Marcus,884.37,Retail
+card_221,USA,Nike,928.11,Retail
+card_216,USA,Panera Bread,298.52,Restaurants
+card_128,FRA,Air France-KLM,302.15,Travel
+card_73,USA,Comcast,399.26,Telecom
+card_264,JPN,Toyota,3815.37,Automotive
+card_448,FRA,Air France-KLM,1059.23,Travel
+card_488,USA,Dunkin,54.63,Restaurants
+card_427,USA,Zara,816.75,Retail
+card_286,USA,Five Guys,75.09,Restaurants
+card_236,USA,Kroger,74.91,Groceries
+card_365,USA,Tesla,2731.17,Automotive
+card_315,USA,Best Buy,594.98,Retail
+card_493,USA,Saks Fifth Avenue,582.19,Retail
+card_482,USA,Walgreens,96.03,Retail
+card_365,USA,Gap Inc,878.07,Retail
+card_189,USA,Walgreens,269.27,Retail
+card_337,USA,Panera Bread,47.56,Restaurants
+card_242,USA,Expedia,1338.68,Hotels
+card_189,USA,Publix,287.14,Groceries
+card_70,USA,Tesla,4324.43,Automotive
+card_414,USA,IKEA,810.47,Retail
+card_398,USA,American Airlines,1000.1,Travel
+card_233,USA,Papa Johns,169.75,Restaurants
+card_458,USA,Tesla,526.24,Automotive
+card_426,USA,eBay,23.38,E-commerce
+card_423,USA,Target,118.08,Groceries
+card_435,USA,Walgreens,263.46,Retail
+card_328,HKG,Cathay Pacific,1098.96,Travel
+card_221,USA,Booking.com,769.02,Hotels
+card_256,USA,Booking.com,167.52,Hotels
+card_242,USA,Burger King,73.85,Restaurants
+card_13,USA,United Airlines,1040.73,Travel
+card_306,USA,Regal Cinemas,8.43,Streaming
+card_490,USA,Dunkin,256.85,Restaurants
+card_227,USA,Microsoft,2526.22,Technology
+card_62,USA,Ford,2454.87,Automotive
+card_316,USA,InterContinental Hotels,908.99,Hotels
+card_5,USA,Dominos Pizza,249.16,Restaurants
+card_473,USA,Neiman Marcus,351.07,Retail
+card_160,USA,Bed Bath & Beyond,679.63,Retail
+card_298,USA,Pizza Hut,174.06,Restaurants
+card_297,USA,Ticketmaster,270.69,Ticketing
+card_47,USA,IKEA,879.24,Retail
+card_384,USA,Universal Parks,40.88,Streaming
+card_269,USA,Gap Inc,660.16,Retail
+card_129,USA,Walmart,256.67,Groceries
+card_91,USA,Nike,867.96,Retail
+card_468,JPN,Toyota,3570.98,Automotive
+card_354,USA,Universal Parks,42.67,Streaming
+card_251,USA,United Airlines,1061.33,Travel
+card_472,USA,Dominos Pizza,207.24,Restaurants
+card_300,USA,Delta Air Lines,946.99,Travel
+card_16,USA,Bloomingdales,753.95,Retail
+card_387,USA,CVS Health,162.81,Retail
+card_54,USA,ExxonMobil,179.75,Energy
+card_474,USA,Verizon,872.48,Telecom
+card_499,USA,Walgreens,34.1,Retail
+card_414,USA,Wayfair,42.16,E-commerce
+card_63,USA,eBay,10.8,E-commerce
+card_428,USA,Walmart,107.18,Groceries
+card_461,USA,Wendys,225.62,Restaurants
+card_150,USA,Neiman Marcus,164.96,Retail
+card_74,USA,Zara,818.88,Retail
+card_189,USA,Chevron,171.46,Energy
+card_424,DEU,Lidl,157.17,Groceries
+card_116,USA,Universal Parks,5.29,Streaming
+card_224,USA,Saks Fifth Avenue,290.6,Retail
+card_192,DEU,Aldi,188.91,Groceries
+card_490,USA,Nike,981.28,Retail
+card_290,USA,McDonalds,193.23,Restaurants
+card_97,USA,Disney,16.69,Streaming
+card_159,USA,Bloomingdales,635.84,Retail
+card_45,USA,Costco,166.6,Groceries
+card_180,ARE,Emirates,1180.78,Travel
+card_479,USA,Subway,41.02,Restaurants
+card_319,USA,Comcast,762.22,Telecom
+card_127,GBR,British Airways,834.84,Travel
+card_113,USA,Southwest Airlines,1446.34,Travel
+card_17,USA,Regal Cinemas,20.38,Streaming
+card_328,USA,Lululemon,634.46,Retail
+card_389,USA,Uber,932.37,Retail
+card_315,ARE,Emirates,198.64,Travel
+card_494,USA,Taco Bell,281.8,Restaurants
+card_231,USA,Bloomingdales,689.45,Retail
+card_109,USA,H&M,72.5,Retail
+card_394,FRA,Air France-KLM,486.4,Travel
+card_405,GBR,BP,150.39,Energy
+card_229,USA,Wayfair,8.03,E-commerce
+card_187,USA,Hilton,894.15,Hotels
+card_496,USA,Shopify,20.56,E-commerce
+card_362,USA,Neiman Marcus,622.81,Retail
+card_99,USA,Adidas,50.51,Retail
+card_391,USA,Verizon,872.18,Telecom
+card_279,USA,Gap Inc,973.62,Retail
+card_50,USA,Walmart,290.97,Groceries
+card_340,USA,Microsoft,3773.29,Technology
+card_263,USA,Regal Cinemas,10.85,Streaming
+card_128,USA,Publix,229.9,Groceries
+card_265,USA,Walgreens,29.46,Retail
+card_432,USA,Bloomingdales,27.01,Retail
+card_422,USA,Wayfair,19.56,E-commerce
+card_274,GBR,BP,113.07,Energy
+card_382,USA,American Airlines,1167.09,Travel
+card_156,USA,Spotify,35.75,Streaming
+card_229,USA,Nordstrom,448.67,Retail
+card_144,USA,United Airlines,446.76,Travel
+card_492,USA,Bloomingdales,997.14,Retail
+card_32,USA,Panera Bread,133.59,Restaurants
+card_153,FRA,Carrefour,140.9,Groceries
+card_353,USA,InterContinental Hotels,287.25,Hotels
+card_191,USA,United Airlines,1202.47,Travel
+card_162,USA,Tesla,3499.04,Automotive
+card_176,USA,Chevron,67.53,Energy
+card_307,USA,Hyatt,169.45,Hotels
+card_440,USA,Neiman Marcus,682.1,Retail
+card_169,USA,Pizza Hut,199.81,Restaurants
+card_233,USA,United Airlines,446.23,Travel
+card_455,USA,Apple,4759.23,Technology
+card_310,USA,Chipotle,53.81,Restaurants
+card_482,USA,Williams-Sonoma,435.17,Retail
+card_441,USA,Walgreens,943.9,Retail
+card_191,USA,Wendys,131.72,Restaurants
+card_28,USA,McDonalds,195.17,Restaurants
+card_457,USA,H&M,400.61,Retail
+card_186,USA,KFC,89.52,Restaurants
+card_352,USA,Publix,295.35,Groceries
+card_372,USA,Kohls,412.29,Retail
+card_373,USA,Bed Bath & Beyond,894.63,Retail
+card_270,USA,Bloomingdales,233.8,Retail
+card_214,USA,Uber,217.04,Retail
+card_163,USA,Zara,35.98,Retail
+card_23,USA,Booking.com,994.92,Hotels
+card_276,USA,Apple,1905.78,Technology
+card_167,USA,Burger King,260.66,Restaurants
+card_412,USA,Five Guys,147.23,Restaurants
+card_147,USA,Shake Shack,290.78,Restaurants
+card_275,USA,Southwest Airlines,319.01,Travel
+card_378,USA,Hilton,1309.5,Hotels
+card_119,USA,H&M,777.71,Retail
+card_134,USA,Starbucks,233.57,Restaurants
+card_491,USA,IKEA,845.56,Retail
+card_281,USA,Expedia,1153.48,Hotels
+card_139,USA,Comcast,628.09,Telecom
+card_369,USA,Shopify,10.91,E-commerce
+card_56,USA,Nike,37.36,Retail
+card_449,USA,Safeway,277.05,Groceries
+card_240,USA,Shake Shack,188.83,Restaurants
+card_400,USA,Netflix,40.84,Streaming
+card_9,ARE,Emirates,748.21,Travel
+card_275,ARE,Emirates,220.1,Travel
+card_84,USA,Verizon,129.56,Telecom
+card_314,USA,Delta Air Lines,1044.07,Travel
+card_52,USA,Starbucks,134.79,Restaurants
+card_351,USA,Netflix,14.02,Streaming
+card_73,USA,Kohls,494.14,Retail
+card_29,USA,Costco,28.62,Groceries
+card_77,USA,Starbucks,178.77,Restaurants
+card_51,USA,Hilton,440.04,Hotels
+card_242,USA,United Airlines,1206.46,Travel
+card_17,GBR,BP,82.76,Energy
+card_178,USA,Bed Bath & Beyond,457.94,Retail
+card_12,USA,Adidas,16.56,Retail
+card_460,USA,Ticketmaster,77.08,Ticketing
+card_427,USA,General Motors,2023.22,Automotive
+card_465,ARE,Emirates,745.91,Travel
+card_448,USA,Hilton,920.03,Hotels
+card_219,USA,Publix,94.58,Groceries
+card_288,USA,Booking.com,1057.72,Hotels
+card_409,USA,Bed Bath & Beyond,860.82,Retail
+card_445,USA,Walmart,236.16,Groceries
+card_217,GBR,BP,36.74,Energy
+card_243,USA,Nike,483.1,Retail
+card_67,DEU,Lidl,40.43,Groceries
+card_474,GBR,Tesco,80.19,Groceries
+card_241,USA,Regal Cinemas,49.4,Streaming
+card_445,USA,Nordstrom,146.78,Retail
+card_444,USA,Nordstrom,501.39,Retail
+card_407,USA,Ross Stores,620.06,Retail
+card_496,USA,Booking.com,1068.57,Hotels
+card_68,GBR,BP,125.14,Energy
+card_184,USA,InterContinental Hotels,64.17,Hotels
+card_70,USA,General Motors,1699.66,Automotive
+card_421,USA,Nike,520.12,Retail
+card_277,GBR,BP,44.94,Energy
+card_100,USA,American Airlines,558.41,Travel
+card_39,USA,Macys,38.04,Retail
+card_160,USA,American Airlines,163.94,Travel
+card_148,ARE,Emirates,625.54,Travel
+card_80,USA,Apple,750.31,Technology
+card_495,USA,Wendys,174.59,Restaurants
+card_273,HKG,Cathay Pacific,1049.72,Travel
+card_470,USA,Starbucks,242.17,Restaurants
+card_60,USA,Ford,1080.74,Automotive
+card_119,USA,Airbnb,292.85,Hotels
+card_396,USA,Costco,40.32,Groceries
+card_428,GBR,British Airways,972.82,Travel
+card_419,USA,TJX Companies,707.94,Retail
+card_60,USA,Chevron,35.37,Energy
+card_309,USA,Whole Foods,281.5,Groceries
+card_265,USA,Costco,25.07,Groceries
+card_448,USA,Saks Fifth Avenue,543.59,Retail
+card_31,USA,Universal Parks,36.91,Streaming
+card_440,USA,Target,262.58,Groceries
+card_46,USA,Disney,37.13,Streaming
+card_93,USA,Zara,802.72,Retail
+card_262,USA,Dunkin,108.44,Restaurants
+card_210,USA,T-Mobile,815.75,Telecom
+card_156,USA,Pizza Hut,33.23,Restaurants
+card_243,USA,Safeway,269.5,Groceries
+card_413,USA,H&M,549.85,Retail
+card_351,USA,Zara,818.21,Retail
+card_401,USA,AMC Theatres,25.35,Streaming
+card_252,USA,Shake Shack,196.64,Restaurants
+card_2,USA,Safeway,162.66,Groceries
+card_293,USA,Uniqlo,732.93,Retail
+card_305,USA,Shopify,8.67,E-commerce
+card_417,USA,Adidas,65.05,Retail
+card_202,GBR,BP,72.01,Energy
+card_54,USA,Netflix,12.18,Streaming
+card_386,USA,T-Mobile,872.42,Telecom
+card_249,USA,H&M,223.12,Retail
+card_30,USA,CVS Health,975.99,Retail
+card_389,USA,Burger King,107.7,Restaurants
+card_245,USA,Universal Parks,13.2,Streaming
+card_359,USA,Wendys,239.01,Restaurants
+card_475,USA,Lowes,660.41,Retail
+card_40,USA,Publix,154.48,Groceries
+card_40,USA,Netflix,29.99,Streaming
+card_144,USA,InterContinental Hotels,1092.84,Hotels
+card_227,USA,Uber,232.31,Retail
+card_128,USA,Zara,996.35,Retail
+card_251,USA,Zara,974.92,Retail
+card_359,USA,Expedia,992.97,Hotels
+card_134,USA,Shopify,13.98,E-commerce
+card_12,USA,General Motors,3433.12,Automotive
+card_3,ARE,Emirates,154.69,Travel
+card_75,USA,InterContinental Hotels,94.45,Hotels
+card_465,USA,PayPal,1362.65,Technology
+card_127,USA,Verizon,465.31,Telecom
+card_329,USA,Comcast,868.93,Telecom
+card_458,USA,General Motors,3663.13,Automotive
+card_402,USA,AMC Theatres,38.42,Streaming
+card_373,USA,Bed Bath & Beyond,428.37,Retail
+card_76,GBR,British Airways,551.61,Travel
+card_122,USA,Google,1918.09,Technology
+card_468,USA,ExxonMobil,197.9,Energy
+card_108,USA,Gap Inc,44.91,Retail
+card_399,USA,Delta Air Lines,1307.2,Travel
+card_486,USA,Hilton,889.08,Hotels
+card_245,USA,Booking.com,685.99,Hotels
+card_449,USA,Pizza Hut,220.32,Restaurants
+card_118,GBR,Tesco,151.13,Groceries
+card_440,USA,Netflix,44.3,Streaming
+card_316,USA,Etsy,45.53,E-commerce
+card_340,USA,Ford,2166.43,Automotive
+card_495,USA,Ford,1456.46,Automotive
+card_215,USA,Pizza Hut,181.78,Restaurants
+card_484,USA,Walgreens,912.8,Retail
+card_441,USA,Adidas,214.61,Retail
+card_487,USA,Whole Foods,190.66,Groceries
+card_426,USA,AT&T,633.4,Telecom
+card_238,USA,Best Buy,734.45,Retail
+card_87,GBR,British Airways,240.77,Travel
+card_39,USA,Walgreens,717.25,Retail
+card_32,USA,Bed Bath & Beyond,909.49,Retail
+card_119,USA,Hyatt,310.54,Hotels
+card_33,USA,Zara,241.36,Retail
+card_186,USA,Marriott International,1458.52,Hotels
+card_489,GBR,British Airways,312.42,Travel
+card_324,USA,Shopify,43.45,E-commerce
+card_438,USA,Chipotle,152.76,Restaurants
+card_133,USA,Ross Stores,250.99,Retail
+card_357,USA,Amazon,44.18,E-commerce
+card_36,USA,Adidas,448.08,Retail
+card_100,USA,Subway,159.3,Restaurants
+card_36,USA,Ford,1860.24,Automotive
+card_77,USA,Ross Stores,594.99,Retail
+card_290,USA,H&M,167.71,Retail
+card_256,USA,Williams-Sonoma,394.13,Retail
+card_179,USA,Ross Stores,969.57,Retail
+card_355,USA,American Airlines,424.29,Travel
+card_79,USA,Comcast,658.45,Telecom
+card_381,USA,Expedia,521.53,Hotels
+card_137,USA,Uniqlo,774.61,Retail
+card_176,USA,Whole Foods,47.95,Groceries
+card_66,USA,AMC Theatres,48.64,Streaming
+card_241,USA,Safeway,141.6,Groceries
+card_113,USA,Adidas,239.87,Retail
+card_14,USA,Chipotle,31.31,Restaurants
+card_302,USA,Marriott International,296.15,Hotels
+card_25,DEU,Aldi,160.73,Groceries
+card_376,USA,Adidas,340.32,Retail
+card_127,USA,Macys,829.74,Retail
+card_363,USA,Dunkin,134.96,Restaurants
+card_171,USA,Subway,82.13,Restaurants
+card_430,USA,Comcast,619.06,Telecom
+card_6,USA,Verizon,708.24,Telecom
+card_164,USA,IKEA,171.21,Retail
+card_357,USA,ExxonMobil,58.5,Energy
+card_221,USA,Chevron,36.23,Energy
+card_344,USA,Ford,3708.37,Automotive
+card_269,USA,General Motors,3352.64,Automotive
+card_120,USA,Whole Foods,147.64,Groceries
+card_9,USA,Southwest Airlines,1274.05,Travel
+card_329,USA,CVS Health,806.64,Retail
+card_430,USA,Southwest Airlines,898.76,Travel
+card_430,USA,Dominos Pizza,261.8,Restaurants
+card_454,USA,American Airlines,348.47,Travel
+card_375,USA,ExxonMobil,49.03,Energy
+card_88,USA,Ross Stores,273.4,Retail
+card_113,USA,Pizza Hut,26.56,Restaurants
+card_454,USA,Booking.com,820.2,Hotels
+card_218,USA,Marriott International,1408.08,Hotels
+card_127,DEU,Aldi,21.41,Groceries
+card_51,USA,Panera Bread,45.41,Restaurants
+card_133,USA,Lululemon,454.94,Retail
+card_79,DEU,Lidl,280.82,Groceries
+card_410,USA,Verizon,319.58,Telecom
+card_12,USA,Walgreens,509.7,Retail
+card_235,USA,Ford,303.71,Automotive
+card_192,USA,Booking.com,265.1,Hotels
+card_72,USA,Shake Shack,296.12,Restaurants
+card_79,USA,Shake Shack,289.88,Restaurants
+card_430,USA,Uniqlo,9.92,Retail
+card_296,USA,United Airlines,1430.13,Travel
+card_43,USA,Disney,33.76,Streaming
+card_265,USA,Gap Inc,868.58,Retail
+card_432,JPN,Toyota,2328.23,Automotive
+card_96,USA,Ford,2626.42,Automotive
+card_453,USA,Wendys,151.77,Restaurants
+card_11,DEU,Aldi,203.39,Groceries
+card_236,USA,Trader Joes,50.5,Groceries
+card_54,USA,Target,18.69,Groceries
+card_81,USA,Panera Bread,99.3,Restaurants
+card_471,USA,InterContinental Hotels,1071.79,Hotels
+card_401,USA,Dominos Pizza,68.54,Restaurants
+card_72,USA,eBay,35.3,E-commerce
+card_14,GBR,Tesco,291.27,Groceries
+card_468,USA,Ross Stores,98.43,Retail
+card_80,USA,Ticketmaster,674.24,Ticketing
+card_412,FRA,Air France-KLM,693.44,Travel
+card_342,USA,Target,261.76,Groceries
+card_201,USA,Bloomingdales,181.26,Retail
+card_499,USA,AMC Theatres,36.17,Streaming
+card_422,USA,Netflix,42.72,Streaming
+card_439,USA,PayPal,4728.61,Technology
+card_489,USA,Walgreens,684.83,Retail
+card_397,SGP,Singapore Airlines,770.9,Travel
+card_454,GBR,Tesco,189.18,Groceries
+card_459,FRA,Air France-KLM,1309.91,Travel
+card_427,USA,Costco,175.48,Groceries
+card_498,USA,Papa Johns,18.81,Restaurants
+card_22,USA,Gap Inc,931.29,Retail
+card_312,USA,Burger King,209.96,Restaurants
+card_9,USA,The Home Depot,678.13,Retail
+card_30,USA,Tesla,1156.81,Automotive
+card_394,USA,ExxonMobil,142.01,Energy
+card_46,USA,Trader Joes,124.22,Groceries
+card_132,USA,Ticketmaster,652.98,Ticketing
+card_294,USA,McDonalds,40.91,Restaurants
+card_275,USA,Chevron,141.83,Energy
+card_429,USA,McDonalds,299.83,Restaurants
+card_377,USA,Comcast,52.97,Telecom
+card_68,USA,Safeway,293.38,Groceries
+card_407,USA,Taco Bell,128.0,Restaurants
+card_84,USA,Best Buy,871.4,Retail
+card_38,USA,Apple,3933.69,Technology
+card_348,USA,Booking.com,872.17,Hotels
+card_181,USA,Booking.com,1120.75,Hotels
+card_412,USA,Southwest Airlines,1323.85,Travel
+card_404,USA,Subway,127.2,Restaurants
+card_273,USA,Disney,19.72,Streaming
+card_276,USA,Saks Fifth Avenue,669.26,Retail
+card_388,USA,Trader Joes,244.28,Groceries
+card_495,USA,Universal Parks,39.3,Streaming
+card_63,USA,ExxonMobil,165.63,Energy
+card_260,USA,Five Guys,136.32,Restaurants
+card_164,JPN,Toyota,4107.39,Automotive
+card_108,USA,Taco Bell,44.86,Restaurants
+card_102,USA,KFC,167.9,Restaurants
+card_176,USA,Booking.com,58.35,Hotels
+card_106,USA,Five Guys,104.13,Restaurants
+card_426,USA,Pizza Hut,116.27,Restaurants
+card_457,USA,Airbnb,624.45,Hotels
+card_303,USA,Dunkin,211.69,Restaurants
+card_45,USA,Adidas,391.62,Retail
+card_474,GBR,Tesco,140.12,Groceries
+card_83,USA,Starbucks,78.89,Restaurants
+card_251,USA,Dominos Pizza,118.24,Restaurants
+card_348,USA,InterContinental Hotels,379.54,Hotels
+card_166,USA,Southwest Airlines,156.13,Travel
+card_312,USA,Airbnb,925.0,Hotels
+card_442,USA,Bed Bath & Beyond,669.87,Retail
+card_7,USA,Burger King,189.65,Restaurants
+card_433,USA,KFC,144.41,Restaurants
+card_467,USA,United Airlines,600.69,Travel
+card_252,USA,Regal Cinemas,43.85,Streaming
+card_190,USA,Ross Stores,521.49,Retail
+card_130,USA,Macys,481.79,Retail
+card_38,USA,Adidas,30.51,Retail
+card_407,USA,Papa Johns,108.96,Restaurants
+card_398,USA,Disney,22.11,Streaming
+card_23,USA,Lowes,401.83,Retail
+card_236,USA,McDonalds,178.25,Restaurants
+card_40,USA,Chipotle,164.74,Restaurants
+card_83,DEU,Lufthansa,931.46,Travel
+card_57,USA,The Home Depot,766.06,Retail
+card_133,USA,Google,4083.63,Technology
+card_462,USA,Delta Air Lines,1091.28,Travel
+card_321,USA,Target,287.1,Groceries
+card_453,USA,Southwest Airlines,76.44,Travel
+card_94,USA,Wendys,66.78,Restaurants
+card_108,USA,Trader Joes,12.19,Groceries
+card_106,USA,IKEA,649.24,Retail
+card_295,SGP,Singapore Airlines,1352.14,Travel
+card_254,USA,Shopify,15.96,E-commerce
+card_423,FRA,Carrefour,278.84,Groceries
+card_455,USA,Tesla,395.31,Automotive
+card_102,USA,Trader Joes,280.99,Groceries
+card_9,USA,McDonalds,111.97,Restaurants
+card_481,FRA,Air France-KLM,197.06,Travel
+card_366,USA,Comcast,488.44,Telecom
+card_423,USA,Kohls,260.49,Retail
+card_361,USA,Ford,1495.88,Automotive
+card_345,USA,Trader Joes,99.11,Groceries
+card_99,USA,Chevron,166.51,Energy
+card_423,USA,Safeway,166.36,Groceries
+card_175,USA,Target,100.28,Groceries
+card_356,USA,T-Mobile,612.28,Telecom
+card_397,USA,American Airlines,1088.42,Travel
+card_191,USA,ExxonMobil,76.35,Energy
+card_290,USA,H&M,416.48,Retail
+card_490,USA,Comcast,126.28,Telecom
+card_452,USA,PayPal,987.63,Technology
+card_496,JPN,Toyota,3437.48,Automotive
+card_347,USA,ExxonMobil,60.84,Energy
+card_130,USA,Publix,162.3,Groceries
+card_176,USA,Zara,710.5,Retail
+card_252,USA,KFC,40.99,Restaurants
+card_305,USA,Regal Cinemas,30.53,Streaming
+card_116,USA,Uber,260.28,Retail
+card_451,USA,Chick-fil-A,289.25,Restaurants
+card_436,USA,AT&T,486.13,Telecom
+card_412,USA,Expedia,1218.69,Hotels
+card_266,USA,Neiman Marcus,552.48,Retail
+card_304,USA,General Motors,312.72,Automotive
+card_143,USA,Best Buy,634.99,Retail
+card_408,ARE,Emirates,1429.53,Travel
+card_387,USA,Google,3047.9,Technology
+card_17,USA,Hyatt,1237.82,Hotels
+card_120,USA,Verizon,884.79,Telecom
+card_247,USA,Trader Joes,76.14,Groceries
+card_247,USA,Kohls,215.98,Retail
+card_23,USA,Kroger,187.18,Groceries
+card_74,USA,The Home Depot,413.97,Retail
+card_184,USA,Netflix,42.79,Streaming
+card_215,USA,ExxonMobil,183.0,Energy
+card_401,USA,Safeway,112.49,Groceries
+card_65,USA,Amazon,15.66,E-commerce
+card_363,USA,Macys,781.62,Retail
+card_19,USA,Best Buy,278.43,Retail
+card_46,USA,American Airlines,1242.79,Travel
+card_171,USA,TJX Companies,426.62,Retail
+card_419,USA,Walmart,203.59,Groceries
+card_451,USA,Bed Bath & Beyond,100.06,Retail
+card_206,USA,Disney,33.07,Streaming
+card_91,USA,Expedia,705.06,Hotels
+card_33,USA,The Home Depot,588.68,Retail
+card_388,DEU,Aldi,58.72,Groceries
+card_9,DEU,Lufthansa,1118.47,Travel
+card_51,USA,TJX Companies,863.48,Retail
+card_335,USA,TJX Companies,220.66,Retail
+card_269,USA,Amazon,9.31,E-commerce
+card_396,USA,Macys,28.52,Retail
+card_223,USA,Ticketmaster,643.76,Ticketing
+card_75,USA,Southwest Airlines,930.29,Travel
+card_490,HKG,Cathay Pacific,842.71,Travel
+card_345,USA,KFC,77.26,Restaurants
+card_67,USA,Adidas,393.95,Retail
+card_292,USA,ExxonMobil,131.06,Energy
+card_264,USA,Disney,27.35,Streaming
+card_384,USA,InterContinental Hotels,1482.29,Hotels
+card_90,USA,Booking.com,247.84,Hotels
+card_154,USA,Dominos Pizza,211.59,Restaurants
+card_473,DEU,Aldi,127.25,Groceries
+card_203,USA,American Airlines,670.89,Travel
+card_392,USA,Five Guys,218.1,Restaurants
+card_226,USA,American Airlines,1054.03,Travel
+card_204,USA,Airbnb,1487.32,Hotels
+card_467,USA,Nordstrom,132.75,Retail
+card_198,USA,IKEA,108.59,Retail
+card_469,USA,Adidas,725.72,Retail
+card_126,GBR,BP,128.33,Energy
+card_200,USA,Wendys,89.51,Restaurants
+card_55,USA,Lowes,84.02,Retail
+card_332,USA,Saks Fifth Avenue,90.23,Retail
+card_383,ARE,Emirates,1346.58,Travel
+card_208,USA,Pizza Hut,65.64,Restaurants
+card_500,USA,Apple,1684.52,Technology
+card_454,USA,Walmart,75.73,Groceries
+card_118,USA,TJX Companies,358.22,Retail
+card_247,USA,Lululemon,74.08,Retail
+card_131,USA,Disney,28.36,Streaming
+card_9,DEU,Aldi,29.61,Groceries
+card_338,DEU,Aldi,242.1,Groceries
+card_276,USA,American Airlines,388.88,Travel
+card_42,USA,Zara,542.31,Retail
+card_424,USA,Whole Foods,265.22,Groceries
+card_434,USA,Target,198.75,Groceries
+card_72,JPN,Toyota,2711.49,Automotive
+card_416,GBR,BP,85.14,Energy
+card_186,USA,Neiman Marcus,336.34,Retail
+card_36,USA,Subway,204.15,Restaurants
+card_321,USA,AT&T,994.17,Telecom
+card_264,USA,Kohls,663.53,Retail
+card_3,USA,Nike,559.99,Retail
+card_287,USA,Taco Bell,221.89,Restaurants
+card_340,USA,Tesla,2379.51,Automotive
+card_140,USA,Nordstrom,64.84,Retail
+card_179,USA,Google,2855.25,Technology
+card_51,USA,Comcast,957.84,Telecom
+card_487,DEU,Lidl,60.84,Groceries
+card_455,USA,United Airlines,1050.51,Travel
+card_357,USA,Uber,204.93,Retail
+card_101,USA,AMC Theatres,29.11,Streaming
+card_131,USA,Subway,38.04,Restaurants
+card_347,USA,IKEA,453.12,Retail
+card_402,USA,Tesla,3805.2,Automotive
+card_85,USA,InterContinental Hotels,553.98,Hotels
+card_319,DEU,Lidl,202.82,Groceries
+card_202,USA,TJX Companies,796.47,Retail
+card_336,USA,The Home Depot,927.54,Retail
+card_364,USA,Pizza Hut,78.05,Restaurants
+card_492,USA,Chipotle,125.8,Restaurants
+card_276,USA,Shopify,11.86,E-commerce
+card_440,DEU,Lidl,297.82,Groceries
+card_218,USA,Universal Parks,46.72,Streaming
+card_488,GBR,British Airways,832.94,Travel
+card_287,USA,McDonalds,254.19,Restaurants
+card_415,USA,Subway,161.08,Restaurants
+card_386,USA,The Home Depot,625.47,Retail
+card_493,USA,Adidas,93.68,Retail
+card_297,USA,Wayfair,38.99,E-commerce
+card_252,USA,Comcast,132.07,Telecom
+card_423,USA,Wendys,249.56,Restaurants
+card_200,USA,Lowes,783.12,Retail
+card_288,USA,Etsy,36.89,E-commerce
+card_231,ARE,Emirates,102.43,Travel
+card_406,USA,Whole Foods,97.91,Groceries
+card_185,USA,Spotify,16.84,Streaming
+card_156,USA,Ford,1864.67,Automotive
+card_177,ARE,Emirates,177.08,Travel
+card_443,USA,Hyatt,1408.59,Hotels
+card_205,USA,Booking.com,853.01,Hotels
+card_394,USA,Lowes,309.0,Retail
+card_251,USA,TJX Companies,400.0,Retail
+card_467,USA,Amazon,25.12,E-commerce
+card_416,USA,Regal Cinemas,32.03,Streaming
+card_17,USA,Lowes,518.1,Retail
+card_324,USA,Nike,919.8,Retail
+card_348,USA,Hilton,770.6,Hotels
+card_99,USA,American Airlines,1488.63,Travel
+card_84,USA,Marriott International,1284.57,Hotels
+card_175,USA,Chevron,65.45,Energy
+card_99,USA,PayPal,4659.92,Technology
+card_192,GBR,British Airways,218.73,Travel
+card_378,USA,Verizon,818.36,Telecom
+card_209,USA,Google,1965.05,Technology
+card_306,USA,Charter Communications,878.58,Telecom
+card_195,USA,H&M,868.72,Retail
+card_260,FRA,Air France-KLM,1218.59,Travel
+card_344,USA,Comcast,791.08,Telecom
+card_365,USA,Chevron,81.8,Energy
+card_142,USA,Southwest Airlines,167.33,Travel
+card_349,USA,Dominos Pizza,126.86,Restaurants
+card_395,USA,CVS Health,177.66,Retail
+card_166,USA,Tesla,3505.26,Automotive
+card_323,USA,Panera Bread,110.37,Restaurants
+card_15,USA,Marriott International,1464.63,Hotels
+card_29,USA,Pizza Hut,195.88,Restaurants
+card_326,USA,Ticketmaster,823.37,Ticketing
+card_395,FRA,Carrefour,48.43,Groceries
+card_437,USA,Tesla,4323.87,Automotive
+card_64,USA,Apple,4621.51,Technology
+card_490,USA,Subway,151.25,Restaurants
+card_377,USA,Panera Bread,185.81,Restaurants
+card_222,USA,Regal Cinemas,39.42,Streaming
+card_466,USA,Target,60.7,Groceries
+card_128,USA,Netflix,27.62,Streaming
+card_426,USA,Regal Cinemas,22.94,Streaming
+card_21,USA,Disney,11.59,Streaming
+card_197,USA,Zara,370.7,Retail
+card_473,USA,Expedia,148.85,Hotels
+card_25,USA,T-Mobile,30.68,Telecom
+card_276,USA,Google,762.31,Technology
+card_255,FRA,Air France-KLM,1446.52,Travel
+card_328,USA,Taco Bell,169.36,Restaurants
+card_92,USA,Dunkin,290.09,Restaurants
+card_287,USA,Papa Johns,135.42,Restaurants
+card_145,FRA,Carrefour,100.43,Groceries
+card_281,USA,Bloomingdales,508.61,Retail
+card_466,USA,Airbnb,687.29,Hotels
+card_228,USA,Pizza Hut,40.64,Restaurants
+card_10,USA,The Home Depot,642.62,Retail
+card_5,USA,Shopify,14.72,E-commerce
+card_456,USA,eBay,32.88,E-commerce
+card_235,USA,Southwest Airlines,992.79,Travel
+card_28,USA,Burger King,54.09,Restaurants
+card_435,GBR,British Airways,138.96,Travel
+card_470,USA,Lowes,781.86,Retail
+card_292,USA,Panera Bread,143.34,Restaurants
+card_31,USA,Bloomingdales,62.87,Retail
+card_92,USA,Five Guys,298.51,Restaurants
+card_213,USA,Hilton,133.78,Hotels
+card_436,USA,Apple,3505.67,Technology
+card_108,FRA,Air France-KLM,1476.33,Travel
+card_334,USA,Neiman Marcus,242.98,Retail
+card_314,USA,Costco,51.25,Groceries
+card_314,USA,Nordstrom,125.78,Retail
+card_56,USA,Tesla,1586.05,Automotive
+card_359,USA,Kroger,39.3,Groceries
+card_437,USA,General Motors,3491.59,Automotive
+card_431,USA,American Airlines,140.32,Travel
+card_430,USA,Publix,157.73,Groceries
+card_323,USA,Expedia,1495.21,Hotels
+card_176,USA,Booking.com,1230.26,Hotels
+card_498,USA,Target,188.41,Groceries
+card_9,USA,Dominos Pizza,98.81,Restaurants
+card_465,GBR,British Airways,954.65,Travel
+card_98,USA,Southwest Airlines,814.21,Travel
+card_218,USA,Kohls,428.95,Retail
+card_415,USA,CVS Health,135.06,Retail
+card_5,DEU,Lufthansa,1335.58,Travel
+card_254,USA,Shopify,25.24,E-commerce
+card_306,JPN,Toyota,1053.65,Automotive
+card_89,USA,Google,1902.02,Technology
+card_108,USA,Bed Bath & Beyond,417.06,Retail
+card_268,USA,Universal Parks,42.24,Streaming
+card_108,USA,Five Guys,222.75,Restaurants
+card_66,USA,eBay,39.62,E-commerce
+card_487,USA,Booking.com,66.0,Hotels
+card_5,USA,Saks Fifth Avenue,419.07,Retail
+card_82,USA,T-Mobile,483.94,Telecom
+card_370,USA,Panera Bread,15.57,Restaurants
+card_3,FRA,Carrefour,85.35,Groceries
+card_48,USA,Bed Bath & Beyond,761.49,Retail
+card_283,ARE,Emirates,248.81,Travel
+card_50,USA,The Home Depot,537.63,Retail
+card_409,USA,CVS Health,219.13,Retail
+card_237,USA,Nike,17.06,Retail
+card_413,USA,Comcast,245.0,Telecom
+card_172,USA,Ticketmaster,975.99,Ticketing
+card_101,USA,Ticketmaster,802.53,Ticketing
+card_34,USA,Chevron,193.13,Energy
+card_296,DEU,Lufthansa,757.39,Travel
+card_79,USA,Lowes,114.19,Retail
+card_68,GBR,BP,123.15,Energy
+card_101,USA,Target,141.77,Groceries
+card_270,USA,Chevron,173.54,Energy
+card_443,USA,AMC Theatres,9.41,Streaming
+card_48,USA,Walgreens,490.8,Retail
+card_475,USA,Hilton,267.57,Hotels
+card_50,USA,Costco,104.16,Groceries
+card_207,USA,Nike,738.67,Retail
+card_458,USA,Target,148.05,Groceries
+card_90,USA,T-Mobile,379.01,Telecom
+card_32,USA,Williams-Sonoma,397.5,Retail
+card_59,USA,Walgreens,462.15,Retail
+card_116,USA,Chipotle,237.65,Restaurants
+card_254,USA,Trader Joes,268.7,Groceries
+card_288,USA,Amazon,47.99,E-commerce
+card_150,USA,Neiman Marcus,787.97,Retail
+card_145,USA,Macys,318.83,Retail
+card_397,USA,United Airlines,1047.8,Travel
+card_129,USA,Dominos Pizza,136.9,Restaurants
+card_155,USA,T-Mobile,258.4,Telecom
+card_212,USA,Target,253.85,Groceries
+card_74,USA,Verizon,43.23,Telecom
+card_415,USA,Universal Parks,45.58,Streaming
+card_277,USA,Kroger,143.83,Groceries
+card_259,USA,Netflix,33.67,Streaming
+card_288,USA,T-Mobile,661.06,Telecom
+card_13,SGP,Singapore Airlines,1347.92,Travel
+card_447,USA,Papa Johns,194.63,Restaurants
+card_192,FRA,Carrefour,188.04,Groceries
+card_318,USA,Macys,71.32,Retail
+card_107,GBR,BP,118.13,Energy
+card_242,USA,T-Mobile,154.42,Telecom
+card_441,USA,Wayfair,38.18,E-commerce
+card_28,USA,Kohls,514.66,Retail
+card_325,SGP,Singapore Airlines,1036.33,Travel
+card_265,USA,InterContinental Hotels,110.43,Hotels
+card_178,USA,H&M,89.37,Retail
+card_242,USA,Adidas,717.74,Retail
+card_412,USA,Macys,76.72,Retail
+card_304,USA,Safeway,30.66,Groceries
+card_206,USA,Disney,5.54,Streaming
+card_56,USA,Five Guys,287.39,Restaurants
+card_493,USA,Netflix,38.19,Streaming
+card_470,USA,Panera Bread,112.44,Restaurants
+card_407,USA,AMC Theatres,18.34,Streaming
+card_320,SGP,Singapore Airlines,557.07,Travel
+card_145,USA,Expedia,1173.25,Hotels
+card_333,SGP,Singapore Airlines,1008.99,Travel
+card_159,USA,Starbucks,63.71,Restaurants
+card_86,USA,Shell,59.6,Energy
+card_45,USA,Kroger,38.53,Groceries
+card_325,USA,H&M,662.0,Retail
+card_100,USA,InterContinental Hotels,1158.34,Hotels
+card_132,DEU,Aldi,86.86,Groceries
+card_13,USA,Universal Parks,5.94,Streaming
+card_217,USA,Zara,86.76,Retail
+card_304,USA,Bloomingdales,968.02,Retail
+card_40,USA,Burger King,95.68,Restaurants
+card_399,USA,Whole Foods,233.07,Groceries
+card_10,FRA,Air France-KLM,955.76,Travel
+card_499,USA,Ticketmaster,385.03,Ticketing
+card_53,USA,Ticketmaster,209.66,Ticketing
+card_361,HKG,Cathay Pacific,226.01,Travel
+card_323,USA,KFC,188.35,Restaurants
+card_68,USA,Hilton,1173.22,Hotels
+card_116,USA,Airbnb,983.66,Hotels
+card_478,USA,United Airlines,818.94,Travel
+card_84,USA,McDonalds,22.17,Restaurants
+card_242,USA,Spotify,48.58,Streaming
+card_266,USA,Nordstrom,799.72,Retail
+card_440,USA,Chick-fil-A,94.92,Restaurants
+card_283,USA,Zara,980.07,Retail
+card_81,USA,Expedia,922.73,Hotels
+card_399,USA,The Home Depot,584.51,Retail
+card_488,USA,McDonalds,226.94,Restaurants
+card_2,USA,ExxonMobil,168.0,Energy
+card_145,USA,Walmart,200.38,Groceries
+card_253,USA,Google,727.67,Technology
+card_487,USA,Saks Fifth Avenue,341.58,Retail
+card_419,GBR,Tesco,279.14,Groceries
+card_331,USA,Walgreens,228.49,Retail
+card_398,USA,Saks Fifth Avenue,375.31,Retail
+card_341,USA,Chipotle,135.3,Restaurants
+card_23,USA,PayPal,2253.08,Technology
+card_88,USA,Dominos Pizza,187.75,Restaurants
+card_92,USA,Expedia,1417.46,Hotels
+card_497,USA,Amazon,15.83,E-commerce
+card_205,USA,Universal Parks,10.47,Streaming
+card_38,USA,Five Guys,67.27,Restaurants
+card_48,USA,United Airlines,1336.04,Travel
+card_427,USA,Regal Cinemas,34.06,Streaming
+card_490,USA,Bed Bath & Beyond,289.48,Retail
+card_483,USA,Bed Bath & Beyond,816.87,Retail
+card_467,USA,Papa Johns,259.8,Restaurants
+card_446,USA,Booking.com,1277.45,Hotels
+card_9,USA,Hyatt,1382.44,Hotels
+card_492,USA,Taco Bell,83.15,Restaurants
+card_55,JPN,Toyota,3799.71,Automotive
+card_100,USA,Delta Air Lines,717.78,Travel
+card_231,USA,Trader Joes,254.18,Groceries
+card_297,USA,Marriott International,1106.31,Hotels
+card_281,USA,Pizza Hut,235.17,Restaurants
+card_388,USA,Best Buy,657.88,Retail
+card_451,USA,Costco,61.45,Groceries
+card_344,USA,Neiman Marcus,547.3,Retail
+card_232,GBR,British Airways,1477.77,Travel
+card_322,USA,Macys,937.7,Retail
+card_374,FRA,Air France-KLM,112.6,Travel
+card_454,USA,Panera Bread,57.8,Restaurants
+card_238,USA,Southwest Airlines,241.01,Travel
+card_482,USA,Subway,220.53,Restaurants
+card_453,USA,Comcast,818.7,Telecom
+card_357,USA,Spotify,14.61,Streaming
+card_459,USA,Ticketmaster,508.32,Ticketing
+card_100,USA,Lowes,841.5,Retail
+card_371,USA,Macys,734.14,Retail
+card_188,JPN,Toyota,2756.96,Automotive
+card_442,USA,Microsoft,2992.7,Technology
+card_316,USA,Dominos Pizza,157.42,Restaurants
+card_145,HKG,Cathay Pacific,481.45,Travel
+card_209,USA,Walmart,173.86,Groceries
+card_361,USA,Hilton,1048.88,Hotels
+card_271,ARE,Emirates,1316.32,Travel
+card_480,USA,Ross Stores,638.11,Retail
+card_228,USA,CVS Health,762.32,Retail
+card_108,USA,Kroger,56.42,Groceries
+card_140,USA,Universal Parks,25.77,Streaming
+card_255,USA,Marriott International,63.53,Hotels
+card_367,USA,McDonalds,81.54,Restaurants
+card_53,USA,Wendys,220.67,Restaurants
+card_309,USA,Kroger,297.62,Groceries
+card_346,USA,Best Buy,103.68,Retail
+card_40,USA,Comcast,404.49,Telecom
+card_103,USA,Safeway,242.02,Groceries
+card_134,USA,Chick-fil-A,69.17,Restaurants
+card_475,USA,Lowes,557.31,Retail
+card_142,USA,Lowes,734.41,Retail
+card_473,USA,Dominos Pizza,188.64,Restaurants
+card_193,USA,Lowes,192.08,Retail
+card_199,USA,Kroger,113.06,Groceries
+card_341,USA,Comcast,784.87,Telecom
+card_4,USA,American Airlines,853.63,Travel
+card_4,USA,Comcast,10.2,Telecom
+card_276,USA,Panera Bread,230.69,Restaurants
+card_378,USA,Pizza Hut,20.24,Restaurants
+card_329,USA,Walgreens,747.01,Retail
+card_150,HKG,Cathay Pacific,343.6,Travel
+card_80,USA,Starbucks,287.84,Restaurants
+card_385,USA,Pizza Hut,116.7,Restaurants
+card_353,ARE,Emirates,524.05,Travel
+card_272,USA,Saks Fifth Avenue,153.14,Retail
+card_393,USA,Chipotle,98.63,Restaurants
+card_32,USA,Target,264.23,Groceries
+card_231,USA,Microsoft,4982.04,Technology
+card_304,USA,Marriott International,584.05,Hotels
+card_35,USA,Etsy,25.19,E-commerce
+card_367,USA,Regal Cinemas,37.49,Streaming
+card_265,USA,Etsy,44.88,E-commerce
+card_413,USA,AMC Theatres,31.69,Streaming
+card_190,USA,AMC Theatres,22.62,Streaming
+card_406,USA,Expedia,648.3,Hotels
+card_490,USA,InterContinental Hotels,1058.65,Hotels
+card_329,USA,Taco Bell,10.93,Restaurants
+card_31,USA,Taco Bell,189.68,Restaurants
+card_432,USA,Uniqlo,358.72,Retail
+card_298,USA,IKEA,795.23,Retail
+card_447,USA,Marriott International,184.84,Hotels
+card_54,USA,Best Buy,590.26,Retail
+card_332,USA,Comcast,483.57,Telecom
+card_72,USA,PayPal,3247.4,Technology
+card_258,USA,Target,28.81,Groceries
+card_433,USA,Comcast,582.08,Telecom
+card_104,USA,TJX Companies,563.68,Retail
+card_368,USA,Disney,30.23,Streaming
+card_103,USA,Ticketmaster,605.47,Ticketing
+card_269,USA,Burger King,206.18,Restaurants
+card_462,DEU,Lufthansa,1217.23,Travel
+card_259,USA,Regal Cinemas,17.14,Streaming
+card_38,USA,Walgreens,825.92,Retail
+card_369,USA,Expedia,772.47,Hotels
+card_27,USA,Chipotle,32.35,Restaurants
+card_469,FRA,Air France-KLM,134.9,Travel
+card_233,USA,AMC Theatres,20.04,Streaming
+card_464,USA,Nike,785.97,Retail
+card_414,USA,Target,215.23,Groceries
+card_294,USA,TJX Companies,789.67,Retail
+card_259,USA,Amazon,28.28,E-commerce
+card_251,USA,Chipotle,137.66,Restaurants
+card_116,USA,Gap Inc,151.72,Retail
+card_357,USA,Wayfair,19.77,E-commerce
+card_72,USA,Expedia,679.33,Hotels
+card_303,USA,T-Mobile,93.16,Telecom
+card_138,USA,Apple,1181.0,Technology
+card_314,USA,Burger King,183.49,Restaurants
+card_73,USA,Chipotle,223.34,Restaurants
+card_403,USA,Kohls,998.36,Retail
+card_200,USA,Universal Parks,46.99,Streaming
+card_344,USA,Papa Johns,196.34,Restaurants
+card_484,USA,General Motors,2164.12,Automotive
+card_95,USA,Adidas,638.0,Retail
+card_410,USA,Dominos Pizza,237.84,Restaurants
+card_280,USA,American Airlines,221.59,Travel
+card_4,USA,Microsoft,2108.53,Technology
+card_290,GBR,Tesco,253.54,Groceries
+card_466,USA,Comcast,386.91,Telecom
+card_54,FRA,Carrefour,175.84,Groceries
+card_319,USA,General Motors,2980.07,Automotive
+card_449,USA,Williams-Sonoma,188.55,Retail
+card_327,USA,The Home Depot,365.42,Retail
+card_252,USA,Nordstrom,337.84,Retail
+card_193,USA,Netflix,6.18,Streaming
+card_233,USA,Lululemon,29.07,Retail
+card_117,DEU,Aldi,251.19,Groceries
+card_390,USA,Spotify,17.29,Streaming
+card_108,USA,Chipotle,160.24,Restaurants
+card_335,USA,Disney,18.44,Streaming
+card_92,USA,Walmart,282.8,Groceries
+card_268,JPN,Toyota,1370.55,Automotive
+card_192,USA,Netflix,24.33,Streaming
+card_185,USA,AMC Theatres,44.27,Streaming
+card_212,JPN,Toyota,4225.47,Automotive
+card_364,USA,Airbnb,319.85,Hotels
+card_361,USA,Tesla,4032.95,Automotive
+card_496,USA,Safeway,142.87,Groceries
+card_397,USA,Comcast,485.55,Telecom
+card_127,USA,American Airlines,243.55,Travel
+card_408,FRA,Carrefour,33.37,Groceries
+card_247,USA,Google,3666.9,Technology
+card_351,USA,Etsy,27.34,E-commerce
+card_269,DEU,Lufthansa,683.43,Travel
+card_350,USA,Shopify,37.83,E-commerce
+card_191,USA,Microsoft,3851.01,Technology
+card_67,USA,PayPal,878.65,Technology
+card_231,USA,Hyatt,934.83,Hotels
+card_465,USA,Dunkin,49.25,Restaurants
+card_30,USA,General Motors,3781.74,Automotive
+card_405,USA,Wayfair,34.56,E-commerce
+card_475,USA,Shake Shack,287.42,Restaurants
+card_249,USA,Williams-Sonoma,73.61,Retail
+card_205,SGP,Singapore Airlines,132.73,Travel
+card_441,USA,KFC,91.83,Restaurants
+card_472,USA,General Motors,1382.36,Automotive
+card_174,JPN,Toyota,1310.2,Automotive
+card_214,USA,Marriott International,1364.07,Hotels
+card_66,USA,Chipotle,82.37,Restaurants
+card_263,USA,Trader Joes,88.87,Groceries
+card_42,USA,Bloomingdales,760.6,Retail
+card_211,USA,Shake Shack,140.42,Restaurants
+card_19,DEU,Aldi,235.25,Groceries
+card_177,USA,Nordstrom,70.04,Retail
+card_209,USA,Chick-fil-A,151.4,Restaurants
+card_4,USA,Tesla,264.71,Automotive
+card_413,USA,Five Guys,28.17,Restaurants
+card_478,USA,Expedia,1364.33,Hotels
+card_481,GBR,British Airways,251.91,Travel
+card_376,USA,Chipotle,164.4,Restaurants
+card_184,USA,T-Mobile,414.04,Telecom
+card_310,USA,Whole Foods,110.73,Groceries
+card_418,USA,Subway,270.95,Restaurants
+card_428,USA,PayPal,206.93,Technology
+card_72,USA,Netflix,34.87,Streaming
+card_39,USA,Universal Parks,48.35,Streaming
+card_483,USA,Whole Foods,172.45,Groceries
+card_499,USA,Apple,4690.43,Technology
+card_198,USA,Wendys,25.15,Restaurants
+card_383,USA,Gap Inc,421.7,Retail
+card_50,USA,Wendys,85.45,Restaurants
+card_81,USA,Taco Bell,221.94,Restaurants
+card_168,USA,Amazon,49.16,E-commerce
+card_297,USA,eBay,16.54,E-commerce
+card_394,USA,TJX Companies,655.9,Retail
+card_261,USA,Kroger,67.45,Groceries
+card_183,USA,Dunkin,173.95,Restaurants
+card_131,USA,Panera Bread,144.54,Restaurants
+card_488,USA,eBay,48.74,E-commerce
+card_338,USA,Tesla,3081.78,Automotive
+card_70,USA,Kroger,111.36,Groceries
+card_251,DEU,Lidl,43.09,Groceries
+card_189,USA,Papa Johns,53.86,Restaurants
+card_292,USA,Marriott International,376.71,Hotels
+card_404,USA,Delta Air Lines,413.9,Travel
+card_386,DEU,Lidl,256.68,Groceries
+card_465,USA,Kohls,563.42,Retail
+card_138,USA,Gap Inc,525.77,Retail
+card_461,USA,Apple,662.37,Technology
+card_248,USA,Tesla,4314.68,Automotive
+card_183,USA,Dunkin,219.62,Restaurants
+card_340,USA,Spotify,8.05,Streaming
+card_261,HKG,Cathay Pacific,1076.36,Travel
+card_199,USA,Costco,167.63,Groceries
+card_443,USA,Ford,500.45,Automotive
+card_409,USA,Ross Stores,461.01,Retail
+card_4,USA,Papa Johns,150.56,Restaurants
+card_288,USA,Regal Cinemas,12.46,Streaming
+card_143,USA,Disney,47.56,Streaming
+card_192,USA,Pizza Hut,256.49,Restaurants
+card_30,USA,Expedia,1020.08,Hotels
+card_381,USA,Best Buy,464.98,Retail
+card_190,USA,Saks Fifth Avenue,414.71,Retail
+card_441,USA,Expedia,993.91,Hotels
+card_33,USA,Hilton,840.88,Hotels
+card_17,USA,Chevron,40.59,Energy
+card_353,USA,Marriott International,793.13,Hotels
+card_146,USA,McDonalds,243.86,Restaurants
+card_92,USA,Kroger,143.18,Groceries
+card_426,USA,Williams-Sonoma,56.7,Retail
+card_145,USA,Shopify,40.38,E-commerce
+card_421,USA,Uber,205.36,Retail
+card_157,USA,PayPal,1367.24,Technology
+card_305,USA,Amazon,12.41,E-commerce
+card_405,USA,Disney,19.86,Streaming
+card_123,USA,Neiman Marcus,757.97,Retail
+card_289,USA,Trader Joes,160.62,Groceries
+card_430,USA,Delta Air Lines,347.08,Travel
+card_58,USA,Target,264.57,Groceries
+card_406,USA,Best Buy,880.18,Retail
+card_168,USA,Amazon,44.18,E-commerce
+card_219,USA,Comcast,242.6,Telecom
+card_439,USA,H&M,453.98,Retail
+card_53,USA,Pizza Hut,295.65,Restaurants
+card_269,USA,Ford,3882.86,Automotive
+card_60,USA,Wayfair,6.22,E-commerce
+card_460,USA,Tesla,419.5,Automotive
+card_439,USA,Walgreens,466.61,Retail
+card_91,USA,Kohls,909.67,Retail
+card_418,USA,Williams-Sonoma,541.01,Retail
+card_231,USA,Verizon,500.32,Telecom
+card_27,USA,TJX Companies,109.95,Retail
+card_443,GBR,British Airways,1002.33,Travel
+card_284,USA,Five Guys,248.41,Restaurants
+card_253,FRA,Air France-KLM,601.61,Travel
+card_67,USA,Expedia,1174.64,Hotels
+card_477,USA,Chick-fil-A,289.7,Restaurants
+card_58,USA,Tesla,1098.46,Automotive
+card_13,USA,KFC,161.77,Restaurants
+card_108,USA,Dunkin,93.27,Restaurants
+card_348,USA,Marriott International,1199.64,Hotels
+card_404,USA,Zara,579.71,Retail
+card_6,USA,Publix,194.03,Groceries
+card_189,USA,Apple,4009.78,Technology
+card_487,USA,Panera Bread,124.83,Restaurants
+card_34,USA,PayPal,4583.94,Technology
+card_443,USA,Bed Bath & Beyond,535.36,Retail
+card_109,HKG,Cathay Pacific,279.03,Travel
+card_351,USA,Shell,148.3,Energy
+card_366,USA,Airbnb,1200.23,Hotels
+card_37,USA,Shell,83.85,Energy
+card_44,USA,Chevron,175.72,Energy
+card_61,USA,eBay,45.78,E-commerce
+card_154,USA,Trader Joes,90.3,Groceries
+card_97,USA,Wayfair,49.26,E-commerce
+card_361,DEU,Lufthansa,254.03,Travel
+card_248,USA,Wendys,68.58,Restaurants
+card_498,USA,Marriott International,317.13,Hotels
+card_320,GBR,Tesco,269.26,Groceries
+card_253,USA,Bloomingdales,656.02,Retail
+card_235,USA,Amazon,11.84,E-commerce
+card_276,USA,Starbucks,137.69,Restaurants
+card_97,USA,Dominos Pizza,188.44,Restaurants
+card_292,USA,Universal Parks,8.76,Streaming
+card_82,USA,PayPal,4423.84,Technology
+card_275,GBR,BP,166.61,Energy
+card_48,USA,Pizza Hut,156.51,Restaurants
+card_323,USA,Five Guys,290.47,Restaurants
+card_375,USA,Subway,131.15,Restaurants
+card_143,USA,Universal Parks,49.28,Streaming
+card_17,USA,ExxonMobil,143.55,Energy
+card_148,USA,Uniqlo,636.5,Retail
+card_358,USA,Macys,170.13,Retail
+card_355,USA,Airbnb,1328.8,Hotels
+card_84,USA,Target,133.97,Groceries
+card_378,USA,Apple,894.94,Technology
+card_169,USA,T-Mobile,17.54,Telecom
+card_251,USA,Wendys,172.33,Restaurants
+card_477,USA,Airbnb,814.73,Hotels
+card_450,USA,Verizon,720.76,Telecom
+card_109,USA,Regal Cinemas,45.06,Streaming
+card_347,USA,Neiman Marcus,84.01,Retail
+card_64,USA,Verizon,732.84,Telecom
+card_415,USA,Marriott International,321.75,Hotels
+card_242,USA,Walgreens,858.89,Retail
+card_103,DEU,Lidl,247.53,Groceries
+card_3,USA,Bed Bath & Beyond,543.09,Retail
+card_292,USA,Etsy,36.96,E-commerce
+card_53,GBR,British Airways,505.81,Travel
+card_66,USA,Google,2408.72,Technology
+card_395,GBR,British Airways,1241.37,Travel
+card_115,USA,Hilton,715.93,Hotels
+card_344,SGP,Singapore Airlines,568.81,Travel
+card_183,JPN,Toyota,2521.64,Automotive
+card_47,USA,Trader Joes,250.19,Groceries
+card_500,USA,Uber,338.53,Retail
+card_435,USA,Southwest Airlines,301.95,Travel
+card_289,USA,Shopify,37.04,E-commerce
+card_357,USA,T-Mobile,826.85,Telecom
+card_136,USA,Wayfair,9.53,E-commerce
+card_173,USA,Lowes,243.67,Retail
+card_450,USA,Adidas,146.26,Retail
+card_75,USA,Macys,351.2,Retail
+card_198,USA,Southwest Airlines,703.01,Travel
+card_128,USA,Zara,750.08,Retail
+card_285,USA,Dominos Pizza,198.83,Restaurants
+card_482,USA,TJX Companies,622.82,Retail
+card_222,GBR,BP,89.9,Energy
+card_86,USA,Publix,254.02,Groceries
+card_236,USA,Macys,473.93,Retail
+card_134,USA,Regal Cinemas,49.06,Streaming
+card_9,USA,T-Mobile,635.97,Telecom
+card_451,USA,Saks Fifth Avenue,130.63,Retail
+card_166,USA,The Home Depot,677.8,Retail
+card_89,USA,Chevron,85.27,Energy
+card_268,USA,Delta Air Lines,1045.17,Travel
+card_485,ARE,Emirates,150.98,Travel
+card_271,USA,Papa Johns,60.72,Restaurants
+card_171,USA,InterContinental Hotels,1290.82,Hotels
+card_397,USA,Walgreens,231.04,Retail
+card_417,USA,Delta Air Lines,1263.71,Travel
+card_313,USA,Adidas,282.88,Retail
+card_46,USA,Dominos Pizza,196.44,Restaurants
+card_186,USA,Wayfair,36.24,E-commerce
+card_11,SGP,Singapore Airlines,793.35,Travel
+card_350,USA,Etsy,18.74,E-commerce
+card_377,USA,Costco,71.67,Groceries
+card_106,USA,Lowes,38.02,Retail
+card_402,USA,Comcast,307.43,Telecom
+card_63,USA,Etsy,34.39,E-commerce
+card_41,USA,Google,4697.69,Technology
+card_417,JPN,Toyota,4368.9,Automotive
+card_307,SGP,Singapore Airlines,1160.79,Travel
+card_248,USA,PayPal,3963.39,Technology
+card_211,USA,Expedia,1014.23,Hotels
+card_322,USA,AT&T,263.99,Telecom
+card_428,USA,Papa Johns,273.09,Restaurants
+card_280,USA,Charter Communications,672.38,Telecom
+card_484,USA,Trader Joes,172.53,Groceries
+card_82,FRA,Air France-KLM,210.93,Travel
+card_269,USA,Microsoft,2290.57,Technology
+card_442,USA,Uniqlo,463.06,Retail
+card_28,USA,Comcast,865.24,Telecom
+card_354,USA,Williams-Sonoma,548.91,Retail
+card_84,USA,Target,120.32,Groceries
+card_64,USA,Booking.com,1466.36,Hotels
+card_101,USA,AT&T,115.17,Telecom
+card_497,USA,Ross Stores,425.44,Retail
+card_39,USA,Shopify,6.89,E-commerce
+card_6,USA,Wayfair,38.3,E-commerce
+card_480,USA,Publix,276.24,Groceries
+card_229,USA,Starbucks,91.21,Restaurants
+card_441,USA,Kroger,258.92,Groceries
+card_19,USA,Apple,1531.87,Technology
+card_124,USA,Kroger,274.12,Groceries
+card_364,USA,Shell,158.17,Energy
+card_175,USA,Chipotle,243.42,Restaurants
+card_447,USA,Whole Foods,15.22,Groceries
+card_281,USA,Airbnb,1446.08,Hotels
+card_436,USA,Bloomingdales,728.04,Retail
+card_71,USA,Uniqlo,308.23,Retail
+card_465,USA,Tesla,4164.03,Automotive
+card_56,USA,CVS Health,285.11,Retail
+card_52,USA,Shake Shack,263.1,Restaurants
+card_214,USA,Netflix,10.07,Streaming
+card_332,USA,Spotify,36.67,Streaming
+card_240,USA,Zara,542.99,Retail
+card_119,USA,Safeway,37.99,Groceries
+card_86,USA,T-Mobile,245.68,Telecom
+card_68,USA,Shopify,5.56,E-commerce
+card_202,USA,TJX Companies,471.42,Retail
+card_220,USA,H&M,304.76,Retail
+card_387,USA,Subway,183.52,Restaurants
+card_117,JPN,Toyota,1556.47,Automotive
+card_432,USA,Comcast,303.42,Telecom
+card_483,USA,Netflix,38.44,Streaming
+card_431,USA,T-Mobile,52.9,Telecom
+card_100,GBR,Tesco,271.84,Groceries
+card_27,USA,eBay,43.35,E-commerce
+card_481,USA,Wendys,203.66,Restaurants
+card_146,USA,Subway,182.03,Restaurants
+card_150,USA,Ross Stores,892.84,Retail
+card_231,GBR,BP,61.51,Energy
+card_490,USA,Nordstrom,83.57,Retail
+card_265,USA,Nike,243.31,Retail
+card_344,USA,American Airlines,1202.14,Travel
+card_230,USA,Dominos Pizza,20.05,Restaurants
+card_85,USA,Saks Fifth Avenue,584.89,Retail
+card_272,USA,Starbucks,298.68,Restaurants
+card_311,DEU,Lufthansa,1290.76,Travel
+card_425,USA,Kroger,161.22,Groceries
+card_220,USA,Starbucks,28.46,Restaurants
+card_243,USA,AMC Theatres,42.41,Streaming
+card_223,USA,Apple,3034.99,Technology
+card_157,USA,Tesla,663.17,Automotive
+card_220,USA,InterContinental Hotels,186.09,Hotels
+card_248,USA,Adidas,910.08,Retail
+card_48,USA,Nike,670.85,Retail
+card_61,USA,Five Guys,250.49,Restaurants
+card_405,USA,Best Buy,879.58,Retail
+card_411,USA,Google,2901.68,Technology
+card_37,USA,Macys,519.86,Retail
+card_325,USA,IKEA,433.28,Retail
+card_95,USA,Papa Johns,101.91,Restaurants
+card_69,USA,Five Guys,136.03,Restaurants
+card_167,USA,Lowes,775.01,Retail
+card_207,USA,Shell,132.33,Energy
+card_86,USA,Kroger,268.83,Groceries
+card_93,USA,Zara,446.16,Retail
+card_32,USA,Dunkin,186.06,Restaurants
+card_97,DEU,Lidl,193.08,Groceries
+card_259,USA,Williams-Sonoma,593.74,Retail
+card_496,USA,Safeway,213.76,Groceries
+card_414,FRA,Air France-KLM,394.28,Travel
+card_355,USA,Comcast,514.8,Telecom
+card_47,USA,Universal Parks,9.69,Streaming
+card_256,USA,Southwest Airlines,607.54,Travel
+card_158,USA,General Motors,2489.57,Automotive
+card_96,USA,TJX Companies,653.96,Retail
+card_3,SGP,Singapore Airlines,1428.27,Travel
+card_301,USA,Hilton,920.94,Hotels
+card_55,USA,Papa Johns,225.64,Restaurants
+card_280,USA,Charter Communications,508.73,Telecom
+card_179,USA,Kroger,193.89,Groceries
+card_7,GBR,British Airways,152.85,Travel
+card_355,USA,AT&T,258.12,Telecom
+card_123,USA,Target,114.94,Groceries
+card_65,USA,Ross Stores,475.13,Retail
+card_301,DEU,Lufthansa,116.19,Travel
+card_193,USA,Ford,786.12,Automotive
+card_230,USA,AT&T,280.43,Telecom
+card_130,USA,Whole Foods,291.74,Groceries
+card_196,DEU,Lidl,106.09,Groceries
+card_441,USA,Nike,484.63,Retail
+card_324,USA,Taco Bell,66.87,Restaurants
+card_349,USA,Dunkin,187.13,Restaurants
+card_396,USA,Burger King,91.4,Restaurants
+card_316,USA,InterContinental Hotels,350.14,Hotels
+card_78,USA,Hilton,799.03,Hotels
+card_84,USA,Dominos Pizza,11.6,Restaurants
+card_161,USA,Tesla,137.55,Automotive
+card_417,USA,Shell,67.24,Energy
+card_88,DEU,Aldi,20.65,Groceries
+card_303,DEU,Lufthansa,206.64,Travel
+card_78,USA,United Airlines,541.35,Travel
+card_470,USA,Disney,41.12,Streaming
+card_414,USA,Papa Johns,175.89,Restaurants
+card_89,USA,Booking.com,793.37,Hotels
+card_456,USA,Ford,1538.1,Automotive
+card_253,USA,Lululemon,932.09,Retail
+card_260,USA,Regal Cinemas,22.87,Streaming
+card_251,USA,Apple,526.75,Technology
+card_423,USA,Five Guys,188.95,Restaurants
+card_201,USA,Expedia,215.07,Hotels
+card_253,USA,Chipotle,110.11,Restaurants
+card_107,USA,Hyatt,785.75,Hotels
+card_449,HKG,Cathay Pacific,1317.62,Travel
+card_449,USA,Bloomingdales,496.08,Retail
+card_9,DEU,Lufthansa,1068.28,Travel
+card_154,HKG,Cathay Pacific,1489.58,Travel
+card_391,USA,Subway,48.13,Restaurants
+card_456,USA,Bloomingdales,278.36,Retail
+card_206,SGP,Singapore Airlines,622.14,Travel
+card_153,USA,Papa Johns,132.33,Restaurants
+card_498,USA,Safeway,129.2,Groceries
+card_178,USA,Apple,4547.29,Technology
+card_229,USA,Nordstrom,715.46,Retail
+card_434,USA,Burger King,186.29,Restaurants
+card_203,USA,McDonalds,99.72,Restaurants
+card_400,USA,Google,4136.57,Technology
+card_157,USA,Chevron,192.36,Energy
+card_18,HKG,Cathay Pacific,1240.74,Travel
+card_142,USA,Subway,10.45,Restaurants
+card_307,USA,Shake Shack,194.56,Restaurants
+card_294,USA,ExxonMobil,38.69,Energy
+card_70,USA,Zara,261.32,Retail
+card_167,USA,InterContinental Hotels,136.31,Hotels
+card_301,JPN,Toyota,3058.6,Automotive
+card_55,GBR,British Airways,1045.56,Travel
+card_422,USA,Adidas,118.92,Retail
+card_122,USA,Safeway,121.31,Groceries
+card_463,USA,Taco Bell,142.31,Restaurants
+card_481,USA,Ford,1908.36,Automotive
+card_198,USA,Southwest Airlines,225.49,Travel
+card_397,USA,Delta Air Lines,657.47,Travel
+card_130,USA,The Home Depot,752.42,Retail
+card_406,GBR,British Airways,152.96,Travel
+card_398,USA,Airbnb,166.26,Hotels
+card_472,USA,Saks Fifth Avenue,358.0,Retail
+card_108,USA,Charter Communications,942.02,Telecom
+card_47,USA,AT&T,670.23,Telecom
+card_15,USA,Taco Bell,206.81,Restaurants
+card_396,USA,Hilton,574.78,Hotels
+card_277,DEU,Aldi,182.16,Groceries
+card_226,USA,Etsy,5.46,E-commerce
+card_302,USA,Pizza Hut,194.47,Restaurants
+card_478,USA,Zara,913.72,Retail
+card_216,USA,Nordstrom,614.51,Retail
+card_279,DEU,Lufthansa,1316.86,Travel
+card_396,GBR,BP,153.08,Energy
+card_84,USA,Shell,50.49,Energy
+card_187,USA,Dominos Pizza,271.71,Restaurants
+card_119,USA,Google,425.57,Technology
+card_450,USA,Shell,120.77,Energy
+card_183,USA,Neiman Marcus,146.43,Retail
+card_93,USA,Best Buy,16.65,Retail
+card_212,USA,Ticketmaster,424.92,Ticketing
+card_399,USA,Spotify,18.28,Streaming
+card_349,USA,Dominos Pizza,150.94,Restaurants
+card_347,USA,Uber,579.31,Retail
+card_16,USA,Bloomingdales,48.52,Retail
+card_406,USA,TJX Companies,127.39,Retail
+card_417,USA,Walmart,172.01,Groceries
+card_230,USA,Wayfair,20.44,E-commerce
+card_315,USA,Verizon,730.53,Telecom
+card_308,USA,Amazon,34.35,E-commerce
+card_100,USA,Shopify,43.05,E-commerce
+card_413,USA,Trader Joes,210.82,Groceries
+card_233,JPN,Toyota,2206.66,Automotive
+card_225,USA,Publix,205.16,Groceries
+card_372,USA,Pizza Hut,89.86,Restaurants
+card_359,USA,Disney,18.78,Streaming
+card_218,GBR,British Airways,1194.03,Travel
+card_35,USA,T-Mobile,449.19,Telecom
+card_79,USA,Taco Bell,241.53,Restaurants
+card_265,USA,Panera Bread,248.5,Restaurants
+card_267,USA,PayPal,4302.06,Technology
+card_87,USA,T-Mobile,917.05,Telecom
+card_373,USA,T-Mobile,433.83,Telecom
+card_471,USA,Uniqlo,322.27,Retail
+card_48,USA,Ticketmaster,584.29,Ticketing
+card_244,HKG,Cathay Pacific,588.2,Travel
+card_194,USA,Microsoft,3045.26,Technology
+card_395,USA,Wayfair,36.75,E-commerce
+card_464,USA,Panera Bread,209.64,Restaurants
+card_429,DEU,Lidl,118.62,Groceries
+card_108,USA,Ross Stores,171.03,Retail
+card_396,USA,Zara,433.38,Retail
+card_423,USA,eBay,11.42,E-commerce
+card_168,USA,Shake Shack,268.13,Restaurants
+card_185,USA,T-Mobile,349.15,Telecom
+card_103,USA,Delta Air Lines,273.97,Travel
+card_43,USA,Uniqlo,30.32,Retail
+card_161,DEU,Aldi,197.29,Groceries
+card_131,USA,Spotify,33.66,Streaming
+card_146,USA,Wayfair,20.33,E-commerce
+card_16,USA,Williams-Sonoma,76.35,Retail
+card_458,USA,Wendys,128.79,Restaurants
+card_128,USA,United Airlines,501.27,Travel
+card_8,USA,Regal Cinemas,35.47,Streaming
+card_474,USA,Lululemon,607.75,Retail
+card_192,USA,Whole Foods,115.73,Groceries
+card_480,USA,IKEA,221.8,Retail
+card_23,HKG,Cathay Pacific,1482.65,Travel
+card_411,USA,Chevron,107.18,Energy
+card_425,USA,Regal Cinemas,35.97,Streaming
+card_460,USA,InterContinental Hotels,253.8,Hotels
+card_410,USA,CVS Health,488.16,Retail
+card_247,USA,H&M,32.4,Retail
+card_479,USA,Shell,115.93,Energy
+card_390,USA,Bloomingdales,964.2,Retail
+card_104,USA,Starbucks,121.42,Restaurants
+card_125,USA,TJX Companies,43.8,Retail
+card_37,USA,Macys,35.8,Retail
+card_40,USA,Chevron,95.96,Energy
+card_132,USA,Amazon,12.2,E-commerce
+card_280,USA,Comcast,28.24,Telecom
+card_87,USA,Macys,757.43,Retail
+card_417,USA,Lululemon,461.23,Retail
+card_35,USA,Shopify,18.02,E-commerce
+card_48,USA,General Motors,4510.41,Automotive
+card_160,USA,The Home Depot,120.56,Retail
+card_180,USA,Chevron,192.51,Energy
+card_248,USA,Kroger,101.05,Groceries
+card_315,USA,Ross Stores,888.96,Retail
+card_499,USA,Papa Johns,184.85,Restaurants
+card_199,USA,Google,4150.87,Technology
+card_84,SGP,Singapore Airlines,1476.82,Travel
+card_302,USA,Kroger,93.64,Groceries
+card_239,USA,Etsy,48.25,E-commerce
+card_361,USA,American Airlines,614.75,Travel
+card_92,USA,T-Mobile,388.58,Telecom
+card_182,USA,Comcast,343.69,Telecom
+card_232,USA,ExxonMobil,122.04,Energy
+card_333,DEU,Lidl,54.7,Groceries
+card_193,USA,H&M,555.94,Retail
+card_394,USA,Google,2754.35,Technology
+card_165,USA,Nordstrom,763.09,Retail
+card_398,USA,The Home Depot,834.48,Retail
+card_289,USA,Hilton,688.64,Hotels
+card_227,USA,Costco,97.68,Groceries
+card_142,USA,Best Buy,263.04,Retail
+card_452,USA,Panera Bread,66.44,Restaurants
+card_105,USA,Target,26.72,Groceries
+card_448,USA,Trader Joes,109.31,Groceries
+card_249,USA,Marriott International,441.86,Hotels
+card_237,GBR,BP,194.29,Energy
+card_485,USA,Hilton,858.68,Hotels
+card_339,USA,Five Guys,110.71,Restaurants
+card_158,USA,Netflix,31.12,Streaming
+card_231,USA,Lululemon,143.5,Retail
+card_179,USA,Verizon,446.82,Telecom
+card_140,USA,Chevron,136.46,Energy
+card_491,USA,Five Guys,151.78,Restaurants
+card_36,USA,Charter Communications,404.77,Telecom
+card_362,JPN,Toyota,4969.86,Automotive
+card_45,GBR,BP,179.65,Energy
+card_259,USA,Dunkin,190.79,Restaurants
+card_496,USA,Trader Joes,175.12,Groceries
+card_250,ARE,Emirates,949.96,Travel
+card_245,USA,Kohls,205.31,Retail
+card_373,USA,General Motors,2036.17,Automotive
+card_405,USA,Hyatt,107.22,Hotels
+card_86,USA,Five Guys,147.91,Restaurants
+card_489,USA,Neiman Marcus,545.31,Retail
+card_111,USA,InterContinental Hotels,380.24,Hotels
+card_374,USA,Safeway,289.57,Groceries
+card_419,USA,Uber,909.91,Retail
+card_147,USA,General Motors,3638.5,Automotive
+card_95,USA,Booking.com,823.41,Hotels
+card_279,GBR,British Airways,1311.46,Travel
+card_424,USA,Delta Air Lines,239.45,Travel
+card_117,USA,Publix,239.25,Groceries
+card_261,USA,Nordstrom,129.2,Retail
+card_291,USA,CVS Health,795.24,Retail
+card_364,USA,Subway,89.97,Restaurants
+card_95,USA,Dominos Pizza,264.36,Restaurants
+card_56,USA,Dominos Pizza,283.77,Restaurants
+card_268,USA,Bloomingdales,153.05,Retail
+card_415,USA,Chevron,108.65,Energy
+card_496,USA,Ross Stores,981.08,Retail
+card_496,USA,Charter Communications,485.99,Telecom
+card_483,USA,Walgreens,864.23,Retail
+card_238,USA,Walmart,180.73,Groceries
+card_20,USA,Neiman Marcus,378.45,Retail
+card_435,USA,Hyatt,464.39,Hotels
+card_280,USA,Amazon,14.15,E-commerce
+card_238,USA,Bloomingdales,762.99,Retail
+card_212,USA,AT&T,389.61,Telecom
+card_64,USA,KFC,158.27,Restaurants
+card_281,USA,Verizon,494.86,Telecom
+card_266,USA,Marriott International,887.05,Hotels
+card_382,USA,Airbnb,1305.09,Hotels
+card_192,FRA,Air France-KLM,1472.07,Travel
+card_102,USA,Adidas,410.55,Retail
+card_236,USA,Regal Cinemas,42.24,Streaming
+card_65,DEU,Aldi,231.71,Groceries
+card_378,GBR,BP,127.5,Energy
+card_335,USA,Charter Communications,956.27,Telecom
+card_408,USA,Subway,68.14,Restaurants
+card_299,GBR,British Airways,208.43,Travel
+card_35,HKG,Cathay Pacific,1288.24,Travel
+card_99,USA,Zara,441.95,Retail
+card_268,USA,Hyatt,1278.1,Hotels
+card_85,USA,Panera Bread,269.0,Restaurants
+card_404,USA,Williams-Sonoma,67.15,Retail
+card_482,USA,Shopify,44.76,E-commerce
+card_267,USA,Williams-Sonoma,451.08,Retail
+card_347,USA,Bloomingdales,512.88,Retail
+card_167,FRA,Carrefour,191.71,Groceries
+card_71,USA,Comcast,926.75,Telecom
+card_216,USA,T-Mobile,24.02,Telecom
+card_474,USA,Macys,479.46,Retail
+card_195,USA,InterContinental Hotels,1047.2,Hotels
+card_85,USA,Google,3641.26,Technology
+card_30,USA,Wendys,210.83,Restaurants
+card_313,USA,General Motors,758.73,Automotive
+card_235,USA,ExxonMobil,80.9,Energy
+card_236,USA,eBay,21.14,E-commerce
+card_129,USA,Tesla,4041.74,Automotive
+card_287,USA,IKEA,282.37,Retail
+card_481,USA,H&M,214.65,Retail
+card_285,USA,Uber,957.66,Retail
+card_361,FRA,Air France-KLM,62.85,Travel
+card_277,USA,Delta Air Lines,1496.84,Travel
+card_232,HKG,Cathay Pacific,1031.39,Travel
+card_221,GBR,Tesco,250.26,Groceries
+card_77,USA,Regal Cinemas,18.26,Streaming
+card_170,USA,Kohls,19.24,Retail
+card_243,FRA,Carrefour,223.98,Groceries
+card_230,HKG,Cathay Pacific,1259.51,Travel
+card_237,FRA,Carrefour,224.74,Groceries
+card_77,USA,Whole Foods,51.43,Groceries
+card_472,GBR,BP,158.08,Energy
+card_299,USA,Expedia,1164.94,Hotels
+card_303,USA,Spotify,34.63,Streaming
+card_462,USA,Shell,160.24,Energy
+card_288,USA,Apple,4245.02,Technology
+card_286,USA,Southwest Airlines,939.73,Travel
+card_156,USA,Ford,534.16,Automotive
+card_454,USA,Whole Foods,151.41,Groceries
+card_1,USA,T-Mobile,82.26,Telecom
+card_282,USA,KFC,128.19,Restaurants
+card_318,FRA,Carrefour,128.06,Groceries
+card_278,USA,Whole Foods,29.14,Groceries
+card_153,ARE,Emirates,555.79,Travel
+card_62,USA,Ford,643.89,Automotive
+card_265,USA,TJX Companies,809.19,Retail
+card_420,FRA,Carrefour,284.83,Groceries
+card_201,GBR,British Airways,154.86,Travel
+card_382,USA,Uniqlo,955.34,Retail
+card_64,USA,McDonalds,161.55,Restaurants
+card_125,USA,Microsoft,1567.87,Technology
+card_60,USA,Spotify,8.46,Streaming
+card_168,USA,Gap Inc,503.12,Retail
+card_78,FRA,Carrefour,240.41,Groceries
+card_205,GBR,British Airways,1075.28,Travel
+card_471,USA,Wayfair,7.26,E-commerce
+card_85,USA,Neiman Marcus,77.54,Retail
+card_184,USA,AMC Theatres,23.13,Streaming
+card_45,USA,H&M,298.81,Retail
+card_189,USA,Disney,15.46,Streaming
+card_9,USA,Uber,284.6,Retail
+card_301,USA,Ticketmaster,804.47,Ticketing
+card_223,USA,Best Buy,929.58,Retail
+card_115,USA,Shopify,23.23,E-commerce
+card_496,USA,Bed Bath & Beyond,906.58,Retail
+card_388,USA,McDonalds,103.23,Restaurants
+card_416,USA,Bloomingdales,479.05,Retail
+card_337,USA,United Airlines,377.74,Travel
+card_284,USA,KFC,195.74,Restaurants
+card_477,USA,Netflix,49.05,Streaming
+card_359,USA,Comcast,605.48,Telecom
+card_217,USA,IKEA,361.03,Retail
+card_450,USA,Saks Fifth Avenue,649.58,Retail
+card_401,USA,American Airlines,228.23,Travel
+card_256,USA,Taco Bell,267.71,Restaurants
+card_194,USA,Microsoft,2565.11,Technology
+card_315,USA,Comcast,452.1,Telecom
+card_282,USA,Regal Cinemas,31.36,Streaming
+card_160,USA,Google,3161.44,Technology
+card_68,USA,The Home Depot,76.42,Retail
+card_385,USA,The Home Depot,684.2,Retail
+card_367,USA,Taco Bell,80.16,Restaurants
+card_67,USA,Charter Communications,715.38,Telecom
+card_408,USA,Panera Bread,248.54,Restaurants
+card_54,USA,Taco Bell,243.15,Restaurants
+card_112,USA,Lululemon,554.74,Retail
+card_453,USA,Microsoft,2648.83,Technology
+card_89,USA,Walmart,51.43,Groceries
+card_416,USA,Chevron,161.81,Energy
+card_408,USA,Spotify,17.21,Streaming
+card_81,DEU,Lidl,154.04,Groceries
+card_235,USA,Shopify,17.79,E-commerce
+card_496,USA,Five Guys,48.81,Restaurants
+card_182,GBR,BP,137.02,Energy
+card_142,USA,TJX Companies,59.06,Retail
+card_205,USA,American Airlines,1135.54,Travel
+card_371,USA,Williams-Sonoma,321.0,Retail
+card_353,FRA,Carrefour,10.04,Groceries
+card_146,USA,Amazon,28.0,E-commerce
+card_220,USA,Costco,23.59,Groceries
+card_341,USA,Kroger,90.09,Groceries
+card_303,USA,T-Mobile,708.44,Telecom
+card_73,USA,Tesla,407.18,Automotive
+card_434,USA,Macys,840.14,Retail
+card_131,USA,Chevron,30.65,Energy
+card_337,USA,Verizon,250.59,Telecom
+card_74,USA,Target,224.86,Groceries
+card_382,USA,Nike,319.69,Retail
+card_10,USA,IKEA,106.38,Retail
+card_167,USA,Verizon,363.43,Telecom
+card_383,USA,Nike,274.04,Retail
+card_6,USA,Dunkin,254.39,Restaurants
+card_271,USA,Best Buy,316.78,Retail
+card_19,FRA,Carrefour,238.79,Groceries
+card_460,USA,Shake Shack,268.64,Restaurants
+card_163,USA,Safeway,135.81,Groceries
+card_147,USA,Nike,910.39,Retail
+card_87,USA,Nike,380.43,Retail
+card_50,USA,Booking.com,1447.91,Hotels
+card_282,USA,IKEA,93.84,Retail
+card_66,ARE,Emirates,1046.18,Travel
+card_209,USA,T-Mobile,496.34,Telecom
+card_369,GBR,British Airways,612.09,Travel
+card_303,USA,Wayfair,33.47,E-commerce
+card_38,USA,Charter Communications,705.34,Telecom
+card_166,USA,Five Guys,11.27,Restaurants
+card_443,DEU,Lidl,58.42,Groceries
+card_299,USA,AT&T,714.48,Telecom
+card_291,USA,Disney,34.99,Streaming
+card_24,USA,Pizza Hut,290.15,Restaurants
+card_468,USA,Marriott International,1153.5,Hotels
+card_264,USA,Nike,951.02,Retail
+card_108,FRA,Air France-KLM,1068.68,Travel
+card_152,USA,Booking.com,482.18,Hotels
+card_171,USA,Spotify,9.74,Streaming
+card_382,USA,Best Buy,782.91,Retail
+card_390,USA,Kroger,196.8,Groceries
+card_442,USA,Netflix,7.17,Streaming
+card_37,USA,Whole Foods,114.41,Groceries
+card_392,DEU,Lidl,287.47,Groceries
+card_182,FRA,Air France-KLM,775.58,Travel
+card_146,USA,Lululemon,435.57,Retail
+card_417,USA,Comcast,460.41,Telecom
+card_98,USA,Regal Cinemas,14.4,Streaming
+card_271,USA,Apple,1906.67,Technology
+card_132,USA,Target,117.25,Groceries
+card_305,USA,General Motors,356.54,Automotive
+card_310,GBR,BP,160.49,Energy
+card_266,USA,AMC Theatres,23.74,Streaming
+card_168,JPN,Toyota,4128.68,Automotive
+card_118,USA,Walmart,256.6,Groceries
+card_499,USA,Wendys,71.48,Restaurants
+card_179,DEU,Lufthansa,1003.16,Travel
+card_15,DEU,Lufthansa,734.81,Travel
+card_250,USA,Pizza Hut,265.25,Restaurants
+card_125,USA,Saks Fifth Avenue,219.66,Retail
+card_308,JPN,Toyota,3421.28,Automotive
+card_471,USA,Dominos Pizza,186.25,Restaurants
+card_164,USA,Costco,95.64,Groceries
+card_499,USA,Regal Cinemas,11.15,Streaming
+card_74,USA,Chevron,140.78,Energy
+card_374,USA,Ford,3719.13,Automotive
+card_76,USA,United Airlines,507.66,Travel
+card_475,USA,Kohls,646.61,Retail
+card_318,USA,ExxonMobil,97.17,Energy
+card_417,USA,Nike,714.64,Retail
+card_114,FRA,Carrefour,67.77,Groceries
+card_114,FRA,Carrefour,268.16,Groceries
+card_430,USA,Shake Shack,93.35,Restaurants
+card_62,USA,Whole Foods,116.66,Groceries
+card_408,USA,eBay,7.61,E-commerce
+card_332,FRA,Carrefour,42.34,Groceries
+card_366,USA,Amazon,28.21,E-commerce
+card_132,USA,Neiman Marcus,271.25,Retail
+card_276,USA,Williams-Sonoma,836.3,Retail
+card_358,USA,Universal Parks,5.66,Streaming
+card_291,USA,Gap Inc,382.2,Retail
+card_148,USA,Marriott International,539.15,Hotels
+card_171,USA,Regal Cinemas,5.87,Streaming
+card_478,USA,Verizon,128.75,Telecom
+card_228,USA,Taco Bell,129.96,Restaurants
+card_245,USA,Hilton,764.65,Hotels
+card_206,USA,Nike,407.27,Retail
+card_432,USA,Ticketmaster,533.28,Ticketing
+card_57,USA,Spotify,31.78,Streaming
+card_387,GBR,BP,31.69,Energy
+card_94,USA,General Motors,2374.07,Automotive
+card_284,USA,Bed Bath & Beyond,963.68,Retail
+card_443,USA,Southwest Airlines,802.6,Travel
+card_456,USA,InterContinental Hotels,1032.44,Hotels
+card_26,USA,Booking.com,502.2,Hotels
+card_352,USA,Lowes,775.12,Retail
+card_244,USA,Adidas,774.06,Retail
+card_234,USA,Uniqlo,523.69,Retail
+card_221,USA,Best Buy,976.13,Retail
+card_83,USA,PayPal,715.2,Technology
+card_37,USA,Zara,21.86,Retail
+card_256,USA,Taco Bell,233.35,Restaurants
+card_483,USA,Tesla,4055.06,Automotive
+card_376,USA,Shell,50.44,Energy
+card_8,USA,ExxonMobil,75.15,Energy
+card_13,DEU,Lidl,15.09,Groceries
+card_260,USA,Pizza Hut,95.06,Restaurants
+card_101,USA,United Airlines,1171.06,Travel
+card_448,USA,Ross Stores,520.37,Retail
+card_221,USA,Shopify,20.66,E-commerce
+card_390,USA,Whole Foods,117.8,Groceries
+card_255,USA,Marriott International,51.96,Hotels
+card_68,FRA,Carrefour,96.94,Groceries
+card_341,USA,Saks Fifth Avenue,648.23,Retail
+card_208,FRA,Air France-KLM,1462.58,Travel
+card_415,USA,Panera Bread,255.65,Restaurants
+card_488,USA,Neiman Marcus,28.48,Retail
+card_357,USA,Starbucks,270.58,Restaurants
+card_58,USA,Netflix,40.24,Streaming
+card_65,USA,Comcast,781.47,Telecom
+card_416,USA,Uniqlo,460.71,Retail
+card_1,USA,Neiman Marcus,401.02,Retail
+card_171,USA,Southwest Airlines,489.23,Travel
+card_20,DEU,Lufthansa,145.26,Travel
+card_92,USA,AT&T,232.09,Telecom
+card_109,DEU,Lidl,81.52,Groceries
+card_392,USA,McDonalds,150.38,Restaurants
+card_90,USA,Nordstrom,748.71,Retail
+card_194,GBR,British Airways,737.02,Travel
+card_422,USA,Safeway,26.77,Groceries
+card_46,USA,Ross Stores,958.0,Retail
+card_367,SGP,Singapore Airlines,1416.95,Travel
+card_367,USA,Nordstrom,786.26,Retail
+card_50,DEU,Lufthansa,1487.43,Travel
+card_496,USA,Bloomingdales,546.76,Retail
+card_275,USA,Southwest Airlines,1446.01,Travel
+card_340,USA,Charter Communications,80.23,Telecom
+card_269,USA,Publix,116.05,Groceries
+card_301,GBR,Tesco,75.36,Groceries
+card_15,USA,Comcast,199.85,Telecom
+card_65,USA,ExxonMobil,53.94,Energy
+card_38,USA,Lululemon,624.3,Retail
+card_257,USA,Neiman Marcus,782.42,Retail
+card_217,USA,Safeway,177.71,Groceries
+card_425,USA,eBay,11.61,E-commerce
+card_389,GBR,BP,167.89,Energy
+card_419,USA,Burger King,194.43,Restaurants
+card_428,FRA,Air France-KLM,612.84,Travel
+card_190,USA,H&M,675.76,Retail
+card_210,GBR,BP,74.18,Energy
+card_58,USA,Ford,1791.44,Automotive
+card_230,USA,Apple,4595.68,Technology
+card_420,USA,Delta Air Lines,471.23,Travel
+card_123,USA,Chick-fil-A,146.3,Restaurants
+card_159,USA,Saks Fifth Avenue,890.69,Retail
+card_448,USA,Taco Bell,215.24,Restaurants
+card_241,USA,Amazon,7.8,E-commerce
+card_268,USA,Trader Joes,52.72,Groceries
+card_123,USA,Neiman Marcus,12.8,Retail
+card_259,FRA,Air France-KLM,964.84,Travel
+card_144,USA,Whole Foods,139.83,Groceries
+card_8,USA,Nike,138.6,Retail
+card_162,USA,Best Buy,958.14,Retail
+card_11,USA,Regal Cinemas,28.83,Streaming
+card_124,USA,eBay,15.89,E-commerce
+card_427,USA,Ticketmaster,503.1,Ticketing
+card_423,GBR,Tesco,207.09,Groceries
+card_283,USA,KFC,32.11,Restaurants
+card_10,USA,Panera Bread,89.66,Restaurants
+card_317,USA,Chevron,167.18,Energy
+card_410,USA,PayPal,2352.36,Technology
+card_126,USA,Universal Parks,29.6,Streaming
+card_490,USA,American Airlines,677.58,Travel
+card_242,USA,Macys,48.68,Retail
+card_296,USA,Kroger,58.07,Groceries
+card_89,USA,Lowes,448.31,Retail
+card_210,FRA,Air France-KLM,353.32,Travel
+card_344,FRA,Carrefour,24.49,Groceries
+card_215,USA,Whole Foods,254.66,Groceries
+card_257,USA,Marriott International,1472.73,Hotels
+card_266,USA,Spotify,40.69,Streaming
+card_5,USA,Saks Fifth Avenue,854.52,Retail
+card_254,USA,Booking.com,400.87,Hotels
+card_296,USA,Expedia,1442.91,Hotels
+card_69,USA,InterContinental Hotels,335.54,Hotels
+card_393,USA,Shake Shack,285.91,Restaurants
+card_25,USA,Delta Air Lines,1492.49,Travel
+card_145,USA,CVS Health,713.16,Retail
+card_394,USA,Dunkin,294.53,Restaurants
+card_173,USA,Wayfair,30.63,E-commerce
+card_290,USA,Nike,263.24,Retail
+card_146,USA,The Home Depot,439.81,Retail
+card_25,USA,Papa Johns,182.13,Restaurants
+card_395,USA,Target,31.19,Groceries
+card_301,GBR,Tesco,190.48,Groceries
+card_255,USA,The Home Depot,981.27,Retail
+card_297,GBR,British Airways,325.66,Travel
+card_248,USA,Wendys,239.85,Restaurants
+card_116,USA,Macys,908.36,Retail
+card_485,USA,Subway,283.67,Restaurants
+card_36,USA,Southwest Airlines,1442.2,Travel
+card_257,USA,Best Buy,523.85,Retail
+card_337,USA,Ford,4888.81,Automotive
+card_495,USA,Best Buy,758.52,Retail
+card_300,USA,United Airlines,284.42,Travel
+card_35,USA,Expedia,741.51,Hotels
+card_355,USA,AT&T,719.74,Telecom
+card_392,USA,Amazon,16.13,E-commerce
+card_479,USA,Charter Communications,642.41,Telecom
+card_386,GBR,British Airways,1016.57,Travel
+card_407,USA,eBay,12.32,E-commerce
+card_160,USA,PayPal,2868.92,Technology
+card_406,USA,Ford,3880.97,Automotive
+card_98,DEU,Lufthansa,773.4,Travel
+card_497,USA,Subway,13.51,Restaurants
+card_7,USA,KFC,12.62,Restaurants
+card_406,USA,Bed Bath & Beyond,360.24,Retail
+card_12,FRA,Air France-KLM,1392.98,Travel
+card_97,USA,Wayfair,15.29,E-commerce
+card_204,USA,Regal Cinemas,33.55,Streaming
+card_411,USA,Charter Communications,225.97,Telecom
+card_222,USA,Kohls,325.06,Retail
+card_367,USA,Kroger,255.93,Groceries
+card_19,USA,KFC,221.37,Restaurants
+card_267,USA,Hyatt,188.33,Hotels
+card_434,USA,Verizon,431.56,Telecom
+card_410,USA,Bloomingdales,34.02,Retail
+card_148,USA,The Home Depot,483.49,Retail
+card_435,USA,Universal Parks,34.81,Streaming
+card_450,USA,Gap Inc,122.91,Retail
+card_246,USA,Subway,93.78,Restaurants
+card_445,USA,Williams-Sonoma,400.85,Retail
+card_173,USA,Marriott International,1383.32,Hotels
+card_320,USA,Williams-Sonoma,993.29,Retail
+card_233,USA,Shell,37.63,Energy
+card_341,HKG,Cathay Pacific,1153.46,Travel
+card_446,USA,Comcast,374.87,Telecom
+card_373,USA,Southwest Airlines,619.06,Travel
+card_447,USA,Best Buy,755.49,Retail
+card_465,USA,Southwest Airlines,1381.72,Travel
+card_493,USA,InterContinental Hotels,1428.85,Hotels
+card_267,USA,Neiman Marcus,579.24,Retail
+card_63,GBR,BP,90.71,Energy
+card_257,USA,Disney,40.44,Streaming
+card_43,USA,PayPal,1329.91,Technology
+card_95,USA,eBay,30.38,E-commerce
+card_407,ARE,Emirates,569.94,Travel
+card_183,USA,Publix,200.42,Groceries
+card_430,USA,Zara,244.2,Retail
+card_171,USA,Shell,62.57,Energy
+card_414,USA,General Motors,4599.37,Automotive
+card_68,USA,Chick-fil-A,39.52,Restaurants
+card_485,USA,Amazon,27.77,E-commerce
+card_410,USA,Macys,224.75,Retail
+card_344,ARE,Emirates,106.45,Travel
+card_107,USA,Verizon,40.84,Telecom
+card_150,USA,Five Guys,60.81,Restaurants
+card_430,USA,Starbucks,261.36,Restaurants
+card_315,USA,eBay,17.71,E-commerce
+card_53,USA,Bed Bath & Beyond,950.71,Retail
+card_185,USA,Gap Inc,583.71,Retail
+card_158,USA,Gap Inc,439.43,Retail
+card_356,USA,Pizza Hut,178.23,Restaurants
+card_438,USA,Walgreens,519.11,Retail
+card_374,USA,AMC Theatres,39.14,Streaming
+card_391,USA,Nike,286.08,Retail
+card_414,USA,PayPal,1829.95,Technology
+card_45,USA,Publix,269.29,Groceries
+card_379,USA,TJX Companies,946.72,Retail
+card_86,USA,Expedia,1344.21,Hotels
+card_393,USA,Williams-Sonoma,422.35,Retail
+card_58,USA,H&M,781.46,Retail
+card_454,USA,Universal Parks,26.44,Streaming
+card_415,USA,Wendys,154.29,Restaurants
+card_182,USA,Hilton,346.79,Hotels
+card_411,USA,Dunkin,181.43,Restaurants
+card_345,USA,Walmart,63.98,Groceries
+card_316,USA,Ford,1724.67,Automotive
+card_212,USA,Target,257.96,Groceries
+card_298,USA,Kohls,211.04,Retail
+card_192,USA,Safeway,30.64,Groceries
+card_465,USA,Uber,73.66,Retail
+card_481,USA,Comcast,941.08,Telecom
+card_200,USA,Shopify,27.81,E-commerce
+card_22,USA,Chipotle,128.73,Restaurants
+card_388,USA,Shell,167.85,Energy
+card_487,DEU,Lidl,252.39,Groceries
+card_166,USA,Amazon,19.95,E-commerce
+card_163,USA,Uniqlo,695.15,Retail
+card_440,USA,Adidas,772.27,Retail
+card_444,USA,Lululemon,656.38,Retail
+card_371,DEU,Lidl,53.96,Groceries
+card_333,USA,Walgreens,876.5,Retail
+card_214,USA,General Motors,2741.56,Automotive
+card_232,USA,CVS Health,286.06,Retail
+card_120,USA,Ticketmaster,428.1,Ticketing
+card_126,USA,Macys,42.38,Retail
+card_15,USA,Target,47.08,Groceries
+card_99,USA,Dunkin,232.01,Restaurants
+card_371,USA,Papa Johns,10.0,Restaurants
+card_424,USA,Uniqlo,419.48,Retail
+card_149,ARE,Emirates,807.64,Travel
+card_115,USA,Hilton,129.22,Hotels
+card_152,USA,Subway,292.19,Restaurants
+card_287,USA,TJX Companies,229.99,Retail
+card_225,USA,Netflix,18.69,Streaming
+card_147,USA,Comcast,307.42,Telecom
+card_469,HKG,Cathay Pacific,384.1,Travel
+card_147,USA,Wendys,10.43,Restaurants
+card_329,GBR,British Airways,1107.55,Travel
+card_243,USA,Southwest Airlines,1451.93,Travel
+card_370,GBR,British Airways,375.23,Travel
+card_419,USA,Papa Johns,202.28,Restaurants
+card_260,USA,Lowes,743.19,Retail
+card_250,USA,Bed Bath & Beyond,849.18,Retail
+card_282,USA,Best Buy,425.52,Retail
+card_239,USA,Walgreens,306.42,Retail
+card_92,USA,Gap Inc,328.67,Retail
+card_482,USA,Spotify,37.07,Streaming
+card_89,USA,eBay,41.76,E-commerce
+card_403,USA,Marriott International,313.34,Hotels
+card_146,USA,McDonalds,117.57,Restaurants
+card_155,USA,Spotify,45.59,Streaming
+card_45,JPN,Toyota,4052.8,Automotive
+card_455,USA,Publix,295.61,Groceries
+card_141,USA,Trader Joes,228.73,Groceries
+card_391,USA,Booking.com,620.13,Hotels
+card_333,USA,Saks Fifth Avenue,592.68,Retail
+card_416,USA,Uber,662.71,Retail
+card_299,USA,Gap Inc,83.06,Retail
+card_412,USA,Shell,122.56,Energy
+card_380,USA,The Home Depot,710.77,Retail
+card_301,USA,Safeway,58.52,Groceries
+card_459,USA,eBay,40.13,E-commerce
+card_41,USA,Gap Inc,585.85,Retail
+card_468,USA,Walmart,286.14,Groceries
+card_2,USA,Chick-fil-A,22.3,Restaurants
+card_373,USA,Uber,269.0,Retail
+card_64,USA,Papa Johns,184.45,Restaurants
+card_49,USA,Uniqlo,300.08,Retail
+card_292,USA,Subway,217.18,Restaurants
+card_123,USA,Wayfair,39.16,E-commerce
+card_51,USA,TJX Companies,107.0,Retail
+card_174,USA,Kroger,159.02,Groceries
+card_380,HKG,Cathay Pacific,787.89,Travel
+card_178,USA,Universal Parks,21.62,Streaming
+card_100,USA,The Home Depot,933.26,Retail
+card_442,USA,Spotify,42.24,Streaming
+card_197,USA,Universal Parks,36.37,Streaming
+card_190,USA,Lowes,715.76,Retail
+card_482,USA,Hyatt,719.49,Hotels
+card_177,USA,Costco,277.09,Groceries
+card_138,USA,Etsy,36.26,E-commerce
+card_140,USA,Macys,730.34,Retail
+card_299,USA,Walgreens,862.38,Retail
+card_164,USA,AMC Theatres,17.33,Streaming
+card_446,USA,Delta Air Lines,1220.25,Travel
+card_106,USA,Pizza Hut,66.62,Restaurants
+card_314,USA,American Airlines,550.75,Travel
+card_473,USA,Macys,338.93,Retail
+card_197,USA,Walmart,293.77,Groceries
+card_460,USA,Pizza Hut,258.4,Restaurants
+card_246,USA,Lululemon,702.66,Retail
+card_105,USA,Panera Bread,220.85,Restaurants
+card_180,USA,Five Guys,173.0,Restaurants
+card_234,USA,Disney,47.62,Streaming
+card_449,FRA,Carrefour,153.92,Groceries
+card_85,USA,Williams-Sonoma,383.62,Retail
+card_189,USA,Charter Communications,167.22,Telecom
+card_4,USA,T-Mobile,787.27,Telecom
+card_101,DEU,Aldi,222.99,Groceries
+card_104,USA,AMC Theatres,22.3,Streaming
+card_354,USA,Chipotle,17.31,Restaurants
+card_189,USA,Google,4211.09,Technology
+card_274,USA,Bloomingdales,16.36,Retail
+card_416,USA,Saks Fifth Avenue,705.18,Retail
+card_474,DEU,Aldi,291.37,Groceries
+card_194,USA,Uber,440.47,Retail
+card_252,USA,Apple,1251.37,Technology
+card_478,USA,Trader Joes,214.41,Groceries
+card_343,USA,Shake Shack,246.97,Restaurants
+card_445,USA,Wendys,168.46,Restaurants
+card_425,USA,Dominos Pizza,290.44,Restaurants
+card_183,USA,Southwest Airlines,124.92,Travel
+card_343,USA,Kohls,507.27,Retail
+card_435,USA,eBay,37.33,E-commerce
+card_305,USA,Panera Bread,260.17,Restaurants
+card_27,USA,Target,61.98,Groceries
+card_163,USA,Expedia,1210.01,Hotels
+card_420,GBR,Tesco,170.29,Groceries
+card_201,USA,Verizon,399.57,Telecom
+card_367,USA,Panera Bread,48.2,Restaurants
+card_391,USA,Spotify,43.94,Streaming
+card_494,FRA,Carrefour,55.61,Groceries
+card_173,USA,Tesla,1617.96,Automotive
+card_174,USA,Chevron,79.31,Energy
+card_326,GBR,Tesco,262.71,Groceries
+card_308,USA,AT&T,674.34,Telecom
+card_444,USA,Hilton,1205.19,Hotels
+card_401,USA,Uniqlo,254.22,Retail
+card_482,USA,PayPal,3161.88,Technology
+card_439,USA,Gap Inc,573.89,Retail
+card_155,USA,Verizon,833.67,Telecom
+card_33,USA,Verizon,906.56,Telecom
+card_113,USA,Williams-Sonoma,17.1,Retail
+card_314,USA,Nordstrom,675.65,Retail
+card_81,USA,Delta Air Lines,125.16,Travel
+card_52,DEU,Lufthansa,845.85,Travel
+card_461,USA,Trader Joes,93.41,Groceries
+card_20,USA,Macys,310.24,Retail
+card_385,GBR,British Airways,561.79,Travel
+card_35,USA,CVS Health,623.19,Retail
+card_390,USA,T-Mobile,337.38,Telecom
+card_439,USA,Delta Air Lines,1112.41,Travel
+card_311,USA,Dominos Pizza,127.31,Restaurants
+card_1,USA,Whole Foods,29.82,Groceries
+card_256,USA,General Motors,3940.42,Automotive
+card_293,USA,Adidas,289.33,Retail
+card_301,USA,IKEA,435.6,Retail
+card_199,USA,Charter Communications,687.02,Telecom
+card_397,HKG,Cathay Pacific,532.06,Travel
+card_401,USA,Nike,61.3,Retail
+card_200,USA,Airbnb,592.19,Hotels
+card_239,USA,Regal Cinemas,47.5,Streaming
+card_356,USA,Publix,196.1,Groceries
+card_147,USA,Zara,673.12,Retail
+card_152,USA,Charter Communications,634.12,Telecom
+card_66,USA,The Home Depot,203.0,Retail
+card_273,USA,Netflix,23.83,Streaming
+card_204,USA,Wendys,227.77,Restaurants
+card_123,USA,McDonalds,39.4,Restaurants
+card_372,USA,Southwest Airlines,452.89,Travel
+card_184,JPN,Toyota,1453.96,Automotive
+card_233,DEU,Lufthansa,676.43,Travel
+card_32,USA,Subway,294.31,Restaurants
+card_159,USA,Bloomingdales,72.17,Retail
+card_185,USA,TJX Companies,521.11,Retail
+card_215,USA,Bed Bath & Beyond,183.47,Retail
+card_322,USA,Taco Bell,291.5,Restaurants
+card_163,USA,Shopify,10.1,E-commerce
+card_440,USA,Zara,406.58,Retail
+card_448,USA,Ross Stores,739.2,Retail
+card_53,USA,Subway,214.32,Restaurants
+card_102,USA,Trader Joes,132.59,Groceries
+card_147,USA,Uniqlo,349.79,Retail
+card_349,USA,Charter Communications,400.62,Telecom
+card_498,JPN,Toyota,1394.95,Automotive
+card_344,USA,Taco Bell,69.55,Restaurants
+card_24,USA,AMC Theatres,26.74,Streaming
+card_487,USA,Bed Bath & Beyond,272.19,Retail
+card_456,USA,Burger King,93.36,Restaurants
+card_280,USA,Hilton,1002.3,Hotels
+card_420,USA,Bed Bath & Beyond,968.69,Retail
+card_94,USA,Comcast,605.62,Telecom
+card_122,DEU,Aldi,32.32,Groceries
+card_167,USA,Walmart,31.92,Groceries
+card_109,USA,American Airlines,1429.56,Travel
+card_375,USA,Walgreens,300.8,Retail
+card_301,USA,Apple,551.13,Technology
+card_493,USA,PayPal,3035.32,Technology
+card_87,USA,American Airlines,954.29,Travel
+card_398,USA,Wayfair,34.18,E-commerce
+card_386,USA,Trader Joes,87.55,Groceries
+card_463,USA,Chipotle,14.38,Restaurants
+card_405,USA,American Airlines,1449.27,Travel
+card_236,DEU,Aldi,82.76,Groceries
+card_46,USA,Google,3412.53,Technology
+card_313,USA,PayPal,3562.49,Technology
+card_469,USA,H&M,611.96,Retail
+card_435,GBR,Tesco,100.74,Groceries
+card_338,USA,Zara,274.74,Retail
+card_460,USA,Ticketmaster,599.68,Ticketing
+card_299,USA,Chick-fil-A,261.17,Restaurants
+card_470,GBR,Tesco,284.55,Groceries
+card_249,DEU,Lufthansa,203.56,Travel
+card_375,USA,United Airlines,274.5,Travel
+card_268,USA,American Airlines,1419.87,Travel
+card_284,USA,CVS Health,737.85,Retail
+card_489,USA,Hyatt,1330.34,Hotels
+card_194,USA,Taco Bell,68.76,Restaurants
+card_302,USA,KFC,180.4,Restaurants
+card_283,USA,Lowes,702.63,Retail
+card_410,GBR,British Airways,1036.16,Travel
+card_306,USA,ExxonMobil,99.39,Energy
+card_8,USA,Bed Bath & Beyond,20.32,Retail
+card_101,JPN,Toyota,2956.34,Automotive
+card_255,USA,Dominos Pizza,83.4,Restaurants
+card_440,USA,Burger King,140.57,Restaurants
+card_146,USA,Five Guys,287.7,Restaurants
+card_353,USA,Hilton,628.6,Hotels
+card_120,USA,Disney,42.79,Streaming
+card_9,USA,Ross Stores,192.6,Retail
+card_194,USA,Shake Shack,205.01,Restaurants
+card_59,USA,IKEA,977.12,Retail
+card_296,HKG,Cathay Pacific,197.74,Travel
+card_275,USA,Williams-Sonoma,13.28,Retail
+card_156,USA,Whole Foods,135.74,Groceries
+card_413,USA,Southwest Airlines,184.31,Travel
+card_15,USA,Zara,749.64,Retail
+card_4,FRA,Carrefour,275.22,Groceries
+card_327,USA,Hyatt,679.33,Hotels
+card_387,USA,AMC Theatres,16.64,Streaming
+card_143,USA,Comcast,437.23,Telecom
+card_183,USA,Lululemon,724.83,Retail
+card_354,USA,General Motors,144.37,Automotive
+card_435,USA,Target,180.94,Groceries
+card_251,GBR,Tesco,187.85,Groceries
+card_344,USA,The Home Depot,639.5,Retail
+card_348,USA,Papa Johns,80.19,Restaurants
+card_36,USA,McDonalds,217.08,Restaurants
+card_273,USA,Amazon,9.11,E-commerce
+card_114,USA,Whole Foods,67.79,Groceries
+card_290,USA,Dominos Pizza,264.47,Restaurants
+card_183,USA,Ford,3719.74,Automotive
+card_139,USA,Nike,18.68,Retail
+card_276,USA,Best Buy,252.13,Retail
+card_365,USA,Costco,72.18,Groceries
+card_19,USA,Apple,1426.95,Technology
+card_379,USA,Marriott International,408.96,Hotels
+card_200,USA,Best Buy,67.21,Retail
+card_141,USA,Disney,25.65,Streaming
+card_456,USA,Neiman Marcus,734.07,Retail
+card_321,USA,Google,3072.99,Technology
+card_182,USA,Dunkin,205.13,Restaurants
+card_266,USA,Kohls,85.74,Retail
+card_148,USA,Lululemon,951.73,Retail
+card_331,USA,Lululemon,839.3,Retail
+card_117,USA,Neiman Marcus,806.06,Retail
+card_114,USA,Bed Bath & Beyond,823.87,Retail
+card_198,USA,Universal Parks,46.97,Streaming
+card_178,USA,Apple,2766.84,Technology
+card_127,USA,AMC Theatres,14.01,Streaming
+card_209,USA,Microsoft,3122.24,Technology
+card_57,USA,Ford,3740.12,Automotive
+card_14,USA,InterContinental Hotels,1119.98,Hotels
+card_208,USA,Southwest Airlines,806.1,Travel
+card_490,USA,Hilton,149.27,Hotels
+card_420,USA,Lowes,374.26,Retail
+card_446,USA,Amazon,46.43,E-commerce
+card_2,USA,Neiman Marcus,586.53,Retail
+card_175,USA,Kroger,166.12,Groceries
+card_268,USA,Spotify,17.1,Streaming
+card_402,USA,Uniqlo,371.61,Retail
+card_181,USA,ExxonMobil,182.21,Energy
+card_191,DEU,Lidl,203.27,Groceries
+card_342,USA,American Airlines,1191.71,Travel
+card_412,USA,Whole Foods,141.76,Groceries
+card_40,HKG,Cathay Pacific,963.86,Travel
+card_149,USA,Etsy,16.18,E-commerce
+card_477,USA,United Airlines,1072.92,Travel
+card_500,DEU,Lufthansa,670.02,Travel
+card_399,USA,InterContinental Hotels,691.69,Hotels
+card_187,USA,Google,3281.68,Technology
+card_370,USA,Kroger,281.52,Groceries
+card_314,USA,Saks Fifth Avenue,68.69,Retail
+card_419,USA,Starbucks,249.18,Restaurants
+card_321,USA,TJX Companies,295.92,Retail
+card_321,GBR,Tesco,138.74,Groceries
+card_230,USA,InterContinental Hotels,81.77,Hotels
+card_147,USA,Trader Joes,97.3,Groceries
+card_264,USA,Dominos Pizza,155.76,Restaurants
+card_343,USA,Kroger,26.29,Groceries
+card_108,ARE,Emirates,762.09,Travel
+card_375,USA,Walgreens,927.48,Retail
+card_324,USA,Dunkin,40.56,Restaurants
+card_100,DEU,Aldi,231.69,Groceries
+card_381,DEU,Lufthansa,644.02,Travel
+card_466,USA,Lowes,656.9,Retail
+card_353,DEU,Lufthansa,427.34,Travel
+card_284,USA,AT&T,163.69,Telecom
+card_304,USA,Google,886.27,Technology
+card_343,USA,H&M,75.14,Retail
+card_417,USA,Costco,63.84,Groceries
+card_376,USA,Comcast,665.9,Telecom
+card_31,USA,Lowes,882.28,Retail
+card_227,USA,Marriott International,1230.48,Hotels
+card_217,USA,Hilton,1043.44,Hotels
+card_461,USA,Apple,641.12,Technology
+card_475,USA,Gap Inc,292.74,Retail
+card_246,USA,Verizon,313.26,Telecom
+card_23,USA,Delta Air Lines,412.44,Travel
+card_223,USA,Chevron,117.55,Energy
+card_213,USA,Hilton,826.55,Hotels
+card_9,USA,Nike,360.1,Retail
+card_148,GBR,British Airways,562.99,Travel
+card_3,USA,General Motors,4159.92,Automotive
+card_32,USA,Walgreens,790.35,Retail
+card_498,USA,Lululemon,311.26,Retail
+card_270,USA,Etsy,46.12,E-commerce
+card_185,USA,Southwest Airlines,1431.58,Travel
+card_500,USA,TJX Companies,330.11,Retail
+card_403,DEU,Lufthansa,563.92,Travel
+card_41,USA,T-Mobile,508.11,Telecom
+card_70,USA,Five Guys,282.93,Restaurants
+card_108,USA,Disney,44.43,Streaming
+card_162,USA,Papa Johns,39.74,Restaurants
+card_23,USA,Dominos Pizza,123.89,Restaurants
+card_238,DEU,Aldi,170.48,Groceries
+card_483,USA,CVS Health,505.62,Retail
+card_361,USA,Starbucks,66.22,Restaurants
+card_42,USA,Williams-Sonoma,859.52,Retail
+card_382,USA,Dominos Pizza,206.31,Restaurants
+card_357,USA,McDonalds,252.99,Restaurants
+card_93,USA,Google,4307.94,Technology
+card_278,FRA,Air France-KLM,1135.12,Travel
+card_56,USA,Bed Bath & Beyond,442.01,Retail
+card_387,USA,United Airlines,935.29,Travel
+card_85,HKG,Cathay Pacific,282.53,Travel
+card_51,USA,InterContinental Hotels,1026.79,Hotels
+card_490,USA,Bloomingdales,183.36,Retail
+card_301,USA,IKEA,695.48,Retail
+card_68,USA,Uniqlo,233.45,Retail
+card_415,USA,T-Mobile,121.96,Telecom
+card_343,USA,H&M,169.46,Retail
+card_182,USA,T-Mobile,6.98,Telecom
+card_137,USA,Chipotle,218.43,Restaurants
+card_200,USA,Macys,733.74,Retail
+card_412,USA,T-Mobile,517.36,Telecom
+card_258,USA,Marriott International,283.98,Hotels
+card_232,USA,Burger King,34.23,Restaurants
+card_471,USA,Chick-fil-A,15.55,Restaurants
+card_444,USA,Delta Air Lines,290.33,Travel
+card_384,USA,Chevron,181.45,Energy
+card_163,USA,Hyatt,400.23,Hotels
+card_120,USA,T-Mobile,357.5,Telecom
+card_157,USA,Taco Bell,40.55,Restaurants
+card_153,FRA,Air France-KLM,372.42,Travel
+card_439,USA,Zara,521.63,Retail
+card_269,USA,United Airlines,931.24,Travel
+card_85,USA,Taco Bell,81.15,Restaurants
+card_436,USA,CVS Health,62.44,Retail
+card_447,USA,AT&T,394.08,Telecom
+card_481,USA,Panera Bread,77.92,Restaurants
+card_7,USA,Nike,223.46,Retail
+card_46,USA,Shell,193.18,Energy
+card_7,USA,Uber,618.22,Retail
+card_414,USA,T-Mobile,559.09,Telecom
+card_450,USA,Wayfair,23.71,E-commerce
+card_153,USA,Zara,431.8,Retail
+card_432,USA,Hyatt,834.31,Hotels
+card_349,USA,Target,211.96,Groceries
+card_132,USA,InterContinental Hotels,1068.11,Hotels
+card_99,USA,InterContinental Hotels,298.96,Hotels
+card_376,ARE,Emirates,775.16,Travel
+card_49,USA,Five Guys,129.47,Restaurants
+card_318,USA,Kohls,871.17,Retail
+card_321,USA,Spotify,33.41,Streaming
+card_87,USA,Regal Cinemas,28.96,Streaming
+card_361,USA,Macys,119.82,Retail
+card_114,SGP,Singapore Airlines,928.17,Travel
+card_216,USA,Comcast,121.62,Telecom
+card_272,USA,Dunkin,107.79,Restaurants
+card_389,USA,IKEA,147.13,Retail
+card_109,USA,AMC Theatres,36.14,Streaming
+card_415,USA,Lululemon,210.22,Retail
+card_286,USA,Zara,394.9,Retail
+card_10,USA,Taco Bell,269.75,Restaurants
+card_424,USA,Uniqlo,208.29,Retail
+card_455,USA,Neiman Marcus,510.27,Retail
+card_162,USA,Marriott International,657.94,Hotels
+card_438,USA,Charter Communications,23.03,Telecom
+card_389,USA,PayPal,3984.51,Technology
+card_49,USA,T-Mobile,73.7,Telecom
+card_320,USA,Hyatt,737.67,Hotels
+card_429,USA,Costco,172.6,Groceries
+card_328,USA,Chick-fil-A,192.24,Restaurants
+card_198,USA,McDonalds,209.7,Restaurants
+card_130,USA,Kroger,83.45,Groceries
+card_333,USA,Five Guys,12.89,Restaurants
+card_450,USA,Dunkin,219.8,Restaurants
+card_357,USA,Bloomingdales,537.98,Retail
+card_239,GBR,BP,172.14,Energy
+card_211,USA,H&M,822.28,Retail
+card_146,USA,Macys,844.11,Retail
+card_188,USA,Comcast,487.67,Telecom
+card_443,USA,Kroger,106.75,Groceries
+card_79,USA,Saks Fifth Avenue,792.6,Retail
+card_5,USA,Amazon,25.31,E-commerce
+card_388,USA,Regal Cinemas,13.25,Streaming
+card_481,USA,Pizza Hut,257.94,Restaurants
+card_321,USA,Netflix,44.72,Streaming
+card_392,USA,Uber,468.98,Retail
+card_32,USA,TJX Companies,80.32,Retail
+card_327,USA,Chipotle,122.47,Restaurants
+card_142,USA,Hyatt,1215.13,Hotels
+card_118,USA,Pizza Hut,271.51,Restaurants
+card_493,USA,Kroger,69.01,Groceries
+card_338,USA,Wayfair,8.01,E-commerce
+card_271,USA,Macys,877.96,Retail
+card_253,USA,ExxonMobil,96.2,Energy
+card_387,USA,Shell,122.1,Energy
+card_368,USA,Netflix,48.56,Streaming
+card_113,USA,Five Guys,29.3,Restaurants
+card_157,USA,Hyatt,990.06,Hotels
+card_286,USA,Verizon,78.73,Telecom
+card_111,USA,Nordstrom,378.59,Retail
+card_35,USA,Neiman Marcus,804.8,Retail
+card_239,USA,AT&T,436.3,Telecom
+card_431,SGP,Singapore Airlines,1495.91,Travel
+card_301,USA,Chick-fil-A,172.13,Restaurants
+card_200,USA,Google,1673.69,Technology
+card_201,USA,General Motors,1178.55,Automotive
+card_47,USA,Panera Bread,111.65,Restaurants
+card_383,USA,Trader Joes,118.03,Groceries
+card_66,USA,Trader Joes,29.93,Groceries
+card_24,USA,H&M,372.73,Retail
+card_361,USA,Trader Joes,144.63,Groceries
+card_43,USA,Shopify,37.52,E-commerce
+card_380,USA,Microsoft,3317.97,Technology
+card_336,USA,Saks Fifth Avenue,710.22,Retail
+card_42,GBR,Tesco,12.43,Groceries
+card_406,USA,Costco,73.12,Groceries
+card_288,USA,Southwest Airlines,1009.44,Travel
+card_408,USA,Zara,486.57,Retail
+card_91,USA,Lowes,10.29,Retail
+card_272,USA,Bloomingdales,805.47,Retail
+card_250,USA,Uber,773.95,Retail
+card_149,DEU,Aldi,169.04,Groceries
+card_23,USA,Uber,71.13,Retail
+card_35,USA,Apple,3855.92,Technology
+card_2,USA,Walmart,179.28,Groceries
+card_345,USA,ExxonMobil,162.93,Energy
+card_143,USA,AMC Theatres,38.83,Streaming
+card_35,USA,Wendys,242.87,Restaurants
+card_358,USA,Gap Inc,520.42,Retail
+card_167,USA,Subway,50.69,Restaurants
+card_242,USA,Apple,3388.67,Technology
+card_331,USA,Nike,622.37,Retail
+card_300,USA,Nordstrom,743.54,Retail
+card_142,USA,Verizon,174.03,Telecom
+card_187,USA,Lululemon,199.0,Retail
+card_177,USA,CVS Health,890.96,Retail
+card_57,USA,Delta Air Lines,1137.47,Travel
+card_360,USA,Chick-fil-A,273.39,Restaurants
+card_365,USA,Shopify,39.14,E-commerce
+card_124,USA,Shell,131.52,Energy
+card_500,USA,Delta Air Lines,998.49,Travel
+card_19,USA,Adidas,889.68,Retail
+card_78,USA,Expedia,889.27,Hotels
+card_205,USA,Delta Air Lines,966.97,Travel
+card_413,USA,Safeway,55.38,Groceries
+card_291,USA,General Motors,2422.21,Automotive
+card_117,USA,Shake Shack,217.76,Restaurants
+card_37,USA,Netflix,17.19,Streaming
+card_247,USA,Kohls,206.24,Retail
+card_418,DEU,Aldi,101.01,Groceries
+card_333,HKG,Cathay Pacific,400.18,Travel
+card_477,USA,Kroger,72.32,Groceries
+card_313,USA,Dunkin,133.21,Restaurants
+card_361,USA,Hilton,1366.37,Hotels
+card_500,USA,Ticketmaster,509.52,Ticketing
+card_477,USA,Google,1020.81,Technology
+card_379,USA,Chevron,43.09,Energy
+card_370,USA,Regal Cinemas,36.33,Streaming
+card_57,USA,Hilton,605.06,Hotels
+card_161,USA,Expedia,1241.65,Hotels
+card_49,USA,Hyatt,1006.29,Hotels
+card_445,USA,Hilton,1204.55,Hotels
+card_428,USA,Hyatt,444.32,Hotels
+card_161,GBR,BP,147.7,Energy
+card_452,USA,Shopify,16.88,E-commerce
+card_31,USA,Ticketmaster,939.37,Ticketing
+card_194,USA,Shopify,33.64,E-commerce
+card_290,USA,Chevron,85.17,Energy
+card_314,USA,Ford,1420.61,Automotive
+card_329,USA,American Airlines,326.84,Travel
+card_142,USA,Netflix,36.26,Streaming
+card_53,USA,Kroger,73.43,Groceries
+card_440,USA,Walgreens,597.33,Retail
+card_220,USA,Papa Johns,86.74,Restaurants
+card_278,USA,McDonalds,201.97,Restaurants
+card_94,USA,Panera Bread,246.33,Restaurants
+card_486,USA,CVS Health,779.14,Retail
+card_27,USA,T-Mobile,762.05,Telecom
+card_137,GBR,British Airways,322.2,Travel
+card_329,USA,Nike,92.94,Retail
+card_55,DEU,Lidl,212.7,Groceries
+card_311,USA,Apple,1904.9,Technology
+card_411,USA,Subway,135.38,Restaurants
+card_261,USA,Starbucks,19.03,Restaurants
+card_315,USA,General Motors,1371.92,Automotive
+card_243,USA,Netflix,6.52,Streaming
+card_166,USA,Disney,44.56,Streaming
+card_480,USA,Macys,247.18,Retail
+card_432,USA,Ross Stores,559.55,Retail
+card_190,USA,Hilton,106.52,Hotels
+card_210,USA,ExxonMobil,143.36,Energy
+card_211,USA,Amazon,19.54,E-commerce
+card_91,USA,Charter Communications,898.43,Telecom
+card_368,USA,Costco,267.55,Groceries
+card_339,USA,Microsoft,1693.92,Technology
+card_76,USA,The Home Depot,901.46,Retail
+card_160,USA,Southwest Airlines,1494.43,Travel
+card_32,USA,AT&T,826.29,Telecom
+card_65,USA,Safeway,255.01,Groceries
+card_405,USA,Whole Foods,82.21,Groceries
+card_448,USA,Expedia,886.22,Hotels
+card_63,USA,Hyatt,147.52,Hotels
+card_32,USA,Gap Inc,99.44,Retail
+card_90,USA,Southwest Airlines,1498.39,Travel
+card_227,USA,Chevron,85.53,Energy
+card_436,USA,United Airlines,1134.87,Travel
+card_282,USA,Zara,807.63,Retail
+card_189,USA,McDonalds,258.83,Restaurants
+card_179,USA,AMC Theatres,49.89,Streaming
+card_338,USA,Chevron,71.05,Energy
+card_395,USA,Disney,6.82,Streaming
+card_250,DEU,Lidl,129.25,Groceries
+card_99,USA,ExxonMobil,52.11,Energy
+card_313,USA,Starbucks,16.5,Restaurants
+card_496,GBR,Tesco,114.52,Groceries
+card_354,ARE,Emirates,1186.42,Travel
+card_481,USA,Lowes,568.35,Retail
+card_479,USA,Tesla,1632.61,Automotive
+card_286,SGP,Singapore Airlines,998.8,Travel
+card_256,USA,Charter Communications,235.86,Telecom
+card_164,USA,Expedia,70.85,Hotels
+card_372,USA,Booking.com,1158.31,Hotels
+card_306,JPN,Toyota,3156.34,Automotive
+card_46,DEU,Lidl,231.07,Groceries
+card_124,USA,Shopify,6.75,E-commerce
+card_106,USA,Pizza Hut,252.76,Restaurants
+card_404,USA,United Airlines,948.31,Travel
+card_7,HKG,Cathay Pacific,866.92,Travel
+card_112,USA,eBay,33.11,E-commerce
+card_414,USA,Starbucks,260.69,Restaurants
+card_211,USA,Safeway,180.21,Groceries
+card_456,USA,Adidas,583.05,Retail
+card_368,USA,Bed Bath & Beyond,990.73,Retail
+card_392,USA,Marriott International,1147.26,Hotels
+card_22,USA,KFC,138.27,Restaurants
+card_75,USA,The Home Depot,708.86,Retail
+card_381,USA,Taco Bell,122.88,Restaurants
+card_198,USA,ExxonMobil,68.91,Energy
+card_88,USA,Universal Parks,31.86,Streaming
+card_393,USA,Ross Stores,928.54,Retail
+card_173,USA,Neiman Marcus,929.49,Retail
+card_330,USA,Saks Fifth Avenue,345.2,Retail
+card_146,USA,IKEA,530.04,Retail
+card_279,USA,eBay,14.52,E-commerce
+card_464,USA,T-Mobile,995.65,Telecom
+card_16,USA,Disney,49.15,Streaming
+card_361,USA,Chevron,140.42,Energy
+card_262,USA,Papa Johns,243.28,Restaurants
+card_62,USA,Walgreens,716.52,Retail
+card_366,USA,Macys,595.19,Retail
+card_282,USA,The Home Depot,58.08,Retail
+card_243,USA,Uniqlo,457.49,Retail
+card_101,DEU,Aldi,205.69,Groceries
+card_438,USA,Zara,679.14,Retail
+card_71,DEU,Lidl,118.21,Groceries
+card_364,USA,Neiman Marcus,941.98,Retail
+card_453,USA,General Motors,920.05,Automotive
+card_19,USA,Comcast,502.86,Telecom
+card_80,USA,United Airlines,1051.78,Travel
+card_258,USA,Chick-fil-A,212.17,Restaurants
+card_394,JPN,Toyota,3278.33,Automotive
+card_41,USA,Burger King,89.83,Restaurants
+card_26,USA,Safeway,55.3,Groceries
+card_183,JPN,Toyota,3216.11,Automotive
+card_491,USA,Spotify,31.97,Streaming
+card_440,USA,Zara,183.46,Retail
+card_291,USA,Etsy,36.73,E-commerce
+card_82,USA,AMC Theatres,25.48,Streaming
+card_116,USA,Pizza Hut,203.65,Restaurants
+card_304,USA,Ross Stores,838.18,Retail
+card_143,USA,Starbucks,59.22,Restaurants
+card_329,USA,Walgreens,24.05,Retail
+card_240,USA,Target,235.94,Groceries
+card_199,HKG,Cathay Pacific,934.06,Travel
+card_472,USA,TJX Companies,701.14,Retail
+card_137,USA,Amazon,42.72,E-commerce
+card_337,USA,Google,4033.77,Technology
+card_352,DEU,Lidl,288.67,Groceries
+card_75,USA,Gap Inc,538.26,Retail
+card_433,USA,Netflix,26.98,Streaming
+card_422,USA,United Airlines,632.74,Travel
+card_192,USA,McDonalds,54.57,Restaurants
+card_206,USA,Delta Air Lines,880.28,Travel
+card_115,USA,Google,1457.36,Technology
+card_213,USA,IKEA,921.7,Retail
+card_402,USA,Macys,585.27,Retail
+card_122,USA,Panera Bread,181.92,Restaurants
+card_467,USA,Chick-fil-A,112.93,Restaurants
+card_150,USA,Bed Bath & Beyond,56.73,Retail
+card_164,USA,Five Guys,19.21,Restaurants
+card_437,DEU,Lufthansa,663.84,Travel
+card_112,USA,Charter Communications,89.14,Telecom
+card_33,USA,Safeway,185.99,Groceries
+card_61,USA,Trader Joes,265.48,Groceries
+card_363,USA,Wayfair,44.73,E-commerce
+card_268,USA,Macys,660.75,Retail
+card_396,USA,Lululemon,215.18,Retail
+card_464,USA,United Airlines,1301.35,Travel
+card_154,USA,Whole Foods,266.97,Groceries
+card_28,FRA,Air France-KLM,335.15,Travel
+card_248,USA,Uber,738.74,Retail
+card_114,USA,Netflix,17.89,Streaming
+card_295,USA,Pizza Hut,242.77,Restaurants
+card_293,USA,Hilton,1495.99,Hotels
+card_94,USA,Williams-Sonoma,34.88,Retail
+card_109,USA,Burger King,270.24,Restaurants
+card_33,USA,Wendys,190.56,Restaurants
+card_159,USA,Lowes,973.52,Retail
+card_232,USA,The Home Depot,467.68,Retail
+card_88,DEU,Lidl,255.74,Groceries
+card_72,USA,Hyatt,140.47,Hotels
+card_495,USA,Kohls,338.6,Retail
+card_12,USA,AMC Theatres,8.02,Streaming
+card_274,USA,H&M,975.47,Retail
+card_191,USA,Safeway,246.92,Groceries
+card_37,USA,Walmart,257.24,Groceries
+card_315,USA,Taco Bell,282.01,Restaurants
+card_394,USA,The Home Depot,89.68,Retail
+card_100,USA,Southwest Airlines,609.12,Travel
+card_28,USA,Macys,75.68,Retail
+card_337,USA,Disney,14.49,Streaming
+card_34,USA,Gap Inc,233.22,Retail
+card_297,USA,Etsy,26.11,E-commerce
+card_303,USA,Subway,87.88,Restaurants
+card_173,USA,Macys,105.47,Retail
+card_398,USA,Southwest Airlines,292.86,Travel
+card_398,USA,Whole Foods,52.71,Groceries
+card_131,USA,American Airlines,1460.96,Travel
+card_385,ARE,Emirates,1150.97,Travel
+card_70,USA,Disney,48.55,Streaming
+card_144,USA,Kroger,137.52,Groceries
+card_275,GBR,Tesco,90.73,Groceries
+card_452,USA,Dunkin,241.51,Restaurants
+card_370,USA,Starbucks,104.61,Restaurants
+card_334,USA,Ross Stores,302.89,Retail
+card_279,USA,Hyatt,387.13,Hotels
+card_75,USA,Williams-Sonoma,134.03,Retail
+card_250,USA,Booking.com,421.87,Hotels
+card_273,USA,Five Guys,113.04,Restaurants
+card_449,USA,Starbucks,205.46,Restaurants
+card_70,USA,McDonalds,28.14,Restaurants
+card_249,USA,Ross Stores,214.45,Retail
+card_39,USA,Costco,244.62,Groceries
+card_22,USA,T-Mobile,151.19,Telecom
+card_490,USA,H&M,345.93,Retail
+card_185,USA,Shell,176.99,Energy
+card_174,USA,H&M,159.15,Retail
+card_418,USA,Hilton,169.97,Hotels
+card_161,USA,Tesla,2474.24,Automotive
+card_149,USA,Universal Parks,18.61,Streaming
+card_312,USA,Delta Air Lines,866.94,Travel
+card_414,USA,Safeway,243.1,Groceries
+card_120,USA,Gap Inc,141.46,Retail
+card_179,USA,Best Buy,582.8,Retail
+card_282,USA,Comcast,507.98,Telecom
+card_156,USA,Apple,805.99,Technology
+card_182,USA,Marriott International,954.8,Hotels
+card_267,USA,Ford,1440.84,Automotive
+card_407,USA,Airbnb,757.36,Hotels
+card_473,USA,AT&T,86.86,Telecom
+card_237,USA,Chevron,108.13,Energy
+card_186,USA,Ford,1601.67,Automotive
+card_44,USA,Netflix,42.01,Streaming
+card_326,USA,Kohls,61.69,Retail
+card_109,USA,Uber,421.51,Retail
+card_443,DEU,Aldi,142.95,Groceries
+card_313,USA,Shake Shack,220.25,Restaurants
+card_127,USA,Booking.com,882.72,Hotels
+card_134,USA,PayPal,3369.34,Technology
+card_435,USA,CVS Health,778.16,Retail
+card_101,USA,Wendys,260.04,Restaurants
+card_276,USA,Chevron,83.36,Energy
+card_13,USA,H&M,540.33,Retail
+card_251,USA,ExxonMobil,172.82,Energy
+card_27,USA,eBay,49.53,E-commerce
+card_47,USA,Wendys,267.96,Restaurants
+card_80,USA,Shell,93.15,Energy
+card_425,USA,Wayfair,13.78,E-commerce
+card_28,GBR,Tesco,151.92,Groceries
+card_30,USA,Lowes,742.93,Retail
+card_143,USA,AMC Theatres,27.17,Streaming
+card_39,USA,T-Mobile,485.76,Telecom
+card_326,DEU,Lidl,253.09,Groceries
+card_455,USA,Chipotle,114.81,Restaurants
+card_81,USA,Kroger,259.34,Groceries
+card_142,USA,Shopify,23.31,E-commerce
+card_448,USA,Etsy,19.77,E-commerce
+card_98,USA,Wendys,141.66,Restaurants
+card_455,SGP,Singapore Airlines,1155.55,Travel
+card_127,USA,Chevron,51.42,Energy
+card_221,USA,United Airlines,334.81,Travel
+card_155,USA,Regal Cinemas,47.82,Streaming
+card_95,USA,Trader Joes,60.89,Groceries
+card_446,USA,Shake Shack,174.64,Restaurants
+card_45,USA,Lowes,581.42,Retail
+card_434,USA,The Home Depot,492.18,Retail
+card_92,USA,Uniqlo,646.52,Retail
+card_275,USA,T-Mobile,233.68,Telecom
+card_415,USA,Bloomingdales,554.9,Retail
+card_423,USA,Bed Bath & Beyond,375.31,Retail
+card_113,USA,Lululemon,663.36,Retail
+card_224,USA,Neiman Marcus,145.52,Retail
+card_92,USA,Microsoft,2897.3,Technology
+card_255,JPN,Toyota,1007.82,Automotive
+card_103,USA,Neiman Marcus,282.25,Retail
+card_474,USA,Regal Cinemas,14.84,Streaming
+card_221,USA,The Home Depot,186.92,Retail
+card_212,USA,Microsoft,4145.98,Technology
+card_409,USA,Starbucks,92.86,Restaurants
+card_217,USA,Delta Air Lines,1394.33,Travel
+card_445,USA,Neiman Marcus,970.08,Retail
+card_470,USA,InterContinental Hotels,878.33,Hotels
+card_114,DEU,Lufthansa,257.35,Travel
+card_148,USA,CVS Health,377.68,Retail
+card_168,USA,Hilton,1206.71,Hotels
+card_489,USA,Starbucks,116.54,Restaurants
+card_344,USA,Safeway,35.23,Groceries
+card_7,USA,T-Mobile,559.0,Telecom
+card_462,USA,Charter Communications,845.9,Telecom
+card_467,USA,TJX Companies,796.95,Retail
+card_248,USA,Panera Bread,60.79,Restaurants
+card_284,USA,Shopify,35.27,E-commerce
+card_204,USA,Airbnb,369.73,Hotels
+card_299,SGP,Singapore Airlines,366.4,Travel
+card_200,USA,Safeway,263.48,Groceries
+card_390,USA,Chick-fil-A,82.4,Restaurants
+card_257,USA,Spotify,16.85,Streaming
+card_294,USA,McDonalds,10.19,Restaurants
+card_225,USA,Apple,4366.28,Technology
+card_443,USA,Gap Inc,793.63,Retail
+card_361,USA,Bloomingdales,629.19,Retail
+card_223,USA,Dominos Pizza,227.58,Restaurants
+card_256,USA,Bed Bath & Beyond,156.29,Retail
+card_39,ARE,Emirates,714.57,Travel
+card_37,USA,Nordstrom,354.46,Retail
+card_258,HKG,Cathay Pacific,185.98,Travel
+card_422,USA,Zara,488.7,Retail
+card_377,USA,Gap Inc,921.14,Retail
+card_171,USA,Uber,44.86,Retail
+card_7,USA,Pizza Hut,94.52,Restaurants
+card_490,USA,Macys,211.5,Retail
+card_421,DEU,Lidl,79.06,Groceries
+card_149,USA,Ticketmaster,908.89,Ticketing
+card_298,USA,Tesla,2393.54,Automotive
+card_435,USA,McDonalds,145.23,Restaurants
+card_162,USA,Verizon,761.77,Telecom
+card_161,USA,Wendys,54.8,Restaurants
+card_223,USA,Five Guys,151.31,Restaurants
+card_441,USA,Bed Bath & Beyond,432.84,Retail
+card_408,USA,Neiman Marcus,598.93,Retail
+card_304,USA,Bloomingdales,999.56,Retail
+card_418,USA,PayPal,3870.3,Technology
+card_436,ARE,Emirates,626.91,Travel
+card_361,USA,United Airlines,1249.95,Travel
+card_305,USA,Adidas,174.85,Retail
+card_426,USA,Uniqlo,35.31,Retail
+card_217,USA,Uniqlo,208.43,Retail
+card_126,USA,Subway,108.72,Restaurants
+card_100,USA,IKEA,513.03,Retail
+card_83,USA,Adidas,617.05,Retail
+card_30,USA,Chevron,184.8,Energy
+card_459,USA,Pizza Hut,157.86,Restaurants
+card_43,USA,Dunkin,155.37,Restaurants
+card_464,USA,Walgreens,54.99,Retail
+card_37,USA,IKEA,39.74,Retail
+card_308,GBR,BP,123.7,Energy
+card_175,USA,Kroger,137.07,Groceries
+card_256,USA,Apple,4211.98,Technology
+card_34,USA,Gap Inc,164.88,Retail
+card_54,USA,Shake Shack,17.24,Restaurants
+card_351,USA,Adidas,451.79,Retail
+card_98,USA,AMC Theatres,15.69,Streaming
+card_131,USA,Spotify,7.23,Streaming
+card_355,USA,Shopify,37.61,E-commerce
+card_12,DEU,Lufthansa,211.81,Travel
+card_315,USA,Chevron,133.41,Energy
+card_364,USA,United Airlines,457.52,Travel
+card_253,USA,The Home Depot,177.63,Retail
+card_58,USA,T-Mobile,382.85,Telecom
+card_4,USA,Charter Communications,802.44,Telecom
+card_51,USA,Universal Parks,22.64,Streaming
+card_311,USA,Adidas,752.02,Retail
+card_378,USA,Nordstrom,129.86,Retail
+card_88,USA,Universal Parks,39.77,Streaming
+card_176,USA,Tesla,1260.97,Automotive
+card_393,USA,Expedia,1032.22,Hotels
+card_3,USA,eBay,30.46,E-commerce
+card_21,USA,Macys,929.5,Retail
+card_215,USA,Chevron,95.84,Energy
+card_97,USA,Hyatt,145.94,Hotels
+card_426,USA,Costco,15.56,Groceries
+card_394,USA,Shopify,42.21,E-commerce
+card_464,FRA,Carrefour,162.17,Groceries
+card_205,USA,Zara,776.37,Retail
+card_85,USA,Saks Fifth Avenue,238.25,Retail
+card_116,GBR,BP,88.66,Energy
+card_371,USA,Kroger,18.73,Groceries
+card_218,HKG,Cathay Pacific,1444.16,Travel
+card_93,USA,ExxonMobil,143.54,Energy
+card_411,USA,Dominos Pizza,280.63,Restaurants
+card_24,ARE,Emirates,434.97,Travel
+card_43,USA,Chipotle,187.32,Restaurants
+card_409,USA,PayPal,3424.65,Technology
+card_471,USA,Etsy,19.29,E-commerce
+card_47,USA,PayPal,4255.74,Technology
+card_473,FRA,Air France-KLM,1423.38,Travel
+card_6,USA,eBay,44.82,E-commerce
+card_29,USA,Kohls,740.37,Retail
+card_76,USA,Uber,281.08,Retail
+card_388,USA,Shell,77.87,Energy
+card_240,USA,Saks Fifth Avenue,963.54,Retail
+card_170,DEU,Lidl,12.98,Groceries
+card_364,USA,General Motors,3608.64,Automotive
+card_288,USA,Lowes,707.71,Retail
+card_180,USA,Spotify,33.02,Streaming
+card_480,USA,Papa Johns,297.13,Restaurants
+card_372,USA,Chick-fil-A,100.45,Restaurants
+card_461,USA,Microsoft,1765.86,Technology
+card_377,USA,McDonalds,32.89,Restaurants
+card_299,USA,Neiman Marcus,445.58,Retail
+card_236,USA,Hyatt,428.52,Hotels
+card_42,USA,Dunkin,109.58,Restaurants
+card_490,USA,Panera Bread,252.03,Restaurants
+card_240,USA,Hyatt,1406.45,Hotels
+card_226,USA,Chipotle,63.86,Restaurants
+card_104,USA,AT&T,375.65,Telecom
+card_26,HKG,Cathay Pacific,1396.51,Travel
+card_406,USA,AMC Theatres,7.78,Streaming
+card_266,USA,Safeway,36.78,Groceries
+card_358,USA,AT&T,166.98,Telecom
+card_225,USA,The Home Depot,597.24,Retail
+card_169,USA,Hilton,268.18,Hotels
+card_28,USA,Neiman Marcus,968.24,Retail
+card_409,USA,Airbnb,697.74,Hotels
+card_136,USA,Hilton,777.2,Hotels
+card_345,ARE,Emirates,407.65,Travel
+card_386,USA,General Motors,2407.71,Automotive
+card_464,USA,Shopify,34.79,E-commerce
+card_101,USA,ExxonMobil,157.7,Energy
+card_356,GBR,BP,158.16,Energy
+card_481,USA,Safeway,177.59,Groceries
+card_197,USA,Saks Fifth Avenue,904.84,Retail
+card_385,USA,Microsoft,4105.3,Technology
+card_171,USA,InterContinental Hotels,1147.72,Hotels
+card_154,USA,KFC,26.13,Restaurants
+card_383,USA,Bed Bath & Beyond,11.84,Retail
+card_61,USA,Gap Inc,216.39,Retail
+card_76,USA,Dunkin,202.42,Restaurants
+card_472,DEU,Lidl,129.25,Groceries
+card_56,USA,Wendys,126.7,Restaurants
+card_23,USA,Disney,44.81,Streaming
+card_336,USA,Bloomingdales,896.09,Retail
+card_340,USA,McDonalds,273.66,Restaurants
+card_467,USA,Delta Air Lines,505.12,Travel
+card_141,USA,Google,3486.17,Technology
+card_95,USA,Airbnb,443.87,Hotels
+card_273,USA,T-Mobile,194.66,Telecom
+card_434,USA,Shake Shack,63.54,Restaurants
+card_368,USA,InterContinental Hotels,546.06,Hotels
+card_95,USA,Target,134.69,Groceries
+card_84,USA,Kohls,831.79,Retail
+card_244,USA,Pizza Hut,44.77,Restaurants
+card_135,USA,Ford,3701.14,Automotive
+card_99,USA,ExxonMobil,120.35,Energy
+card_227,USA,Nordstrom,291.51,Retail
+card_75,USA,Panera Bread,152.92,Restaurants
+card_174,FRA,Air France-KLM,484.92,Travel
+card_40,USA,Ross Stores,598.1,Retail
+card_281,USA,Papa Johns,135.81,Restaurants
+card_342,USA,IKEA,168.58,Retail
+card_243,USA,IKEA,121.0,Retail
+card_108,USA,TJX Companies,548.96,Retail
+card_241,USA,Ross Stores,902.9,Retail
+card_403,USA,IKEA,347.24,Retail
+card_343,USA,Uber,734.34,Retail
+card_51,USA,Chevron,141.97,Energy
+card_5,USA,Trader Joes,280.15,Groceries
+card_394,USA,Charter Communications,821.88,Telecom
+card_176,JPN,Toyota,2876.37,Automotive
+card_125,USA,Spotify,34.57,Streaming
+card_141,USA,Subway,270.53,Restaurants
+card_63,USA,General Motors,2057.64,Automotive
+card_182,USA,CVS Health,330.16,Retail
+card_68,FRA,Carrefour,13.14,Groceries
+card_452,USA,Gap Inc,827.42,Retail
+card_283,USA,Kohls,801.98,Retail
+card_364,USA,Panera Bread,40.29,Restaurants
+card_277,USA,Dominos Pizza,177.29,Restaurants
+card_276,USA,McDonalds,144.55,Restaurants
+card_479,USA,Google,681.67,Technology
+card_140,DEU,Aldi,294.36,Groceries
+card_231,DEU,Lidl,72.26,Groceries
+card_38,GBR,Tesco,29.5,Groceries
+card_143,SGP,Singapore Airlines,912.53,Travel
+card_76,USA,Nordstrom,740.17,Retail
+card_171,FRA,Air France-KLM,97.04,Travel
+card_256,USA,Pizza Hut,201.03,Restaurants
+card_462,USA,Chevron,120.49,Energy
+card_93,USA,Saks Fifth Avenue,107.75,Retail
+card_408,USA,Walmart,60.03,Groceries
+card_118,USA,Hilton,873.56,Hotels
+card_276,USA,ExxonMobil,80.38,Energy
+card_182,USA,Ford,4697.75,Automotive
+card_194,USA,Five Guys,247.43,Restaurants
+card_443,USA,eBay,49.26,E-commerce
+card_209,USA,ExxonMobil,74.14,Energy
+card_148,GBR,BP,194.85,Energy
+card_380,USA,Wayfair,24.41,E-commerce
+card_309,USA,Papa Johns,110.78,Restaurants
+card_425,USA,Lowes,55.1,Retail
+card_440,USA,AMC Theatres,7.37,Streaming
+card_239,USA,Chick-fil-A,210.68,Restaurants
+card_428,USA,Southwest Airlines,714.0,Travel
+card_496,USA,Nike,230.39,Retail
+card_286,USA,Charter Communications,615.9,Telecom
+card_27,USA,Wayfair,16.38,E-commerce
+card_29,USA,Microsoft,2930.4,Technology
+card_230,USA,Neiman Marcus,362.41,Retail
+card_161,USA,United Airlines,1244.15,Travel
+card_150,USA,Williams-Sonoma,821.59,Retail
+card_188,USA,Dunkin,148.43,Restaurants
+card_252,USA,Google,1819.01,Technology
+card_483,USA,PayPal,1876.54,Technology
+card_309,USA,Uniqlo,806.69,Retail
+card_379,USA,Etsy,19.77,E-commerce
+card_20,USA,Whole Foods,70.63,Groceries
+card_2,USA,Google,514.97,Technology
+card_461,USA,Taco Bell,145.34,Restaurants
+card_338,GBR,BP,111.96,Energy
+card_89,USA,Lowes,841.7,Retail
+card_233,USA,Chick-fil-A,74.16,Restaurants
+card_417,USA,PayPal,1966.86,Technology
+card_249,USA,Safeway,244.44,Groceries
+card_136,GBR,British Airways,1244.25,Travel
+card_40,USA,Shell,95.38,Energy
+card_483,USA,Universal Parks,25.66,Streaming
+card_402,SGP,Singapore Airlines,489.76,Travel
+card_289,USA,Etsy,46.96,E-commerce
+card_1,USA,TJX Companies,123.05,Retail
+card_327,USA,Shake Shack,280.79,Restaurants
+card_44,USA,Uniqlo,685.45,Retail
+card_485,USA,Microsoft,2704.7,Technology
+card_304,USA,eBay,6.47,E-commerce
+card_148,USA,Chick-fil-A,147.92,Restaurants
+card_297,USA,Netflix,23.35,Streaming
+card_429,USA,Booking.com,283.77,Hotels
+card_129,USA,Google,3316.41,Technology
+card_239,USA,Walgreens,971.3,Retail
+card_313,USA,Kroger,173.03,Groceries
+card_92,USA,Shake Shack,217.28,Restaurants
+card_300,DEU,Lidl,29.85,Groceries
+card_468,SGP,Singapore Airlines,655.62,Travel
+card_320,USA,Panera Bread,43.74,Restaurants
+card_111,USA,Lululemon,614.73,Retail
+card_261,USA,Williams-Sonoma,938.79,Retail
+card_64,USA,General Motors,3342.71,Automotive
+card_165,USA,United Airlines,161.36,Travel
+card_309,USA,Shopify,20.96,E-commerce
+card_487,FRA,Carrefour,169.69,Groceries
+card_60,USA,Five Guys,126.93,Restaurants
+card_379,USA,Uniqlo,834.48,Retail
+card_451,USA,Subway,246.25,Restaurants
+card_271,USA,Saks Fifth Avenue,613.77,Retail
+card_218,USA,Lowes,376.59,Retail
+card_322,USA,Target,84.05,Groceries
+card_175,FRA,Carrefour,40.7,Groceries
+card_182,USA,Pizza Hut,112.92,Restaurants
+card_63,USA,ExxonMobil,100.24,Energy
+card_168,USA,KFC,205.99,Restaurants
+card_34,USA,Delta Air Lines,1004.33,Travel
+card_228,USA,Zara,74.76,Retail
+card_164,USA,T-Mobile,398.28,Telecom
+card_403,USA,Target,62.72,Groceries
+card_305,USA,Trader Joes,55.48,Groceries
+card_91,USA,H&M,828.17,Retail
+card_419,USA,Wayfair,6.89,E-commerce
+card_39,USA,Shell,101.26,Energy
+card_202,SGP,Singapore Airlines,293.9,Travel
+card_462,USA,Williams-Sonoma,879.93,Retail
+card_190,USA,Subway,171.54,Restaurants
+card_496,USA,TJX Companies,235.22,Retail
+card_424,USA,Shake Shack,155.7,Restaurants
+card_80,DEU,Lidl,222.13,Groceries
+card_204,USA,Adidas,958.33,Retail
+card_352,USA,Burger King,73.93,Restaurants
+card_158,USA,Bed Bath & Beyond,886.75,Retail
+card_134,GBR,Tesco,280.95,Groceries
+card_427,USA,InterContinental Hotels,1378.81,Hotels
+card_90,USA,Chick-fil-A,194.27,Restaurants
+card_498,USA,Adidas,631.67,Retail
+card_216,USA,Pizza Hut,126.93,Restaurants
+card_207,USA,Tesla,3786.75,Automotive
+card_166,USA,Charter Communications,533.64,Telecom
+card_492,USA,InterContinental Hotels,1032.29,Hotels
+card_172,USA,Uniqlo,431.32,Retail
+card_238,USA,Whole Foods,222.13,Groceries
+card_410,USA,Airbnb,1245.48,Hotels
+card_139,USA,Ford,817.54,Automotive
+card_411,USA,Nike,833.77,Retail
+card_473,USA,Airbnb,833.43,Hotels
+card_192,USA,McDonalds,254.95,Restaurants
+card_346,USA,Williams-Sonoma,434.15,Retail
+card_98,USA,Pizza Hut,119.92,Restaurants
+card_441,USA,Papa Johns,275.37,Restaurants
+card_321,USA,Neiman Marcus,254.91,Retail
+card_275,USA,Chick-fil-A,254.82,Restaurants
+card_300,USA,InterContinental Hotels,751.83,Hotels
+card_244,USA,CVS Health,516.52,Retail
+card_98,USA,Ross Stores,311.93,Retail
+card_191,HKG,Cathay Pacific,880.91,Travel
+card_476,USA,Neiman Marcus,328.59,Retail
+card_313,GBR,BP,36.68,Energy
+card_287,USA,InterContinental Hotels,444.4,Hotels
+card_63,USA,Expedia,59.25,Hotels
+card_460,USA,IKEA,978.46,Retail
+card_445,USA,Dominos Pizza,290.07,Restaurants
+card_208,USA,Tesla,2036.26,Automotive
+card_39,USA,Airbnb,1106.14,Hotels
+card_96,USA,CVS Health,349.08,Retail
+card_40,USA,Tesla,3388.36,Automotive
+card_173,USA,Chipotle,243.57,Restaurants
+card_37,USA,Etsy,47.6,E-commerce
+card_462,USA,Lululemon,403.21,Retail
+card_322,USA,Uniqlo,784.38,Retail
+card_27,USA,Spotify,16.97,Streaming
+card_142,USA,The Home Depot,990.38,Retail
+card_153,USA,Burger King,17.47,Restaurants
+card_387,USA,Wendys,185.02,Restaurants
+card_25,ARE,Emirates,1006.28,Travel
+card_171,USA,Ross Stores,689.61,Retail
+card_146,USA,Best Buy,124.79,Retail
+card_396,USA,Costco,282.17,Groceries
+card_449,USA,Kroger,62.54,Groceries
+card_397,USA,eBay,33.02,E-commerce
+card_318,ARE,Emirates,372.88,Travel
+card_16,USA,Gap Inc,310.68,Retail
+card_389,GBR,BP,122.9,Energy
+card_155,USA,Ticketmaster,420.11,Ticketing
+card_1,USA,Zara,164.42,Retail
+card_41,HKG,Cathay Pacific,297.86,Travel
+card_114,USA,Shopify,23.82,E-commerce
+card_452,DEU,Lufthansa,1148.06,Travel
+card_247,ARE,Emirates,1352.05,Travel
+card_6,FRA,Carrefour,34.4,Groceries
+card_426,ARE,Emirates,620.0,Travel
+card_282,USA,Verizon,104.74,Telecom
+card_485,USA,Gap Inc,21.51,Retail
+card_217,USA,Panera Bread,201.9,Restaurants
+card_443,USA,Dominos Pizza,184.71,Restaurants
+card_401,HKG,Cathay Pacific,286.38,Travel
+card_445,USA,Papa Johns,77.81,Restaurants
+card_146,USA,Zara,28.59,Retail
+card_357,USA,Chipotle,252.13,Restaurants
+card_494,USA,Zara,974.82,Retail
+card_436,USA,Delta Air Lines,246.42,Travel
+card_481,USA,Hilton,385.64,Hotels
+card_226,USA,Publix,261.84,Groceries
+card_258,USA,Ford,4639.67,Automotive
+card_418,USA,Chick-fil-A,131.69,Restaurants
+card_330,USA,Netflix,7.28,Streaming
+card_344,USA,Pizza Hut,21.42,Restaurants
+card_361,FRA,Air France-KLM,882.23,Travel
+card_131,USA,Spotify,22.68,Streaming
+card_361,USA,Universal Parks,6.29,Streaming
+card_347,USA,Charter Communications,585.34,Telecom
+card_213,USA,Nike,16.25,Retail
+card_22,USA,Amazon,40.43,E-commerce
+card_427,USA,TJX Companies,309.9,Retail
+card_299,USA,Ford,297.26,Automotive
+card_348,USA,Dunkin,180.62,Restaurants
+card_357,USA,McDonalds,125.33,Restaurants
+card_337,USA,Walmart,292.4,Groceries
+card_61,GBR,Tesco,167.82,Groceries
+card_84,USA,Uniqlo,278.86,Retail
+card_435,DEU,Aldi,215.74,Groceries
+card_339,USA,eBay,17.22,E-commerce
+card_68,USA,Shell,183.72,Energy
+card_237,GBR,British Airways,593.35,Travel
+card_27,GBR,Tesco,169.46,Groceries
+card_191,USA,TJX Companies,55.32,Retail
+card_1,USA,Ross Stores,428.99,Retail
+card_117,USA,Trader Joes,251.39,Groceries
+card_424,USA,Comcast,806.62,Telecom
+card_329,USA,ExxonMobil,68.13,Energy
+card_417,USA,eBay,15.17,E-commerce
+card_266,USA,Hilton,1235.09,Hotels
+card_224,USA,IKEA,930.75,Retail
+card_141,USA,T-Mobile,99.88,Telecom
+card_381,USA,Shake Shack,140.52,Restaurants
+card_126,USA,Disney,20.19,Streaming
+card_307,USA,Five Guys,262.5,Restaurants
+card_419,DEU,Lufthansa,171.11,Travel
+card_23,USA,American Airlines,356.13,Travel
+card_259,USA,Southwest Airlines,1141.08,Travel
+card_351,USA,Safeway,24.88,Groceries
+card_154,USA,InterContinental Hotels,764.18,Hotels
+card_156,USA,United Airlines,691.06,Travel
+card_351,USA,The Home Depot,337.73,Retail
+card_137,USA,T-Mobile,397.6,Telecom
+card_240,USA,PayPal,2696.71,Technology
+card_419,USA,United Airlines,283.98,Travel
+card_165,USA,Bed Bath & Beyond,574.14,Retail
+card_454,USA,Trader Joes,243.58,Groceries
+card_183,USA,Lowes,761.36,Retail
+card_340,USA,Tesla,854.11,Automotive
+card_410,USA,Lululemon,153.5,Retail
+card_297,USA,Regal Cinemas,17.07,Streaming
+card_406,JPN,Toyota,1869.27,Automotive
+card_163,USA,Spotify,23.38,Streaming
+card_208,USA,Target,207.11,Groceries
+card_222,USA,Williams-Sonoma,61.4,Retail
+card_129,USA,CVS Health,39.5,Retail
+card_77,USA,Etsy,22.64,E-commerce
+card_399,USA,Taco Bell,212.18,Restaurants
+card_215,USA,Chipotle,66.1,Restaurants
+card_268,USA,Kroger,196.04,Groceries
+card_248,USA,Ticketmaster,263.53,Ticketing
+card_146,USA,Kohls,886.66,Retail
+card_364,USA,Netflix,45.31,Streaming
+card_139,USA,Safeway,96.21,Groceries
+card_219,USA,KFC,76.7,Restaurants
+card_253,USA,Publix,129.28,Groceries
+card_353,USA,Expedia,398.77,Hotels
+card_400,USA,Walgreens,674.02,Retail
+card_171,GBR,BP,170.43,Energy
+card_135,USA,eBay,35.29,E-commerce
+card_297,FRA,Carrefour,249.06,Groceries
+card_120,JPN,Toyota,2045.26,Automotive
+card_185,SGP,Singapore Airlines,276.66,Travel
+card_356,USA,Charter Communications,739.26,Telecom
+card_378,GBR,BP,91.28,Energy
+card_120,USA,AMC Theatres,35.21,Streaming
+card_154,USA,eBay,17.18,E-commerce
+card_379,USA,Hilton,167.78,Hotels
+card_142,GBR,British Airways,1489.24,Travel
+card_316,USA,Costco,55.3,Groceries
+card_83,USA,Southwest Airlines,1483.21,Travel
+card_418,USA,Chipotle,293.41,Restaurants
+card_100,USA,Booking.com,1201.04,Hotels
+card_272,USA,Southwest Airlines,1006.16,Travel
+card_156,FRA,Carrefour,177.56,Groceries
+card_104,USA,Uber,866.77,Retail
+card_353,ARE,Emirates,469.69,Travel
+card_169,USA,Ticketmaster,470.34,Ticketing
+card_230,USA,General Motors,3135.01,Automotive
+card_197,USA,Panera Bread,129.25,Restaurants
+card_31,USA,Marriott International,669.86,Hotels
+card_245,HKG,Cathay Pacific,528.91,Travel
+card_269,USA,Uniqlo,566.41,Retail
+card_448,USA,T-Mobile,851.32,Telecom
+card_4,USA,Ross Stores,205.52,Retail
+card_480,USA,Adidas,934.76,Retail
+card_463,USA,American Airlines,1049.18,Travel
+card_256,USA,Williams-Sonoma,824.16,Retail
+card_214,USA,Neiman Marcus,558.41,Retail
+card_169,USA,Zara,780.62,Retail
+card_328,USA,Bed Bath & Beyond,21.12,Retail
+card_16,USA,IKEA,819.29,Retail
+card_149,USA,Gap Inc,44.94,Retail
+card_411,USA,Nordstrom,890.46,Retail
+card_465,USA,Costco,297.67,Groceries
+card_344,USA,Netflix,18.23,Streaming
+card_373,USA,Chevron,65.75,Energy
+card_257,USA,The Home Depot,766.54,Retail
+card_150,USA,Shake Shack,83.38,Restaurants
+card_444,USA,Neiman Marcus,866.23,Retail
+card_32,USA,Costco,39.82,Groceries
+card_89,USA,Verizon,130.33,Telecom
+card_261,USA,Charter Communications,979.26,Telecom
+card_364,USA,eBay,35.32,E-commerce
+card_268,USA,Booking.com,1277.99,Hotels
+card_307,USA,Zara,327.71,Retail
+card_436,DEU,Lufthansa,1030.9,Travel
+card_315,USA,PayPal,3011.78,Technology
+card_206,FRA,Carrefour,184.91,Groceries
+card_485,USA,Universal Parks,35.71,Streaming
+card_235,USA,InterContinental Hotels,884.27,Hotels
+card_48,USA,Gap Inc,431.92,Retail
+card_249,ARE,Emirates,450.09,Travel
+card_294,USA,Williams-Sonoma,769.74,Retail
+card_1,USA,Booking.com,378.1,Hotels
+card_239,GBR,BP,147.7,Energy
+card_31,USA,T-Mobile,237.17,Telecom
+card_204,USA,TJX Companies,627.2,Retail
+card_192,USA,Uber,748.34,Retail
+card_379,USA,Shell,67.18,Energy
+card_376,USA,Delta Air Lines,136.92,Travel
+card_271,USA,Airbnb,239.91,Hotels
+card_21,USA,Shell,133.02,Energy
+card_74,USA,Booking.com,1281.7,Hotels
+card_119,USA,T-Mobile,49.77,Telecom
+card_137,USA,Nike,735.48,Retail
+card_244,USA,Nordstrom,344.61,Retail
+card_140,USA,Gap Inc,481.14,Retail
+card_455,USA,Saks Fifth Avenue,929.22,Retail
+card_223,USA,Hilton,531.36,Hotels
+card_122,USA,Hyatt,724.74,Hotels
+card_96,USA,KFC,13.97,Restaurants
+card_143,DEU,Lidl,33.66,Groceries
+card_87,USA,T-Mobile,262.3,Telecom
+card_243,USA,General Motors,236.48,Automotive
+card_277,USA,Wendys,193.1,Restaurants
+card_167,USA,Chick-fil-A,133.66,Restaurants
+card_462,USA,Subway,168.96,Restaurants
+card_371,USA,Dominos Pizza,60.65,Restaurants
+card_195,USA,Saks Fifth Avenue,299.45,Retail
+card_498,USA,Ticketmaster,665.51,Ticketing
+card_144,USA,Trader Joes,289.94,Groceries
+card_20,USA,Target,24.62,Groceries
+card_322,USA,Lowes,890.93,Retail
+card_214,USA,eBay,30.96,E-commerce
+card_381,USA,Starbucks,173.54,Restaurants
+card_315,USA,Spotify,27.51,Streaming
+card_408,USA,Kroger,30.12,Groceries
+card_211,USA,Etsy,9.04,E-commerce
+card_489,USA,Bed Bath & Beyond,602.91,Retail
+card_239,USA,Booking.com,544.39,Hotels
+card_348,USA,TJX Companies,917.68,Retail
+card_110,USA,Nordstrom,409.56,Retail
+card_312,USA,Booking.com,257.76,Hotels
+card_478,GBR,BP,151.5,Energy
+card_321,USA,Hyatt,475.36,Hotels
+card_21,USA,Wendys,162.39,Restaurants
+card_3,USA,Lululemon,699.34,Retail
+card_458,DEU,Lufthansa,1355.38,Travel
+card_265,USA,Expedia,1198.68,Hotels
+card_443,USA,Saks Fifth Avenue,677.98,Retail
+card_409,USA,Hyatt,1035.47,Hotels
+card_344,USA,Kroger,284.32,Groceries
+card_132,USA,Charter Communications,299.34,Telecom
+card_88,USA,InterContinental Hotels,51.61,Hotels
+card_146,USA,Expedia,444.33,Hotels
+card_22,USA,United Airlines,365.94,Travel
+card_94,DEU,Lidl,201.93,Groceries
+card_219,USA,Safeway,193.78,Groceries
+card_158,USA,Comcast,595.49,Telecom
+card_201,USA,Southwest Airlines,73.55,Travel
+card_181,USA,Dominos Pizza,221.35,Restaurants
+card_116,DEU,Lufthansa,519.12,Travel
+card_84,USA,Dunkin,202.87,Restaurants
+card_299,JPN,Toyota,2827.23,Automotive
+card_76,USA,Trader Joes,109.39,Groceries
+card_253,USA,Wendys,49.03,Restaurants
+card_276,USA,Disney,9.25,Streaming
+card_237,USA,Gap Inc,832.36,Retail
+card_250,USA,PayPal,4600.15,Technology
+card_90,USA,Wendys,198.44,Restaurants
+card_477,GBR,Tesco,40.0,Groceries
+card_124,USA,Microsoft,2069.93,Technology
+card_109,DEU,Lufthansa,1106.96,Travel
+card_330,USA,IKEA,780.92,Retail
+card_428,USA,eBay,10.32,E-commerce
+card_91,USA,Trader Joes,10.01,Groceries
+card_398,USA,Adidas,713.58,Retail
+card_14,GBR,British Airways,567.06,Travel
+card_168,USA,Publix,83.8,Groceries
+card_384,USA,Booking.com,68.7,Hotels
+card_314,USA,Williams-Sonoma,542.6,Retail
+card_68,USA,Saks Fifth Avenue,851.89,Retail
+card_6,USA,Lululemon,957.84,Retail
+card_123,USA,Williams-Sonoma,567.92,Retail
+card_185,USA,Kroger,159.19,Groceries
+card_24,USA,Best Buy,89.63,Retail
+card_334,USA,Taco Bell,169.17,Restaurants
+card_301,DEU,Lufthansa,600.97,Travel
+card_6,USA,Wayfair,32.32,E-commerce
+card_34,USA,Adidas,391.78,Retail
+card_91,USA,Tesla,1277.47,Automotive
+card_242,USA,Ticketmaster,99.49,Ticketing
+card_379,USA,Microsoft,1643.1,Technology
+card_246,HKG,Cathay Pacific,190.14,Travel
+card_383,HKG,Cathay Pacific,306.5,Travel
+card_302,USA,Airbnb,1481.64,Hotels
+card_224,USA,Google,2276.11,Technology
+card_449,USA,The Home Depot,534.21,Retail
+card_22,USA,Ford,4380.73,Automotive
+card_430,USA,eBay,49.8,E-commerce
+card_494,USA,Marriott International,894.94,Hotels
+card_290,USA,Wendys,245.62,Restaurants
+card_257,USA,Gap Inc,330.31,Retail
+card_109,USA,Papa Johns,98.67,Restaurants
+card_144,USA,American Airlines,633.92,Travel
+card_382,USA,Ford,3395.29,Automotive
+card_335,USA,PayPal,3442.74,Technology
+card_386,USA,Marriott International,507.1,Hotels
+card_408,DEU,Aldi,48.63,Groceries
+card_144,USA,CVS Health,634.23,Retail
+card_291,FRA,Air France-KLM,236.07,Travel
+card_302,USA,Neiman Marcus,580.6,Retail
+card_349,USA,Hyatt,1055.46,Hotels
+card_347,USA,Verizon,702.11,Telecom
+card_379,JPN,Toyota,3792.01,Automotive
+card_172,USA,Apple,4377.01,Technology
+card_307,USA,Williams-Sonoma,502.46,Retail
+card_77,USA,Kohls,731.6,Retail
+card_355,USA,Chick-fil-A,189.56,Restaurants
+card_130,USA,Marriott International,320.63,Hotels
+card_446,FRA,Carrefour,17.45,Groceries
+card_497,USA,Comcast,288.12,Telecom
+card_337,USA,CVS Health,445.82,Retail
+card_88,JPN,Toyota,3123.82,Automotive
+card_333,USA,T-Mobile,850.71,Telecom
+card_288,USA,Spotify,13.83,Streaming
+card_206,USA,Tesla,715.19,Automotive
+card_165,USA,Shell,193.79,Energy
+card_342,GBR,British Airways,206.66,Travel
+card_36,USA,AT&T,481.1,Telecom
+card_200,USA,Nike,587.64,Retail
+card_317,USA,Ross Stores,543.67,Retail
+card_190,USA,Publix,34.95,Groceries
+card_343,USA,Papa Johns,26.54,Restaurants
+card_196,USA,Five Guys,40.59,Restaurants
+card_249,USA,The Home Depot,587.66,Retail
+card_226,USA,Hyatt,839.3,Hotels
+card_476,USA,United Airlines,388.92,Travel
+card_4,USA,AT&T,639.59,Telecom
+card_495,USA,Amazon,41.9,E-commerce
+card_164,USA,Shell,37.07,Energy
+card_70,GBR,British Airways,772.29,Travel
+card_398,USA,Expedia,1049.5,Hotels
+card_52,SGP,Singapore Airlines,415.85,Travel
+card_141,USA,Kroger,99.25,Groceries
+card_194,DEU,Lufthansa,939.77,Travel
+card_234,USA,Saks Fifth Avenue,898.45,Retail
+card_96,USA,Subway,244.88,Restaurants
+card_187,USA,Etsy,31.24,E-commerce
+card_131,JPN,Toyota,3678.09,Automotive
+card_417,USA,Verizon,368.0,Telecom
+card_476,USA,Chevron,138.96,Energy
+card_410,USA,Nike,468.85,Retail
+card_485,USA,Williams-Sonoma,193.99,Retail
+card_112,USA,AT&T,703.23,Telecom
+card_23,USA,KFC,171.37,Restaurants
+card_8,USA,Neiman Marcus,361.83,Retail
+card_22,USA,T-Mobile,911.78,Telecom
+card_253,USA,Taco Bell,16.07,Restaurants
+card_145,USA,Microsoft,1647.29,Technology
+card_456,USA,Wayfair,7.56,E-commerce
+card_129,USA,Amazon,39.49,E-commerce
+card_320,USA,Zara,703.6,Retail
+card_475,USA,Neiman Marcus,334.7,Retail
+card_280,USA,American Airlines,1029.71,Travel
+card_187,SGP,Singapore Airlines,624.11,Travel
+card_371,USA,Ross Stores,757.47,Retail
+card_176,SGP,Singapore Airlines,708.57,Travel
+card_142,USA,Delta Air Lines,647.81,Travel
+card_418,USA,Charter Communications,935.06,Telecom
+card_299,FRA,Carrefour,82.75,Groceries
+card_487,USA,Adidas,124.85,Retail
+card_31,USA,Uber,586.62,Retail
+card_18,USA,InterContinental Hotels,1455.52,Hotels
+card_464,GBR,British Airways,597.87,Travel
+card_62,USA,Comcast,66.73,Telecom
+card_443,USA,Ford,1762.6,Automotive
+card_233,USA,Saks Fifth Avenue,508.4,Retail
+card_186,USA,H&M,166.11,Retail
+card_390,ARE,Emirates,1004.25,Travel
+card_332,USA,Amazon,49.9,E-commerce
+card_288,USA,Ticketmaster,454.48,Ticketing
+card_188,GBR,British Airways,564.36,Travel
+card_17,USA,Burger King,126.2,Restaurants
+card_126,USA,InterContinental Hotels,216.96,Hotels
+card_57,USA,Google,4428.04,Technology
+card_162,USA,Williams-Sonoma,417.75,Retail
+card_155,USA,Google,1997.64,Technology
+card_82,USA,Ford,3332.48,Automotive
+card_221,USA,TJX Companies,444.82,Retail
+card_67,USA,Dominos Pizza,197.99,Restaurants
+card_149,GBR,British Airways,139.1,Travel
+card_77,USA,Booking.com,1229.9,Hotels
+card_66,USA,ExxonMobil,189.89,Energy
+card_360,DEU,Aldi,198.14,Groceries
+card_469,USA,Bed Bath & Beyond,954.79,Retail
+card_1,USA,Chick-fil-A,53.92,Restaurants
+card_422,USA,Chick-fil-A,148.45,Restaurants
+card_346,USA,Gap Inc,603.8,Retail
+card_232,USA,American Airlines,893.52,Travel
+card_403,USA,Starbucks,126.42,Restaurants
+card_72,USA,Zara,341.39,Retail
+card_450,USA,Lululemon,131.19,Retail
+card_73,USA,Bed Bath & Beyond,394.78,Retail
+card_12,USA,Ford,897.04,Automotive
+card_197,USA,Uniqlo,735.69,Retail
+card_140,USA,Zara,212.79,Retail
+card_55,USA,Five Guys,26.98,Restaurants
+card_272,USA,KFC,170.19,Restaurants
+card_100,USA,AT&T,597.25,Telecom
+card_158,USA,Papa Johns,262.85,Restaurants
+card_43,USA,eBay,30.96,E-commerce
+card_67,USA,AT&T,348.75,Telecom
+card_491,USA,eBay,41.14,E-commerce
+card_375,HKG,Cathay Pacific,833.4,Travel
+card_101,USA,Pizza Hut,32.99,Restaurants
+card_462,USA,Bed Bath & Beyond,568.02,Retail
+card_17,USA,Lululemon,908.48,Retail
+card_139,USA,ExxonMobil,97.37,Energy
+card_95,USA,Walgreens,299.84,Retail
+card_264,USA,Best Buy,147.75,Retail
+card_239,USA,Trader Joes,53.92,Groceries
+card_428,USA,Google,2220.58,Technology
+card_4,USA,IKEA,597.7,Retail
+card_487,USA,Zara,85.21,Retail
+card_112,USA,Amazon,47.28,E-commerce
+card_349,USA,Airbnb,1144.94,Hotels
+card_267,SGP,Singapore Airlines,900.6,Travel
+card_219,USA,Wayfair,42.28,E-commerce
+card_33,USA,Burger King,33.25,Restaurants
+card_29,USA,Chick-fil-A,148.28,Restaurants
+card_10,USA,Williams-Sonoma,631.94,Retail
+card_461,GBR,Tesco,250.31,Groceries
+card_74,USA,Adidas,784.55,Retail
+card_306,HKG,Cathay Pacific,451.75,Travel
+card_416,GBR,BP,189.95,Energy
+card_268,USA,Five Guys,46.06,Restaurants
+card_445,USA,Ross Stores,875.76,Retail
+card_12,FRA,Air France-KLM,1457.86,Travel
+card_270,USA,ExxonMobil,60.12,Energy
+card_86,FRA,Air France-KLM,1097.0,Travel
+card_87,USA,Etsy,6.81,E-commerce
+card_375,USA,Chevron,98.92,Energy
+card_471,USA,Subway,159.72,Restaurants
+card_18,USA,Publix,178.39,Groceries
+card_420,USA,Google,4686.09,Technology
+card_413,USA,Verizon,673.89,Telecom
+card_59,USA,Adidas,483.87,Retail
+card_32,USA,Burger King,244.81,Restaurants
+card_415,USA,IKEA,950.78,Retail
+card_78,USA,Costco,16.4,Groceries
+card_374,FRA,Air France-KLM,1474.66,Travel
+card_441,USA,Hilton,174.89,Hotels
+card_7,DEU,Aldi,246.17,Groceries
+card_406,USA,Shake Shack,91.3,Restaurants
+card_352,USA,AMC Theatres,10.95,Streaming
+card_68,USA,Zara,442.66,Retail
+card_352,USA,Ross Stores,645.74,Retail
+card_183,GBR,BP,94.76,Energy
+card_478,USA,American Airlines,129.12,Travel
+card_417,USA,Hyatt,919.22,Hotels
+card_208,USA,Wayfair,45.61,E-commerce
+card_230,USA,Nike,386.3,Retail
+card_207,USA,Uniqlo,220.25,Retail
+card_82,HKG,Cathay Pacific,691.74,Travel
+card_83,USA,Taco Bell,24.03,Restaurants
+card_473,USA,PayPal,4120.39,Technology
+card_290,USA,Chick-fil-A,249.64,Restaurants
+card_89,USA,Saks Fifth Avenue,590.06,Retail
+card_49,SGP,Singapore Airlines,562.0,Travel
+card_416,USA,Shopify,40.99,E-commerce
+card_249,USA,Neiman Marcus,556.91,Retail
+card_343,USA,Subway,249.52,Restaurants
+card_486,GBR,Tesco,193.12,Groceries
+card_198,USA,Uniqlo,785.48,Retail
+card_168,USA,AT&T,600.57,Telecom
+card_133,USA,Amazon,23.64,E-commerce
+card_53,FRA,Carrefour,287.8,Groceries
+card_175,JPN,Toyota,2751.46,Automotive
+card_6,USA,Shopify,32.23,E-commerce
+card_340,USA,Amazon,14.92,E-commerce
+card_127,USA,Zara,627.52,Retail
+card_196,USA,CVS Health,573.75,Retail
+card_71,USA,Hilton,318.02,Hotels
+card_455,USA,Marriott International,136.4,Hotels
+card_231,DEU,Aldi,185.26,Groceries
+card_449,USA,Expedia,1157.35,Hotels
+card_298,USA,ExxonMobil,118.98,Energy
+card_169,USA,Kohls,230.64,Retail
+card_27,USA,Subway,203.29,Restaurants
+card_6,USA,Saks Fifth Avenue,84.71,Retail
+card_316,USA,Booking.com,690.66,Hotels
+card_247,USA,AMC Theatres,12.35,Streaming
+card_114,USA,Nordstrom,188.54,Retail
+card_91,USA,Five Guys,68.67,Restaurants
+card_74,USA,Booking.com,610.73,Hotels
+card_435,USA,Walmart,24.83,Groceries
+card_64,USA,Etsy,22.9,E-commerce
+card_424,HKG,Cathay Pacific,791.98,Travel
+card_444,USA,The Home Depot,485.88,Retail
+card_16,USA,CVS Health,385.87,Retail
+card_82,USA,Gap Inc,839.95,Retail
+card_55,FRA,Air France-KLM,260.72,Travel
+card_114,USA,Best Buy,508.17,Retail
+card_490,USA,KFC,27.99,Restaurants
+card_261,USA,Williams-Sonoma,75.8,Retail
+card_237,USA,Best Buy,576.0,Retail
+card_498,USA,Walmart,174.15,Groceries
+card_41,USA,Zara,878.64,Retail
+card_71,USA,American Airlines,858.92,Travel
+card_360,USA,United Airlines,1441.7,Travel
+card_322,USA,The Home Depot,53.45,Retail
+card_114,USA,Best Buy,102.52,Retail
+card_112,USA,Neiman Marcus,48.85,Retail
+card_32,USA,Best Buy,189.35,Retail
+card_147,GBR,British Airways,834.84,Travel
+card_328,USA,AMC Theatres,34.05,Streaming
+card_197,USA,Uniqlo,50.36,Retail
+card_271,USA,Subway,284.33,Restaurants
+card_343,USA,Dunkin,254.23,Restaurants
+card_4,USA,Delta Air Lines,480.09,Travel
+card_191,USA,Nordstrom,81.8,Retail
+card_331,USA,Netflix,12.64,Streaming
+card_149,DEU,Aldi,46.81,Groceries
+card_204,USA,Ticketmaster,127.67,Ticketing
+card_264,USA,Airbnb,801.91,Hotels
+card_90,USA,Adidas,249.62,Retail
+card_350,USA,Starbucks,113.86,Restaurants
+card_198,USA,Lululemon,989.56,Retail
+card_84,USA,Adidas,685.89,Retail
+card_458,USA,Subway,285.2,Restaurants
+card_78,DEU,Aldi,51.34,Groceries
+card_385,USA,Saks Fifth Avenue,385.23,Retail
+card_444,USA,Wendys,170.87,Restaurants
+card_220,USA,Starbucks,32.26,Restaurants
+card_456,USA,Walmart,11.21,Groceries
+card_2,USA,Wendys,204.43,Restaurants
+card_436,USA,Zara,643.61,Retail
+card_490,USA,Zara,413.73,Retail
+card_218,USA,Google,2499.26,Technology
+card_406,USA,Target,130.48,Groceries
+card_277,USA,Nordstrom,28.89,Retail
+card_72,USA,Regal Cinemas,20.09,Streaming
+card_462,USA,Etsy,12.97,E-commerce
+card_463,USA,Williams-Sonoma,102.93,Retail
+card_318,USA,Chevron,192.64,Energy
+card_188,USA,Costco,183.81,Groceries
+card_397,USA,Nike,730.01,Retail
+card_56,USA,Shopify,19.19,E-commerce
+card_393,USA,PayPal,2026.42,Technology
+card_216,USA,Ford,1260.93,Automotive
+card_459,USA,Apple,575.13,Technology
+card_95,USA,Target,61.92,Groceries
+card_388,USA,Expedia,1206.4,Hotels
+card_301,FRA,Carrefour,206.49,Groceries
+card_50,USA,Taco Bell,168.61,Restaurants
+card_329,DEU,Lufthansa,738.88,Travel
+card_143,SGP,Singapore Airlines,1387.53,Travel
+card_452,USA,Microsoft,456.4,Technology
+card_452,USA,Disney,17.63,Streaming
+card_287,USA,Verizon,353.19,Telecom
+card_14,USA,Kohls,783.51,Retail
+card_413,USA,Chipotle,297.83,Restaurants
+card_81,USA,Disney,15.83,Streaming
+card_278,USA,Charter Communications,874.94,Telecom
+card_419,USA,Ross Stores,831.47,Retail
+card_392,GBR,BP,68.19,Energy
+card_233,USA,Universal Parks,22.97,Streaming
+card_164,USA,Uber,412.62,Retail
+card_404,USA,Hilton,1468.42,Hotels
+card_227,USA,Ford,986.37,Automotive
+card_16,USA,Kohls,800.16,Retail
+card_350,USA,Ford,1737.54,Automotive
+card_337,USA,Dominos Pizza,221.95,Restaurants
+card_195,USA,Burger King,131.8,Restaurants
+card_47,GBR,BP,128.32,Energy
+card_431,USA,Ticketmaster,833.45,Ticketing
+card_291,USA,Charter Communications,805.14,Telecom
+card_349,USA,Target,261.26,Groceries
+card_257,USA,Marriott International,136.45,Hotels
+card_147,USA,KFC,210.69,Restaurants
+card_247,USA,Bed Bath & Beyond,144.29,Retail
+card_387,USA,Delta Air Lines,652.94,Travel
+card_218,USA,Shopify,29.69,E-commerce
+card_171,USA,KFC,126.79,Restaurants
+card_92,USA,Apple,2646.1,Technology
+card_261,USA,Chick-fil-A,298.99,Restaurants
+card_43,USA,Walmart,49.21,Groceries
+card_305,USA,Chick-fil-A,205.88,Restaurants
+card_220,FRA,Air France-KLM,624.2,Travel
+card_117,USA,Apple,751.75,Technology
+card_161,USA,Costco,56.03,Groceries
+card_443,USA,H&M,949.53,Retail
+card_395,USA,Uber,880.2,Retail
+card_31,USA,Zara,907.51,Retail
+card_300,USA,T-Mobile,991.58,Telecom
+card_337,GBR,Tesco,70.41,Groceries
+card_38,USA,Target,113.08,Groceries
+card_499,USA,Apple,3379.17,Technology
+card_230,USA,Shopify,26.77,E-commerce
+card_176,USA,Safeway,131.33,Groceries
+card_34,USA,McDonalds,113.77,Restaurants
+card_231,USA,Pizza Hut,182.2,Restaurants
+card_131,USA,Panera Bread,176.92,Restaurants
+card_34,HKG,Cathay Pacific,284.11,Travel
+card_26,USA,Uber,474.38,Retail
+card_308,USA,Starbucks,170.51,Restaurants
+card_395,USA,Airbnb,876.92,Hotels
+card_175,USA,Chick-fil-A,70.93,Restaurants
+card_243,USA,Netflix,38.4,Streaming
+card_429,USA,Microsoft,223.48,Technology
+card_36,USA,Lululemon,358.06,Retail
+card_377,USA,General Motors,3923.04,Automotive
+card_443,USA,KFC,173.53,Restaurants
+card_107,USA,The Home Depot,264.86,Retail
+card_344,USA,Zara,696.48,Retail
+card_362,USA,Saks Fifth Avenue,569.55,Retail
+card_356,USA,CVS Health,797.26,Retail
+card_430,USA,Regal Cinemas,38.08,Streaming
+card_314,USA,Regal Cinemas,32.45,Streaming
+card_170,USA,Dominos Pizza,151.57,Restaurants
+card_438,USA,Trader Joes,48.62,Groceries
+card_113,USA,Amazon,16.76,E-commerce
+card_240,USA,Hyatt,657.69,Hotels
+card_484,USA,Chevron,131.88,Energy
+card_242,USA,Nike,516.14,Retail
+card_266,USA,Williams-Sonoma,291.74,Retail
+card_168,USA,Starbucks,11.87,Restaurants
+card_420,USA,Delta Air Lines,769.55,Travel
+card_428,USA,Delta Air Lines,464.16,Travel
+card_154,USA,Walmart,223.04,Groceries
+card_129,USA,Williams-Sonoma,28.83,Retail
+card_324,USA,United Airlines,898.0,Travel
+card_478,USA,Apple,4713.22,Technology
+card_328,USA,Verizon,178.54,Telecom
+card_439,USA,Burger King,146.78,Restaurants
+card_345,USA,General Motors,547.97,Automotive
+card_227,USA,Papa Johns,191.45,Restaurants
+card_339,USA,Kohls,552.78,Retail
+card_290,USA,Ticketmaster,410.33,Ticketing
+card_408,USA,General Motors,2654.75,Automotive
+card_454,USA,Google,4493.22,Technology
+card_467,USA,Zara,200.31,Retail
+card_155,USA,Hyatt,82.72,Hotels
+card_173,USA,CVS Health,862.36,Retail
+card_179,USA,Walgreens,579.23,Retail
+card_345,USA,Tesla,4464.23,Automotive
+card_360,USA,Shopify,31.86,E-commerce
+card_18,USA,Comcast,811.11,Telecom
+card_465,USA,Chick-fil-A,134.61,Restaurants
+card_358,USA,Chick-fil-A,227.46,Restaurants
+card_234,USA,United Airlines,1373.91,Travel
+card_217,USA,Taco Bell,175.92,Restaurants
+card_104,USA,Ross Stores,184.88,Retail
+card_230,USA,Pizza Hut,87.95,Restaurants
+card_397,DEU,Aldi,67.61,Groceries
+card_236,USA,McDonalds,81.59,Restaurants
+card_435,USA,Chipotle,98.86,Restaurants
+card_201,USA,Lowes,557.36,Retail
+card_312,USA,TJX Companies,590.05,Retail
+card_375,USA,H&M,429.37,Retail
+card_12,USA,American Airlines,942.36,Travel
+card_404,USA,Booking.com,168.28,Hotels
+card_493,USA,Papa Johns,35.46,Restaurants
+card_319,USA,Netflix,12.73,Streaming
+card_372,USA,Comcast,520.49,Telecom
+card_52,USA,Nordstrom,217.92,Retail
+card_301,USA,Trader Joes,92.15,Groceries
+card_55,USA,ExxonMobil,98.05,Energy
+card_140,USA,TJX Companies,812.81,Retail
+card_382,USA,InterContinental Hotels,70.1,Hotels
+card_221,USA,Booking.com,991.6,Hotels
+card_296,USA,Starbucks,203.97,Restaurants
+card_173,USA,Adidas,799.66,Retail
+card_246,DEU,Lidl,280.5,Groceries
+card_97,USA,TJX Companies,25.04,Retail
+card_454,USA,Saks Fifth Avenue,158.01,Retail
+card_68,USA,eBay,44.88,E-commerce
+card_104,USA,Costco,142.97,Groceries
+card_154,USA,Shell,125.98,Energy
+card_64,USA,Saks Fifth Avenue,664.71,Retail
+card_294,USA,Netflix,35.56,Streaming
+card_2,USA,eBay,46.93,E-commerce
+card_477,USA,Uber,996.96,Retail
+card_200,USA,ExxonMobil,152.43,Energy
+card_91,USA,Safeway,93.29,Groceries
+card_236,USA,Hilton,1325.64,Hotels
+card_435,USA,Hilton,121.37,Hotels
+card_377,SGP,Singapore Airlines,385.07,Travel
+card_84,USA,Shake Shack,270.24,Restaurants
+card_411,USA,Subway,84.3,Restaurants
+card_388,USA,KFC,73.99,Restaurants
+card_68,USA,Macys,142.43,Retail
+card_305,USA,Uber,859.82,Retail
+card_408,USA,Comcast,502.56,Telecom
+card_241,USA,Neiman Marcus,676.52,Retail
+card_83,USA,Uber,242.87,Retail
+card_255,GBR,BP,158.87,Energy
+card_163,USA,Microsoft,3824.03,Technology
+card_294,USA,Burger King,100.65,Restaurants
+card_307,USA,Verizon,413.63,Telecom
+card_457,USA,Ross Stores,213.64,Retail
+card_95,DEU,Lufthansa,1466.01,Travel
+card_194,USA,Chipotle,197.22,Restaurants
+card_172,USA,AMC Theatres,47.05,Streaming
+card_120,USA,Chipotle,97.98,Restaurants
+card_173,USA,InterContinental Hotels,1183.74,Hotels
+card_351,USA,Shopify,39.46,E-commerce
+card_165,USA,Pizza Hut,210.58,Restaurants
+card_224,FRA,Air France-KLM,1450.18,Travel
+card_310,USA,Uber,396.59,Retail
+card_487,USA,Gap Inc,135.06,Retail
+card_341,USA,Regal Cinemas,35.23,Streaming
+card_298,USA,Bloomingdales,730.66,Retail
+card_480,USA,AT&T,577.19,Telecom
+card_447,USA,General Motors,1113.41,Automotive
+card_186,USA,General Motors,2571.83,Automotive
+card_144,USA,Southwest Airlines,502.68,Travel
+card_107,USA,Walmart,133.97,Groceries
+card_62,USA,Chevron,139.69,Energy
+card_225,USA,Ford,3751.55,Automotive
+card_415,USA,Taco Bell,77.35,Restaurants
+card_320,USA,eBay,23.24,E-commerce
+card_319,JPN,Toyota,1418.89,Automotive
+card_263,USA,Best Buy,202.64,Retail
+card_120,USA,Marriott International,1185.91,Hotels
+card_241,USA,Gap Inc,909.71,Retail
+card_282,USA,Chevron,92.94,Energy
+card_319,USA,Chevron,157.72,Energy
+card_242,HKG,Cathay Pacific,1350.64,Travel
+card_121,USA,Chipotle,255.38,Restaurants
+card_79,USA,General Motors,995.79,Automotive
+card_189,DEU,Lidl,287.32,Groceries
+card_382,USA,Tesla,1945.71,Automotive
+card_173,USA,Hilton,541.9,Hotels
+card_380,USA,Regal Cinemas,7.81,Streaming
+card_497,USA,Wayfair,26.88,E-commerce
+card_136,USA,Chick-fil-A,41.61,Restaurants
+card_12,USA,Bed Bath & Beyond,252.3,Retail
+card_140,USA,Netflix,19.26,Streaming
+card_261,USA,Panera Bread,244.56,Restaurants
+card_366,USA,Wendys,263.89,Restaurants
+card_322,USA,Nordstrom,305.95,Retail
+card_213,USA,Amazon,43.64,E-commerce
+card_19,USA,Adidas,857.94,Retail
+card_53,SGP,Singapore Airlines,1158.74,Travel
+card_182,USA,Whole Foods,52.54,Groceries
+card_362,USA,TJX Companies,691.87,Retail
+card_160,FRA,Air France-KLM,1420.28,Travel
+card_166,USA,Williams-Sonoma,684.13,Retail
+card_203,USA,Chipotle,106.17,Restaurants
+card_357,USA,Gap Inc,503.08,Retail
+card_461,USA,Panera Bread,197.26,Restaurants
+card_199,USA,CVS Health,513.02,Retail
+card_45,USA,AMC Theatres,10.4,Streaming
+card_258,GBR,BP,83.05,Energy
+card_278,USA,Verizon,803.38,Telecom
+card_136,USA,Shell,176.44,Energy
+card_430,USA,Gap Inc,141.61,Retail
+card_72,USA,Chevron,191.91,Energy
+card_273,USA,United Airlines,526.79,Travel
+card_68,USA,Wayfair,34.8,E-commerce
+card_156,USA,Pizza Hut,228.03,Restaurants
+card_188,USA,United Airlines,1227.32,Travel
+card_447,USA,Dominos Pizza,284.27,Restaurants
+card_251,USA,Ford,1633.31,Automotive
+card_408,USA,Panera Bread,258.97,Restaurants
+card_191,USA,PayPal,745.27,Technology
+card_148,USA,Dunkin,214.46,Restaurants
+card_456,USA,Universal Parks,38.39,Streaming
+card_283,USA,Microsoft,3420.84,Technology
+card_38,USA,Tesla,1336.34,Automotive
+card_287,USA,Trader Joes,263.18,Groceries
+card_1,USA,General Motors,927.41,Automotive
+card_85,USA,Netflix,7.41,Streaming
+card_57,USA,Uber,718.88,Retail
+card_475,USA,Charter Communications,478.1,Telecom
+card_27,GBR,BP,174.35,Energy
+card_165,USA,Verizon,386.48,Telecom
+card_248,USA,Apple,924.57,Technology
+card_159,USA,Safeway,252.57,Groceries
+card_81,USA,Lululemon,551.17,Retail
+card_281,USA,Microsoft,1027.06,Technology
+card_242,USA,Verizon,721.78,Telecom
+card_56,USA,American Airlines,791.11,Travel
+card_312,USA,KFC,185.25,Restaurants
+card_469,USA,H&M,463.59,Retail
+card_154,USA,ExxonMobil,170.88,Energy
+card_494,USA,Starbucks,250.57,Restaurants
+card_397,USA,Ticketmaster,710.84,Ticketing
+card_394,USA,Starbucks,40.57,Restaurants
+card_135,USA,Burger King,253.27,Restaurants
+card_460,USA,Williams-Sonoma,672.66,Retail
+card_362,USA,Whole Foods,212.14,Groceries
+card_358,USA,H&M,366.17,Retail
+card_380,USA,Adidas,879.88,Retail
+card_423,USA,Bed Bath & Beyond,726.74,Retail
+card_170,USA,Hilton,213.26,Hotels
+card_403,USA,Charter Communications,410.74,Telecom
+card_259,USA,ExxonMobil,180.68,Energy
+card_447,USA,CVS Health,51.96,Retail
+card_363,USA,Taco Bell,288.81,Restaurants
+card_302,USA,Saks Fifth Avenue,680.77,Retail
+card_28,USA,American Airlines,965.5,Travel
+card_187,USA,General Motors,1425.74,Automotive
+card_137,DEU,Lidl,82.15,Groceries
+card_382,USA,Southwest Airlines,1415.98,Travel
+card_65,USA,Pizza Hut,96.5,Restaurants
+card_185,GBR,BP,161.84,Energy
+card_441,USA,Tesla,2026.3,Automotive
+card_1,SGP,Singapore Airlines,251.92,Travel
+card_338,USA,Pizza Hut,13.11,Restaurants
+card_297,USA,Macys,546.54,Retail
+card_240,USA,Nike,975.9,Retail
+card_180,FRA,Air France-KLM,585.25,Travel
+card_336,USA,Starbucks,113.59,Restaurants
+card_164,USA,Adidas,347.37,Retail
+card_347,FRA,Carrefour,160.96,Groceries
+card_272,USA,Kohls,443.46,Retail
+card_105,USA,Amazon,44.6,E-commerce
+card_479,USA,Subway,156.6,Restaurants
+card_151,USA,Ross Stores,510.22,Retail
+card_117,USA,Hyatt,250.64,Hotels
+card_19,USA,Target,294.99,Groceries
+card_485,USA,Apple,1324.87,Technology
+card_122,FRA,Air France-KLM,156.38,Travel
+card_255,USA,Etsy,34.84,E-commerce
+card_307,USA,AMC Theatres,31.79,Streaming
+card_63,DEU,Aldi,130.39,Groceries
+card_353,USA,Uniqlo,425.08,Retail
+card_343,USA,Microsoft,3946.81,Technology
+card_91,USA,Dominos Pizza,66.76,Restaurants
+card_191,USA,Lowes,821.15,Retail
+card_378,USA,Macys,650.5,Retail
+card_419,GBR,Tesco,131.5,Groceries
+card_60,USA,CVS Health,460.74,Retail
+card_36,USA,AMC Theatres,16.55,Streaming
+card_107,USA,Microsoft,3785.36,Technology
+card_303,USA,Saks Fifth Avenue,515.31,Retail
+card_78,USA,Uber,324.25,Retail
+card_486,USA,Starbucks,182.85,Restaurants
+card_70,USA,Pizza Hut,298.76,Restaurants
+card_384,USA,Verizon,438.09,Telecom
+card_288,USA,Publix,277.0,Groceries
+card_395,DEU,Aldi,110.05,Groceries
+card_460,USA,Costco,25.87,Groceries
+card_438,USA,Disney,14.19,Streaming
+card_261,DEU,Lufthansa,657.11,Travel
+card_107,USA,Target,73.69,Groceries
+card_88,USA,Best Buy,5.23,Retail
+card_88,DEU,Lidl,275.35,Groceries
+card_498,HKG,Cathay Pacific,1273.63,Travel
+card_18,GBR,Tesco,225.26,Groceries
+card_149,USA,IKEA,171.98,Retail
+card_373,USA,Wayfair,10.42,E-commerce
+card_244,USA,Starbucks,29.61,Restaurants
+card_129,USA,ExxonMobil,153.08,Energy
+card_180,USA,Ford,4651.16,Automotive
+card_167,USA,Burger King,134.86,Restaurants
+card_27,USA,Google,683.79,Technology
+card_273,USA,McDonalds,158.59,Restaurants
+card_341,FRA,Carrefour,111.16,Groceries
+card_165,USA,Zara,377.95,Retail
+card_189,USA,Lowes,623.22,Retail
+card_362,USA,Booking.com,1092.14,Hotels
+card_481,USA,Lululemon,115.05,Retail
+card_42,USA,Microsoft,274.39,Technology
+card_34,USA,Chevron,199.04,Energy
+card_54,USA,Tesla,1240.37,Automotive
+card_138,USA,PayPal,363.77,Technology
+card_457,USA,The Home Depot,193.93,Retail
+card_75,USA,Shell,36.62,Energy
+card_75,USA,Subway,123.63,Restaurants
+card_435,USA,Macys,803.39,Retail
+card_40,USA,Williams-Sonoma,344.54,Retail
+card_73,USA,Amazon,24.99,E-commerce
+card_209,USA,H&M,677.21,Retail
+card_117,FRA,Carrefour,157.58,Groceries
+card_255,DEU,Lufthansa,1299.1,Travel
+card_75,USA,Adidas,866.71,Retail
+card_165,USA,Tesla,148.56,Automotive
+card_450,USA,Etsy,40.01,E-commerce
+card_198,GBR,British Airways,718.06,Travel
+card_155,DEU,Lidl,296.76,Groceries
+card_463,USA,McDonalds,150.14,Restaurants
+card_370,USA,Dominos Pizza,296.2,Restaurants
+card_368,USA,Verizon,755.8,Telecom
+card_383,USA,Hyatt,410.48,Hotels
+card_267,USA,Ford,2738.14,Automotive
+card_465,USA,Netflix,49.65,Streaming
+card_273,FRA,Carrefour,258.68,Groceries
+card_150,GBR,Tesco,38.24,Groceries
+card_324,USA,General Motors,3561.22,Automotive
+card_27,USA,Saks Fifth Avenue,348.85,Retail
+card_62,USA,Apple,134.21,Technology
+card_339,USA,Netflix,23.16,Streaming
+card_433,USA,T-Mobile,238.58,Telecom
+card_186,USA,Chipotle,247.47,Restaurants
+card_381,USA,AMC Theatres,20.18,Streaming
+card_217,USA,H&M,828.39,Retail
+card_11,USA,Airbnb,50.87,Hotels
+card_498,USA,Nordstrom,311.28,Retail
+card_47,ARE,Emirates,399.69,Travel
+card_410,USA,Trader Joes,77.73,Groceries
+card_26,USA,Microsoft,434.11,Technology
+card_7,USA,Bloomingdales,191.19,Retail
+card_433,USA,Kroger,171.11,Groceries
+card_161,USA,Kroger,94.49,Groceries
+card_144,USA,Taco Bell,131.04,Restaurants
+card_72,FRA,Air France-KLM,596.46,Travel
+card_404,USA,Whole Foods,264.01,Groceries
+card_412,USA,McDonalds,272.54,Restaurants
+card_376,USA,Hyatt,764.79,Hotels
+card_302,USA,Whole Foods,105.75,Groceries
+card_48,USA,Charter Communications,111.27,Telecom
+card_173,USA,Kohls,953.64,Retail
+card_146,USA,Expedia,137.33,Hotels
+card_90,USA,Neiman Marcus,301.16,Retail
+card_422,USA,H&M,301.58,Retail
+card_226,USA,AT&T,323.8,Telecom
+card_300,USA,Gap Inc,168.47,Retail
+card_442,USA,Netflix,40.24,Streaming
+card_100,USA,McDonalds,45.52,Restaurants
+card_443,USA,Disney,33.57,Streaming
+card_268,USA,Booking.com,229.58,Hotels
+card_333,USA,H&M,75.18,Retail
+card_467,GBR,Tesco,273.73,Groceries
+card_102,USA,Wendys,65.14,Restaurants
+card_484,USA,Lowes,822.14,Retail
+card_382,USA,Southwest Airlines,839.71,Travel
+card_334,USA,Booking.com,162.89,Hotels
+card_305,USA,Whole Foods,287.08,Groceries
+card_107,USA,Regal Cinemas,16.11,Streaming
+card_428,USA,Etsy,43.68,E-commerce
+card_72,USA,Uniqlo,172.97,Retail
+card_146,HKG,Cathay Pacific,1288.22,Travel
+card_307,USA,Best Buy,18.16,Retail
+card_27,USA,Walmart,158.42,Groceries
+card_388,USA,Chevron,160.81,Energy
+card_33,USA,Papa Johns,281.09,Restaurants
+card_330,GBR,BP,184.56,Energy
+card_362,USA,Tesla,4116.16,Automotive
+card_281,USA,Whole Foods,267.58,Groceries
+card_387,USA,Bloomingdales,203.22,Retail
+card_5,USA,Comcast,287.76,Telecom
+card_26,USA,Dunkin,93.8,Restaurants
+card_165,USA,Expedia,596.73,Hotels
+card_429,USA,Taco Bell,124.06,Restaurants
+card_479,GBR,BP,122.57,Energy
+card_193,USA,Lululemon,164.08,Retail
+card_4,USA,Publix,210.46,Groceries
+card_397,USA,Netflix,12.54,Streaming
+card_204,ARE,Emirates,499.95,Travel
+card_13,GBR,British Airways,779.85,Travel
+card_435,FRA,Air France-KLM,1204.84,Travel
+card_226,USA,Nordstrom,740.77,Retail
+card_267,USA,Bed Bath & Beyond,647.31,Retail
+card_286,USA,AT&T,159.99,Telecom
+card_336,USA,Ticketmaster,549.31,Ticketing
+card_474,USA,Bloomingdales,92.01,Retail
+card_481,USA,Wayfair,21.98,E-commerce
+card_222,USA,Papa Johns,129.92,Restaurants
+card_47,USA,American Airlines,107.73,Travel
+card_23,USA,Saks Fifth Avenue,277.62,Retail
+card_415,USA,Neiman Marcus,955.87,Retail
+card_271,USA,Microsoft,4772.8,Technology
+card_453,USA,Panera Bread,112.17,Restaurants
+card_426,USA,Subway,22.5,Restaurants
+card_116,USA,Charter Communications,183.2,Telecom
+card_164,USA,Costco,123.74,Groceries
+card_457,USA,Saks Fifth Avenue,948.04,Retail
+card_69,USA,KFC,50.95,Restaurants
+card_71,USA,Chipotle,231.42,Restaurants
+card_34,USA,Google,632.54,Technology
+card_118,USA,KFC,294.56,Restaurants
+card_72,USA,The Home Depot,384.71,Retail
+card_492,USA,Panera Bread,234.82,Restaurants
+card_260,GBR,Tesco,109.35,Groceries
+card_135,USA,Marriott International,960.12,Hotels
+card_462,USA,Airbnb,328.42,Hotels
+card_301,USA,Best Buy,150.29,Retail
+card_78,USA,Southwest Airlines,1410.19,Travel
+card_234,GBR,Tesco,276.12,Groceries
+card_328,USA,Walgreens,888.03,Retail
+card_433,ARE,Emirates,956.88,Travel
+card_312,USA,IKEA,809.23,Retail
+card_309,USA,Gap Inc,73.69,Retail
+card_234,USA,Apple,1740.47,Technology
+card_149,USA,Amazon,19.12,E-commerce
+card_381,USA,Five Guys,194.34,Restaurants
+card_289,USA,Costco,113.23,Groceries
+card_453,USA,Uniqlo,152.76,Retail
+card_235,USA,Whole Foods,182.98,Groceries
+card_147,SGP,Singapore Airlines,1230.86,Travel
+card_358,USA,AMC Theatres,22.2,Streaming
+card_437,ARE,Emirates,241.79,Travel
+card_398,USA,Spotify,13.85,Streaming
+card_497,USA,American Airlines,394.35,Travel
+card_24,USA,Macys,303.4,Retail
+card_102,USA,Papa Johns,196.41,Restaurants
+card_43,USA,Wendys,184.27,Restaurants
+card_454,USA,Subway,211.86,Restaurants
+card_327,USA,Kohls,365.69,Retail
+card_204,USA,Delta Air Lines,1244.8,Travel
+card_126,USA,Target,69.19,Groceries
+card_218,USA,Zara,471.7,Retail
+card_396,USA,Marriott International,1211.36,Hotels
+card_375,USA,Macys,184.26,Retail
+card_224,USA,Charter Communications,114.31,Telecom
+card_216,USA,CVS Health,884.27,Retail
+card_245,USA,Whole Foods,109.45,Groceries
+card_244,GBR,Tesco,208.32,Groceries
+card_298,USA,Burger King,17.35,Restaurants
+card_278,USA,Neiman Marcus,691.6,Retail
+card_363,USA,Macys,319.52,Retail
+card_251,USA,Delta Air Lines,130.82,Travel
+card_301,USA,IKEA,611.76,Retail
+card_461,USA,InterContinental Hotels,399.17,Hotels
+card_388,USA,Burger King,122.17,Restaurants
+card_341,USA,Charter Communications,85.18,Telecom
+card_249,USA,Saks Fifth Avenue,151.43,Retail
+card_48,USA,IKEA,301.49,Retail
+card_355,USA,Wendys,36.03,Restaurants
+card_275,USA,ExxonMobil,184.84,Energy
+card_450,USA,Safeway,11.75,Groceries
+card_386,USA,Williams-Sonoma,486.44,Retail
+card_249,USA,Adidas,127.63,Retail
+card_103,USA,eBay,18.85,E-commerce
+card_95,USA,Adidas,926.43,Retail
+card_51,USA,Saks Fifth Avenue,165.89,Retail
+card_425,USA,PayPal,4832.58,Technology
+card_216,USA,Chick-fil-A,69.68,Restaurants
+card_36,USA,ExxonMobil,156.07,Energy
+card_449,USA,Neiman Marcus,548.94,Retail
+card_80,JPN,Toyota,4433.95,Automotive
+card_202,USA,Costco,170.66,Groceries
+card_338,USA,Pizza Hut,165.02,Restaurants
+card_115,ARE,Emirates,333.41,Travel
+card_315,USA,Saks Fifth Avenue,170.4,Retail
+card_331,USA,Booking.com,1378.91,Hotels
+card_444,USA,Southwest Airlines,525.37,Travel
+card_317,USA,Panera Bread,117.9,Restaurants
+card_462,USA,eBay,39.19,E-commerce
+card_20,USA,Ross Stores,342.13,Retail
+card_358,USA,Hyatt,1430.49,Hotels
+card_209,USA,Trader Joes,224.0,Groceries
+card_152,USA,Uber,599.44,Retail
+card_369,USA,Nordstrom,881.49,Retail
+card_37,USA,ExxonMobil,38.43,Energy
+card_136,USA,KFC,84.55,Restaurants
+card_249,USA,ExxonMobil,109.06,Energy
+card_498,USA,ExxonMobil,68.59,Energy
+card_9,USA,Trader Joes,225.73,Groceries
+card_463,USA,Pizza Hut,276.57,Restaurants
+card_125,USA,Zara,426.65,Retail
+card_205,USA,Shell,88.16,Energy
+card_204,USA,T-Mobile,961.74,Telecom
+card_407,USA,Verizon,447.63,Telecom
+card_383,USA,Bloomingdales,491.6,Retail
+card_228,USA,Panera Bread,111.98,Restaurants
+card_495,USA,InterContinental Hotels,1368.85,Hotels
+card_122,USA,Kroger,175.0,Groceries
+card_111,USA,Kroger,231.03,Groceries
+card_188,USA,Booking.com,1227.12,Hotels
+card_199,USA,Lululemon,345.14,Retail
+card_344,USA,Lululemon,436.53,Retail
+card_364,USA,Costco,256.06,Groceries
+card_449,USA,Kroger,115.34,Groceries
+card_237,USA,Universal Parks,40.73,Streaming
+card_91,USA,Bed Bath & Beyond,941.29,Retail
+card_199,USA,Regal Cinemas,33.04,Streaming
+card_268,USA,Publix,225.07,Groceries
+card_115,USA,Universal Parks,41.23,Streaming
+card_246,USA,Nike,845.81,Retail
+card_253,USA,AMC Theatres,22.78,Streaming
+card_324,USA,Apple,351.19,Technology
+card_248,USA,Verizon,404.87,Telecom
+card_460,USA,Trader Joes,205.39,Groceries
+card_75,DEU,Aldi,140.6,Groceries
+card_284,USA,Kohls,750.22,Retail
+card_73,USA,American Airlines,567.62,Travel
+card_434,USA,Burger King,194.08,Restaurants
+card_37,USA,AMC Theatres,13.39,Streaming
+card_272,USA,Wayfair,38.72,E-commerce
+card_317,USA,Marriott International,841.26,Hotels
+card_58,USA,Nike,208.04,Retail
+card_330,USA,The Home Depot,295.45,Retail
+card_476,JPN,Toyota,3768.18,Automotive
+card_146,USA,Subway,149.95,Restaurants
+card_6,USA,Bed Bath & Beyond,219.95,Retail
+card_306,USA,Chick-fil-A,290.51,Restaurants
+card_480,USA,Uniqlo,716.55,Retail
+card_214,USA,Ross Stores,957.35,Retail
+card_241,USA,PayPal,2192.81,Technology
+card_133,USA,Wendys,147.78,Restaurants
+card_430,USA,InterContinental Hotels,1352.04,Hotels
+card_311,USA,Chipotle,162.26,Restaurants
+card_400,USA,IKEA,708.74,Retail
+card_392,USA,Uniqlo,255.91,Retail
+card_165,USA,General Motors,2288.96,Automotive
+card_454,USA,Microsoft,704.9,Technology
+card_18,USA,H&M,209.95,Retail
+card_203,USA,Papa Johns,10.27,Restaurants
+card_468,USA,Macys,44.07,Retail
+card_61,USA,ExxonMobil,196.14,Energy
+card_442,USA,McDonalds,80.28,Restaurants
+card_64,GBR,BP,142.76,Energy
+card_459,USA,Microsoft,4211.59,Technology
+card_174,FRA,Carrefour,169.69,Groceries
+card_359,USA,Whole Foods,54.41,Groceries
+card_278,USA,The Home Depot,729.48,Retail
+card_109,USA,eBay,32.01,E-commerce
+card_369,USA,Wendys,222.06,Restaurants
+card_201,JPN,Toyota,3871.76,Automotive
+card_471,USA,Whole Foods,292.87,Groceries
+card_44,USA,InterContinental Hotels,881.67,Hotels
+card_478,USA,Starbucks,109.08,Restaurants
+card_19,USA,Bloomingdales,650.22,Retail
+card_486,USA,Spotify,8.08,Streaming
+card_302,USA,Lowes,897.91,Retail
+card_477,USA,Ross Stores,123.78,Retail
+card_89,USA,Burger King,105.07,Restaurants
+card_113,USA,Tesla,4097.15,Automotive
+card_115,USA,Bloomingdales,599.33,Retail

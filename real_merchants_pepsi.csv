@@ -1,0 +1,20 @@
+merchant_name,raw_response
+Pepsi,"
+    Additionally, based on the extracted information and your general knowledge about Pepsi's business operations:
+    Are there any specific industries or sectors where Pepsi is a dominant player? If so, what are they?
+support: {
+    ""merchant_name"": ""Pepsi"",
+    ""country"": ""United States"",
+    ""city"": """",
+    ""number_of_customers"": ""Not Available"",
+    ""daily_customers"": ""Not Available"",
+    ""yearly_revenue"": ""$36.8 billion (2021)"",
+    ""valuation"": ""$157 billion (2021)"",
+    ""years_in_business"": ""Over 129 years"",
+    ""founded_year"": ""1893"",
+    ""sector"": ""Food & Beverages, Retail"",
+    ""num_employees"": ""Approximately 265,000 (2021)""
+}
+
+Based on the extracted information and general knowledge about Pepsi's business operations:
+PepsiCo is a dominant player in several industries including food and beverages. They have a significant presence in sectors such as soft drinks (both carbonated and non-carbonated), snacks, juices, dairy products, and nutritional wellness products. PepsiCo operates globally with a strong market position, especially in the international markets for beverages."
