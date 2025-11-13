@@ -488,10 +488,10 @@ if st.session_state.search_results is not None:
     col1, col2, col3 = st.columns([1, 1, 2])
     
     with col1:
-        csv2 = st.session_state.search_results.to_csv(index=False)
+        csv3 = st.session_state.search_results.to_csv(index=False)
         st.download_button(
             label=f"📥 Download Synthetic Persona for {st.session_state.last_search}",
-            data=csv2,
+            data=csv3,
             file_name=f"{st.session_state.last_search}_synthetic_persona.csv",
             mime="text/csv",
             use_container_width=True
