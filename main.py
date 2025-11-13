@@ -200,14 +200,18 @@ def match_customers(customer_name: str, embedding: List[float], data: pd.DataFra
             simi = findSimilarity(embedding, w2)
             all_simi.loc[len(all_simi)] = [w1, row['merchant_name'], "Dummy", simi]
     matches = all_simi.sort_values('Match Score',ascending=False)
+    print("#"*50, matches)
     top_merchant = matches.loc[0]['Merchant Matched']
-    categories = pd.read_csv("transactions_labelled.csv")
+    print("Top merchant",top_merchant)
+    categories = pd.read_csv("merchant_clusters_unique.csv")
     # print(categories[categories['merchant_name'] == top_merchant])
     top_persona = categories[categories['merchant_name'] == top_merchant].reset_index()['merchant_cluster_name'].values[0]
-    labelled_data = pd.read_csv("./transactions_labelled.csv")
-    top10_merchants_relevant = labelled_data[labelled_data['merchant_cluster_name'] == top_persona].reset_index()['merchant_name'][0]
+    print("#"*50, top_persona,f" for {customer_name}")
+    # labelled_data = pd.read_csv("./transactions_labelled.csv")
+    top10_merchants_relevant = categories[categories['merchant_cluster_name'] == top_persona].reset_index()['merchant_name'].values
     matches['Persona'] = top_persona
-    matches = matches[matches['Merchant Matched'].isin([top10_merchants_relevant])].sort_values('Match Score',ascending=False).head(10)[cols]
+    matches = matches[matches['Merchant Matched'].isin(top10_merchants_relevant)].sort_values('Match Score',ascending=False).head(10)[cols]
+    print("Matches", matches)
     return matches
 
 def get_top10_closest(input_value: str):

@@ -670,16 +670,16 @@ def name_and_tag_clusters(df, entity_type='customer'):
                 'refund_rate': cluster_data['refund_rate'].mean(),
             })
             
-            if profile['avg_ticket_size'] > df['avg_ticket_size'].quantile(0.75):
+            if profile['avg_ticket_size'] > df['avg_ticket_size'].quantile(0.6):
                 name = "Premium Merchants"
                 tags = ['high-value', 'premium', 'luxury']
-            elif profile['transaction_volume'] > df['transaction_count'].quantile(0.75):
+            elif profile['transaction_volume'] > df['transaction_count'].quantile(0.78):
                 name = "High-Volume Merchants"
                 tags = ['busy', 'popular', 'high-traffic']
-            elif profile['decline_rate'] > df['decline_rate'].quantile(0.75):
+            elif profile['decline_rate'] > df['decline_rate'].quantile(0.55):
                 name = "High-Risk Merchants"
                 tags = ['risky', 'high-decline', 'problematic']
-            elif profile['refund_rate'] > df['refund_rate'].quantile(0.75):
+            elif profile['refund_rate'] > df['refund_rate'].quantile(0.5):
                 name = "High-Refund Merchants"
                 tags = ['returns', 'customer-issues', 'quality-concerns']
             else:

@@ -1,2 +1,11 @@
 Query,Merchant Matched,Persona,Match Score
-Google,Panera Bread,Standard Merchants,0.3088923011348198
+Google,General Motors,Premium Merchants,0.5499010878217178
+Google,Microsoft,Premium Merchants,0.5488186336677972
+Google,Comcast,Premium Merchants,0.524202276524071
+Google,Chevron,Premium Merchants,0.49540958814276165
+Google,Walmart,Premium Merchants,0.47642786925021663
+Google,Spotify,Premium Merchants,0.4689496879269846
+Google,Tesla,Premium Merchants,0.4519267131895492
+Google,Dunkin,Premium Merchants,0.44539209342612
+Google,Charter Communications,Premium Merchants,0.4238800695773209
+Google,Lululemon,Premium Merchants,0.3574519171911265
