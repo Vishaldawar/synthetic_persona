@@ -1,11 +1,2 @@
-input,match,score
-Pepsi,Starbucks,0.5855527176178856
-Pepsi,McDonald's,0.5253963143531611
-Pepsi,Whole Foods,0.49998394993242345
-Pepsi,Disney,0.49234933105502526
-Pepsi,BP,0.4860989991903815
-Pepsi,Dominos Pizza,0.48350175977559723
-Pepsi,Comcast,0.46961087775025634
-Pepsi,Papa Johns,0.4694592336786454
-Pepsi,Nike,0.46728545975519015
-Pepsi,Subway,0.46262936466516835
+Query,Merchant Matched,Persona,Match Score
+Pepsi,Panera Bread,Standard Merchants,0.2727282344452875

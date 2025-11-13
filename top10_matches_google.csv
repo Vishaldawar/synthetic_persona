@@ -1,11 +1,2 @@
-input,match,score
-Google,Google,1.0
-Google,General Motors,0.5499010878217178
-Google,Microsoft,0.5488186336677972
-Google,Comcast,0.524202276524071
-Google,Amazon,0.5170374574468963
-Google,Uber,0.5136670290571491
-Google,Apple,0.5074059593863567
-Google,Chevron,0.49540958814276165
-Google,Disney,0.48993916185104674
-Google,Nike,0.4816931070172308
+Query,Merchant Matched,Persona,Match Score
+Google,Panera Bread,Standard Merchants,0.3088923011348198

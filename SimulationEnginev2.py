@@ -398,9 +398,10 @@ def main():
         st.header("âš™ï¸ Configuration")
         
         # Model path
+        # value="C:/Users/E151270/OneDrive - Mastercard/Documents/Projects/ChatBot Development/Deep Seek/",
         model_path = st.text_input(
             "DeepSeek Model Path",
-            value="C:/Users/E151270/OneDrive - Mastercard/Documents/Projects/ChatBot Development/Deep Seek/",
+            value = "../../Downloads/deep_seek",
             help="Path to your DeepSeek model directory"
         )
         

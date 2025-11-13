@@ -188,8 +188,8 @@ def match_customers(customer_name: str, embedding: List[float], data: pd.DataFra
     """
     Finds the top 3 similar job names based on the input query using levenshtein similarity w1 and w2.
     """
-
-    all_simi = pd.DataFrame(columns=['input','match','score'])
+    cols = ['Query','Merchant Matched','Persona','Match Score']
+    all_simi = pd.DataFrame(columns=cols)
     for idx, row in data.iterrows():
         w1 = customer_name
         for col in ['embedding']:
@@ -198,17 +198,25 @@ def match_customers(customer_name: str, embedding: List[float], data: pd.DataFra
             # print(w2, embedding, w2.shape, embedding.shape)
             # embedding = np.array([float(x) for x in embedding.replace("[","").replace("]","").split(",")])
             simi = findSimilarity(embedding, w2)
-            all_simi.loc[len(all_simi)] = [w1, row['merchant_name'], simi]
-    matches = all_simi.sort_values('score',ascending=False).head(10)[['input','match','score']]
+            all_simi.loc[len(all_simi)] = [w1, row['merchant_name'], "Dummy", simi]
+    matches = all_simi.sort_values('Match Score',ascending=False)
+    top_merchant = matches.loc[0]['Merchant Matched']
+    categories = pd.read_csv("transactions_labelled.csv")
+    # print(categories[categories['merchant_name'] == top_merchant])
+    top_persona = categories[categories['merchant_name'] == top_merchant].reset_index()['merchant_cluster_name'].values[0]
+    labelled_data = pd.read_csv("./transactions_labelled.csv")
+    top10_merchants_relevant = labelled_data[labelled_data['merchant_cluster_name'] == top_persona].reset_index()['merchant_name'][0]
+    matches['Persona'] = top_persona
+    matches = matches[matches['Merchant Matched'].isin([top10_merchants_relevant])].sort_values('Match Score',ascending=False).head(10)[cols]
     return matches
 
-def get_top10_closest(input_value):
+def get_top10_closest(input_value: str):
     all_files = os.listdir("./")
     pattern = input_value.lower().replace(" ","_").replace(".","")
     file_name = f"real_merchants_{pattern}.csv"
-    if file_name in all_files or input_value.lower() in [x.lower() for x in data['merchant_name'].unique()]:
-        data_path = f"real_merchants_info.csv"
-        attributes_path = f"attributes.csv"
+    if file_name in all_files:
+        attributes_n_embeddings_path = f"attributes_n_embeddings_{pattern}.csv"
+    elif input_value.lower() in [x.lower() for x in data['merchant_name'].unique()]:
         attributes_n_embeddings_path = f"attributes_n_embeddings.csv"
     else:
         data_path = f"real_merchants_{pattern}.csv"
@@ -216,7 +224,10 @@ def get_top10_closest(input_value):
         attributes_n_embeddings_path = f"attributes_n_embeddings_{pattern}.csv"
     match_data = pd.read_csv("attributes_n_embeddings.csv")
     pattern = input_value.lower().replace(" ","_").replace(".","")
+    print(attributes_n_embeddings_path)
     customer_data = pd.read_csv(attributes_n_embeddings_path)
+    # print(customer_data.shape)
+    # print(customer_data.head(10))
 
     embedding = customer_data[customer_data['merchant_name'] == input_value]['embedding'].values[0]
     embedding = ast.literal_eval(embedding)
@@ -304,13 +315,13 @@ def generate_synthetic_merchants(
         else:
             synthetic_like[col] = synthetic_like[col].round(2)
 
-    synthetic_like["merchant"] = synthetic_like["merchant"]
+    synthetic_like["merchant_name"] = synthetic_like["merchant_name"]
 
     # --- Combine both
     df['type'] = 'real'
     synthetic_like['type'] = 'synthetic'
     augmented_df = pd.concat([df, synthetic_like], ignore_index=True)
-    augmented_df['merchant'] = name
+    augmented_df['merchant_name'] = name
     return augmented_df
 
 
@@ -356,21 +367,6 @@ if 'last_search' not in st.session_state:
 if search_button and merchant_name:
     with st.spinner(f"Searching for information about {merchant_name}..."):
         try:
-            # TODO: Replace this with your actual function call
-            # Example: df = your_search_function(merchant_name)
-            
-            # Placeholder - Replace this section with your actual code
-            # This is where you'll call your existing function that:
-            # 1. Takes merchant_name as input
-            # 2. Uses LLM to search the internet
-            # 3. Returns a pandas DataFrame
-            
-            # Example integration:
-            # from your_module import search_merchant_data
-            # df = search_merchant_data(merchant_name)
-            
-            # For demonstration, creating a sample dataframe
-            # REMOVE THIS and replace with your actual function
             pattern = merchant_name.lower().replace(" ","_").replace(".","")
             if merchant_name in data['merchant_name'].unique():
                 df = data[data['merchant_name'] == merchant_name].T.reset_index()
@@ -472,8 +468,9 @@ if st.session_state.search_results is not None:
 
 
     st.divider()
-    all_transactions = pd.read_csv("all_transactions.csv")
-    all_txns = all_transactions[all_transactions['merchant'].isin(matches['match'].unique())].reset_index(drop=True)
+    # all_transactions = pd.read_csv("all_transactions.csv")
+    all_transactions = pd.read_csv("transactions_raw.csv")
+    all_txns = all_transactions[all_transactions['merchant_name'].isin(matches['Merchant Matched'].unique())].reset_index(drop=True)
     synthetic_txns = generate_synthetic_merchants(merchant_name, all_txns, n_synthetic=1000)
     st.session_state.search_results = synthetic_txns
     st.subheader(f"Synthetic Transactions generated for : {st.session_state.last_search}")
