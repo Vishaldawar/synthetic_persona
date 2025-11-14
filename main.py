@@ -26,32 +26,37 @@ from transformers import AutoModelForCausalLM
 data = pd.read_csv("attributes.csv")
 
 def get_new_customer_attributes(input_value):
-    # llm = LlamaCpp(
-    #     model_path = '/Users/vishaldawar/Phi-3-mini-4k-instruct-fp16.gguf',
-    #     n_gpu_layers=-1,
-    #     max_tokens=500,
-    #     n_ctx = 2048,
-    #     seed=42,
-    #     verbose=False
-    # )
+    llm = LlamaCpp(
+        model_path = '/Users/vishaldawar/Phi-3-mini-4k-instruct-fp16.gguf',
+        n_gpu_layers=-1,
+        max_tokens=500,
+        n_ctx = 2048,
+        seed=42,
+        verbose=False
+    )
     # Example model URL (Hugging Face file link)
-    url = "https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf/resolve/main/Phi-3-mini-4k-instruct-fp16.gguf"
-    local_path = "Phi-3-mini-4k-instruct-fp16.gguf"
+    # url = "https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf/resolve/main/Phi-3-mini-4k-instruct-fp16.gguf"
+    # local_path = "Phi-3-mini-4k-instruct-fp16.gguf"
 
     # Download if not already present
-    if not os.path.exists(local_path):
-        print("📥 Downloading model from web...")
-        response = requests.get(url, stream=True)
-        with open(local_path, "wb") as f:
-            for chunk in response.iter_content(chunk_size=8192):
-                f.write(chunk)
-        print("✅ Download complete.")
+    # if not os.path.exists(local_path):
+    #     print("📥 Downloading model from web...")
+    #     response = requests.get(url, stream=True)
+    #     with open(local_path, "wb") as f:
+    #         for chunk in response.iter_content(chunk_size=8192):
+    #             f.write(chunk)
+    #     print("✅ Download complete.")
 
     # llm = LLM(model="huggyllama/llama-7b", dtype=torch.bfloat16, quantization="bitsandbytes")
-    llm = AutoModelForCausalLM.from_pretrained(
-    "marella/gpt-2-ggml",
-    model_type="gpt2"
-    )
+    # llm = AutoModelForCausalLM.from_pretrained(
+    # "marella/gpt-2-ggml",
+    # model_type="gpt2"
+    # )
+    # llm = AutoModelForCausalLM.from_pretrained(
+    # pretrained_model_name_or_path = '/Users/vishaldawar/Phi-3-mini-4k-instruct-fp16.gguf',
+    # model_type="gpt2"
+    # )
+    
     # Now load with LlamaCpp
     # llm = Llama(
     #     model_path=local_path,
@@ -234,7 +239,7 @@ def match_customers(customer_name: str, embedding: List[float], data: pd.DataFra
             all_simi.loc[len(all_simi)] = [w1, row['merchant_name'], "Dummy", simi]
     matches = all_simi.sort_values('Match Score',ascending=False)
     # print("#"*50, matches)
-    # top_merchant = matches.loc[0]['Merchant Matched']
+    top_merchant = matches.loc[0]['Merchant Matched']
     # print("Top merchant",top_merchant)
     categories = pd.read_csv("merchant_clusters_unique.csv")
     # print(categories[categories['merchant_name'] == top_merchant])
